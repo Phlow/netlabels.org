@@ -1,0 +1,9 @@
+- name: Twitter
+  url: https://twitter.com/netlabels
+  class: icon-twitter
+  title: "Quick & Fresh News on Twitter"
+
+- name: Facebook
+  url: http://www.facebook.com/netlabels
+  class: icon-facebook
+  title: "Lass uns Freunde sein!"

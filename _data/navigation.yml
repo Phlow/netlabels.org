@@ -1,0 +1,28 @@
+- title: Start
+  url: "/"
+  side: left
+
+- title: New
+  url: /news/
+  side: left
+  dropdown:
+  - title: Netlabels
+    url: /netlabels/
+  - title: Releases
+    url: /releases/
+
+- title: History
+  url: /history/
+  side: left
+
+- title: "Submit"
+  url: "/submit/"
+  side: right
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right

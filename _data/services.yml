@@ -1,0 +1,11 @@
+- menu_name: "Services"
+
+- name: "Contact"
+  url: "/contact/"
+  class: "services-contact"
+  title: "Contact"
+
+- name: "RSS"
+  url: "/feed.xml"
+  class: "rss-link"
+  title: "Subscribe to RSS"
