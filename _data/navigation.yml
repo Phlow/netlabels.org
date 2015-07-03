@@ -2,27 +2,39 @@
   url: "/"
   side: left
 
-- title: New
-  url: /news/
+- title: Netaudio News
+  url: http://netaudio.netlabels.org/
   side: left
-  dropdown:
-  - title: Netlabels
-    url: /netlabels/
-  - title: Releases
-    url: /releases/
+
+# - title: New
+#   url: /news/
+#   side: left
+#   dropdown:
+#   - title: Netlabels
+#     url: /netlabels/
+#   - title: Releases
+#     url: /releases/
 
 - title: History
   url: /history/
   side: left
 
-- title: "Submit"
-  url: "/submit/"
-  side: right
+- title: Blog
+  url: /blog/
+  side: left
 
-- title: "Search"
-  url: "/search/"
-  side: right
+# - title: "Submit"
+#   url: "/submit/"
+#   side: right
 
-- title: "Contact"
-  url: "/contact/"
+# - title: "Search"
+#   url: "/search/"
+#   side: right
+
+# - title: "Contact"
+#   url: "/contact/"
+#   side: right
+
+- title: "Impressum"
+  url: "http://phlow.de/impressum/"
   side: right

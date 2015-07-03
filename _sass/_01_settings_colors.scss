@@ -1,5 +1,6 @@
 /* TOC – Color Variables
 
+- Phlow Color Variables
 - Basics
 - Corporate Identity Colorpalette
 - Foundation Color Variables
@@ -10,7 +11,56 @@
 
 */
 
+/* Phlow Color Variables
+------------------------------------------------------------------- */
 
+
+// Phlow Colors
+$phlow-hell: #f5b6c9;
+$phlow-mittel: #d4007a;
+$phlow-dunkel: #900055;
+
+$phlow-haupt-hell: #fabb00;
+$phlow-haupt-mittel: #aa0132;
+$phlow-haupt-dunkel: #4b4b4d;
+
+// Phlow CI
+// Hauptfarben
+$phlow-dunkel-grau: #4b4b4d;
+$phlow-dunkel-braun: #771e1e;
+$phlow-rotbraun: #aa0132;
+$phlow-orange: #fabb00;
+
+// Netlabels
+$phlow-dunkel-gruen: #00792c;
+$phlow-mittel-gruen: #6a9519;
+$phlow-hell-gruen: #acca57;
+
+// Video
+$phlow-dunkel-rot: #e05a10;
+$phlow-mittel-orange: #f29400;
+$phlow-hell-gelb: #ffe444;
+
+// Seminare
+$phlow-dunkel-blau: #005380;
+$phlow-mittel-blau: #0085ba;
+$phlow-hell-blau: #82cbd0;
+
+// Webdesign
+$phlow-dunkel-violett: #900055;
+$phlow-mittel-mangenta: #d4007a;
+$phlow-hell-pink: #f5b6c9;
+
+// Journalismus
+$phlow-dunkel-graubraun: #6b6351;
+$phlow-mittel-graubraun: #aaa296;
+$phlow-hell-graubraun: #e1dcd7;
+
+// Grautöne
+$phlow-grau-sehr-hell: #f0f0f0;
+$phlow-grau-hell: #7e7e7e;
+$phlow-grau-mittel: #4b4b4b;
+$phlow-grau-dunkel: #323232;
 
 /* Basics
 ------------------------------------------------------------------- */
@@ -25,24 +75,26 @@ $body-bg: 			#fdfdfd;
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
-$ci-1: #334D5C;		// dark turquoise
-$ci-2: #45B29D;		// turquoise
-$ci-3: #EFC94C;		// yellow
-$ci-4: #E27A3F;		// orange
-$ci-5: #DF4949;		// red
-$ci-6: #A1D044;     // green
+$ci-1: $phlow-dunkel-gruen;		// dark turquoise
+$ci-2: $phlow-mittel-gruen;		// turquoise
+$ci-3: $phlow-hell-gruen;		// yellow
+$ci-4: $phlow-dunkel-rot;		// orange
+$ci-5: $phlow-mittel-orange;		// red
+$ci-6: $phlow-dunkel-gruen;     // green
+
+
 
 
 
 /* Foundation Color Variables
 ------------------------------------------------------------------- */
 
-$primary-color: $ci-1;
-$secondary-color: $ci-6;
-$alert-color: $ci-5;
-$success-color: $ci-6;
-$warning-color: $ci-4;
-$info-color: $ci-1;
+$primary-color: $phlow-dunkel-gruen;
+$secondary-color: $phlow-mittel-gruen;
+$alert-color: $phlow-mittel-orange;
+$success-color: $phlow-dunkel-gruen;
+$warning-color: $phlow-dunkel-rot;
+$info-color: $phlow-dunkel-blau;
 
 
 
@@ -106,7 +158,7 @@ $topbar-menu-icon-color-toggled: $ci-6;
 
 $footer-bg: $grey-8;
 $footer-color: #fff;
-$footer-link-color: $ci-6;
+$footer-link-color: $phlow-hell-gruen;
 
 
 $subfooter-bg: $grey-13;

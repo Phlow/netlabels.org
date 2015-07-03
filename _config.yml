@@ -12,16 +12,16 @@ title: "Netlabels.org"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: ""
+slogan: "Netlabel & Netaudio Resource"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: ""
+description: "Netlabels.org is your resource for netlabel and netaudio culture. Find free music in our archive and find out more about netlabel history."
 
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "https://netlabels.org"
+url: "http://netlabels.org"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
@@ -34,7 +34,7 @@ baseurl: ""
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "https://netlabels.org/images/"
+urlimg: "http://netlabels.org/images/"
 
 
 # Logo size is 600x80 pixels
@@ -155,8 +155,8 @@ msapplication_tilecolor:                "#fabb00"
 og_image:                           ""
 og_locale:                          "en_EN"
 og_type:                            "website"
-og_title:                           ""
-og_description:                     ""
+og_title:                           "Netlabels.org – Netlabel & Netaudio Resource"
+og_description:                     "Netlabels.org is your resource for netlabel and netaudio culture. Find free music in our archive and find out more about netlabel history."
 # og_url:                           ""
 # og_site_name:                     ""
 
