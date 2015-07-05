@@ -206,3 +206,19 @@ sass:
 
 # google_analytics_tracking_id: 
 
+
+
+#      ______      ____          __  _                 
+#     / ____/___  / / /__  _____/ /_(_)___  ____  _____
+#    / /   / __ \/ / / _ \/ ___/ __/ / __ \/ __ \/ ___/
+#   / /___/ /_/ / / /  __/ /__/ /_/ / /_/ / / / (__  ) 
+#   \____/\____/_/_/\___/\___/\__/_/\____/_/ /_/____/  
+#                                                      
+
+collections:
+  netlabel:
+    output: true
+    permalink: /:path/
+  release:
+    output: true
+    permalink: /:path/

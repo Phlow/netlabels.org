@@ -16,5 +16,20 @@ widget-3:
     text: "We're finally starting over... But you have to be patient. We feed our little project in our rare spare time."
     image: widget-listening-music.jpg
 ---
+<div class="row t60">
+<div class="medium-6 columns" markdown="1">
+
+## Netlabels
+
+{% include list-collection.html collection='netlabel' %}
 
 
+</div><!-- /.medium-6.columns -->
+<div class="medium-6 columns" markdown="1">
+
+## Releases
+
+{% include list-collection.html collection='release' %}
+
+</div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
