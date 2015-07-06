@@ -1,9 +1,10 @@
 ---
 layout: netlabel
-title: Epsilonlab
+netlabel_name: Epsilonlab
+netlabel_id: eps
+netlabel_logo: "https://archive.org/services/img/epsilonlab"
 netlabel_website: "https://archive.org/details/epsilonlab"
-netlabel_id: epsilonlab
-category:
+categories:
     - electronic music
 tags:
     - techno

@@ -1,0 +1,20 @@
+{% comment %}
+*   
+*   This include lets you loop through a collection to list
+*   all entries in that collection.
+*   
+*   If you set »published: false« in front matter of a collection page 
+*   the page gots filtered out via unless
+*
+*   Example: {% include list-collection.html collection='wordpress' %}
+*   
+{% endcomment %}
+
+<ul class="side-nav">
+  {% for netlabel in site.netlabel %}
+    {% unless netlabel.published == false %}
+    <li><a href="{{ site.url }}{{ netlabel.url }}">{{ netlabel.netlabel_name }}</a></li>
+    {% endunless %}
+  {% endfor %}
+  <li>&nbsp;</li>
+</ul>

@@ -21,7 +21,7 @@ widget-3:
 
 ## Netlabels
 
-{% include list-collection.html collection='netlabel' %}
+{% include list-netlabels %}
 
 
 </div><!-- /.medium-6.columns -->
@@ -29,7 +29,7 @@ widget-3:
 
 ## Releases
 
-{% include list-collection.html collection='release' %}
+{% include list-releases %}
 
 </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->

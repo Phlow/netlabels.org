@@ -1,11 +1,13 @@
 ---
 layout: release
-title: Paul Keeley - Rocky Mountain Funk
-netlabel: Epsilonlab
+netlabel_name: Epsilonlab
 netlabel_id: eps
+release_artist: Paul Keeley
+release_title: Rocky Mountain Funk
 release_id: eps07
 release_url: "https://archive.org/details/eps07"
 release_cover: "https://archive.org/download/eps07/eps07.jpg"
+release_date: 
 categories:
     - electronic music
 tags:
