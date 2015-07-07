@@ -2,21 +2,20 @@
   url: "/"
   side: left
 
-- title: Netaudio News
-  url: http://netaudio.netlabels.org/
+- title: Netlabels
+  url: /netlabels/
   side: left
 
-# - title: New
-#   url: /news/
-#   side: left
-#   dropdown:
-#   - title: Netlabels
-#     url: /netlabels/
-#   - title: Releases
-#     url: /releases/
+- title: Releases
+  url: /releases/
+  side: left
 
 - title: History
   url: /history/
+  side: left
+
+- title: Netaudio News
+  url: http://netaudio.netlabels.org/
   side: left
 
 - title: Blog
