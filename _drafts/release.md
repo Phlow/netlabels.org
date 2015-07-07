@@ -3,7 +3,7 @@ layout: release
 #
 #   Netlabel of Release
 #
-netlabel: 
+netlabel_name: 
 netlabel_id: 
 #
 #   Release Info
