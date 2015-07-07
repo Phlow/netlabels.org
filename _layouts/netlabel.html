@@ -39,26 +39,25 @@ format: netlabel
 			<span itemprop="articleSection">
 			{{ content }}
 
-			Netlabel-ID: {{ page.netlabel_id }}
+			<a class="button small radius" href="{{ page.netlabel_website }}" title="{{ page.netlabel_name }} Website @ {{ page.netlabel_website }}" target="_blank">Visit {{ page.netlabel_name }} Website ›</a>
+
+				<div id="page-meta" class="t30">
+					Netlabel-ID: {{ page.netlabel_id }}
+				</div>
 			</span>
+
 
 			<h2>Releases</h2>
 
 			<ul class="side-nav">
-  {% for release in site.release %}
-    {% if release.netlabel_id == page.netlabel_id %}
-    <li><a href="{{ site.url }}{{ release.url }}">{{ release.release_artist }} – »{{ release.release_title }}«</a></li>
-    {% endif %}
-  {% endfor %}
-  <li>&nbsp;</li>
-</ul>
+				{% for release in site.release %}
+				{% if release.netlabel_id == page.netlabel_id %}
+				<li><a href="{{ site.url }}{{ release.url }}">{{ release.release_artist }} – »{{ release.release_title }}«</a></li>
+				{% endif %}
+				{% endfor %}
+				<li>&nbsp;</li>
+			</ul>
 
-
-
-
-			{% if page.show_meta == true %}
-			{% include meta_information.html %}
-			{% endif %}
 
 			{% if page.comments == true %}
 			{% include comments.html %}

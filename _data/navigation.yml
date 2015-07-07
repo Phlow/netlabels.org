@@ -13,6 +13,9 @@
 - title: History
   url: /history/
   side: left
+  dropdown:
+  - title: Netlabel Screenshots
+    url: /history/netlabel-screenshots/
 
 - title: Netaudio News
   url: http://netaudio.netlabels.org/
