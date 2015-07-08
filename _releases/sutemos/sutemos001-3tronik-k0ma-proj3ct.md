@@ -10,7 +10,7 @@ netlabel_id: sute
 #
 release_title: K0ma Proj3ct
 release_artist: 3tronik
-release_id: sute001
+release_id: sutemos001
 release_url: "http://sutemos.shnaresys.com/en/player;page,5"
 release_cover: "http://sutemos.shnaresys.com/en/uploads/photos/4b18c070bb2a.jpg"
 release_date: 

@@ -6,14 +6,14 @@
 *   If you set »published: false« in front matter of a collection page 
 *   the page gots filtered out via unless
 *
-*   Example: {% include list-collection.html collection='wordpress' %}
+*   Example: {% include list-release %}
 *   
 {% endcomment %}
 
 <ul class="side-nav">
-  {% for release in site.release %}
+  {% for release in site.releases %}
     {% unless release.published == false %}
-    <li><a href="{{ site.url }}{{ release.url }}">{{ release.netlabel_name | upcase }} › {{ release.release_artist }} – »{{ release.release_title }}«</a></li>
+    <li><a href="{{ site.url }}{{ release.url }}"><span class="subheader">{{ release.netlabel_name | upcase }}</span> › {{ release.release_artist }} – »{{ release.release_title }}«</a></li>
     {% endunless %}
   {% endfor %}
   <li>&nbsp;</li>

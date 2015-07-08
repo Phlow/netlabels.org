@@ -204,7 +204,7 @@ sass:
 #
 # used in _includes/footer_scripts.html
 
-# google_analytics_tracking_id: 
+google_analytics_tracking_id: UA-904754-2
 
 
 
@@ -216,9 +216,12 @@ sass:
 #                                                      
 
 collections:
-  netlabel:
+  netlabels:
     output: true
     permalink: /:path/
-  release:
+  releases:
+    output: true
+    permalink: /:path/
+  reviews:
     output: true
     permalink: /:path/

@@ -10,7 +10,7 @@ netlabel_id: sute
 #
 release_title: Selektida
 release_artist: IJO
-release_id: sute026
+release_id: sutemos026
 release_url: "https://archive.org/details/Ijo-Selektidasutemos026"
 release_cover: "https://ia600402.us.archive.org/23/items/Ijo-Selektidasutemos026/index.jpg"
 release_date: 2009-11-22
