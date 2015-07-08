@@ -13,45 +13,24 @@ In our [Netlabel Screenshot Archive][2] you find early screenshots from old and 
 
 
 
-## Flyers
+## Netaudio Flyers
 
-### Thinner Netaudio Party in 2003
-
-<img src="{{ site.url }}/archive/flyer/thinner_flyer_popkomm03.jpg" alt="">
-
-
-### Netaudio Party at Evoke 2004
-
-<img src="{{ site.url }}/archive/flyer/evoke_flyer_panorama.jpg" alt="">
-
-
-## Interviews
-
-### First German Netaudio-Parties
-
-German Interview with Dirk Murschall aka [in]anace and him organising the first netlabel-music-only-driven Netaudio-Parties in Germany back in 2004.
-
-<audio controls>
-  <source src="{{ site.url }}/archive/interview/zuendfunk-04.02.16-Interview-[in]anace.mp3" type="audio/mpeg">
-</audio>
+There have been Netaudio parties all over the world dedicated to play and present artists from netlabels, DJing and doing Live-Acts. This is our [Collection of Netaudio-Flyers][4]
 
 
 
-<figure>
-<img src="{{ site.url }}/archive/article/dirkmurschall_im_stadtanzeiger_2.jpg" alt="Subsource">
-<figcaption>A German interview with one of the first netlabel heroes: [in]anace and his netlabel Subsource</figcaption>
-</figure>
+## Interviews with Netlabels and Activists
 
-
+This sub-archive represents a [collection of interviews][5] with musicians, artists, netlabel heads and netaudio activists. Currently you primarly articles in German.
 
 
 
 
  [1]: {{ site.url }}/news/start/
- [2]: {{ site.url }}/history/netlabel-screenshots//
+ [2]: {{ site.url }}/history/netlabel-screenshots/
  [3]: {{ site.url }}/contact/
- [4]: #
- [5]: #
+ [4]: {{ site.url }}/history/netaudio-flyer/
+ [5]: {{ site.url }}/history/interviews/
  [6]: #
  [7]: #
  [8]: #

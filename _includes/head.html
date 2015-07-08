@@ -3,7 +3,20 @@
 <head>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<title>{% if page.meta_title %}{{ page.meta_title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+	<title>
+		{% if page.meta_title %}
+			{{ page.meta_title }}
+		{% elsif page.layout == 'release' %}
+			»{{ page.release_title }}« by {{ page.release_artist }} on {{ page.netlabel_name }}
+		{% elsif page.layout == 'netlabel' %}
+			{{ page.netlabel_name }} Netlabel – Information, Releases, Artists
+		{% elsif page.title %}
+			{{ page.title }}
+		{% else %}{{ page.layout }}
+			{{ site.title }} – {{ site.slogan }}
+		{% endif %}
+	</title>
+
 	<link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/styles_feeling_responsive.css">
 	<script src="{{ site.url }}{{ site.baseurl }}/assets/js/modernizr.min.js"></script>
 	

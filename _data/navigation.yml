@@ -14,8 +14,12 @@
   url: /history/
   side: left
   dropdown:
+  - title: Interviews
+    url: /history/interviews/
   - title: Netlabel Screenshots
     url: /history/netlabel-screenshots/
+  - title: Netaudio Flyer
+    url: /history/netaudio-flyer/
 
 - title: Netaudio News
   url: http://netaudio.netlabels.org/
