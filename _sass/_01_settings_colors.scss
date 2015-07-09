@@ -11,6 +11,28 @@
 
 */
 
+/* Netlabels.org Color Variables
+-------------------------------------------------------------------
+
+- Dark Green #005e1d
+- Light Green #cde2b9
+- Green #86a20b
+- #acca57
+- #c7d217
+- Yellow #ffdc00
+- Ocher #ccaf00
+- Blue #009ee4
+
+*/
+
+$netlabels-org-dark-green: #005e1d;
+$netlabels-org-medium-green: #86a20b;
+$netlabels-org-light-green: #cde2b9;
+
+
+
+
+
 /* Phlow Color Variables
 ------------------------------------------------------------------- */
 
@@ -75,12 +97,12 @@ $body-bg: 			#fdfdfd;
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
-$ci-1: $phlow-dunkel-gruen;		// dark turquoise
-$ci-2: $phlow-mittel-gruen;		// turquoise
-$ci-3: $phlow-hell-gruen;		// yellow
-$ci-4: $phlow-dunkel-rot;		// orange
-$ci-5: $phlow-mittel-orange;		// red
-$ci-6: $phlow-dunkel-gruen;     // green
+$ci-1: $netlabels-org-dark-green;
+$ci-2: $netlabels-org-medium-green;
+$ci-3: $netlabels-org-light-green;
+$ci-4: $phlow-dunkel-rot;
+$ci-5: $phlow-mittel-orange;
+$ci-6: $netlabels-org-medium-green;
 
 
 
@@ -89,10 +111,10 @@ $ci-6: $phlow-dunkel-gruen;     // green
 /* Foundation Color Variables
 ------------------------------------------------------------------- */
 
-$primary-color: $phlow-dunkel-gruen;
+$primary-color: $netlabels-org-dark-green;
 $secondary-color: $phlow-mittel-gruen;
 $alert-color: $phlow-mittel-orange;
-$success-color: $phlow-dunkel-gruen;
+$success-color: $netlabels-org-dark-green;
 $warning-color: $phlow-dunkel-rot;
 $info-color: $phlow-dunkel-blau;
 
@@ -125,27 +147,27 @@ $grey-16: #0B0B0B;
 
 $topbar-bg-color: #fff;
 
-$topbar-dropdown-toggle-color: $ci-1;
+$topbar-dropdown-toggle-color: $netlabels-org-medium-green;
 
 $topbar-link-color: #000;
 $topbar-link-color-hover: #000;
-$topbar-link-color-active: #000;
-$topbar-link-color-active-hover: #000;
+$topbar-link-color-active: #fff;
+$topbar-link-color-active-hover: #fff;
 
-$topbar-dropdown-label-color: $ci-2;
+$topbar-dropdown-label-color: $netlabels-org-dark-green;
 $topbar-dropdown-link-bg-hover: $ci-6;
 
-$topbar-link-bg-active: $ci-6; // Active Navigation Link
+$topbar-link-bg-active: $netlabels-org-dark-green; // Active Navigation Link
 $topbar-link-bg-hover: $ci-6;
-$topbar-link-bg-active-hover: $ci-2;
+$topbar-link-bg-active-hover: $netlabels-org-dark-green;
 
 
 $topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
 $topbar-dropdown-link-color: #000;
-$topbar-dropdown-link-bg: $ci-2;
+$topbar-dropdown-link-bg: $netlabels-org-dark-green;
 
-$topbar-menu-link-color-toggled: $ci-1;
-$topbar-menu-icon-color-toggled: $ci-1;
+$topbar-menu-link-color-toggled: $netlabels-org-dark-green;
+$topbar-menu-icon-color-toggled: $netlabels-org-dark-green;
 $topbar-menu-link-color: #000;
 $topbar-menu-icon-color: #000;
 $topbar-menu-link-color-toggled: $ci-6;

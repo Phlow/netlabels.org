@@ -5,7 +5,7 @@ title: Intelligent Toys
 teaser: "IDM ist nicht mein Lieblingsgenre. Oftmals zerfleischen sich die Tracks wie ein Psychopath seinen eigenen Körper. Oder die melodischen Ergüsse fühlen sich an wie klebrige Zuckerberge ohne Konturen und zuviel Kunstfarbe. Die neue Compilation des jungen lithauischen Labels Sutemos umschifft jedoch gekonnt diese Riffe."
 release_title: Intelligent Toys
 release_artist: Various
-release_id: sutemos001
+release_id: sute001
 release_url: "http://sutemos.shnaresys.com/en/player;page,4"
 categories:
     - review

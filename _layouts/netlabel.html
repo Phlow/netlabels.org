@@ -50,9 +50,9 @@ format: netlabel
 			<h2>Releases</h2>
 
 			<ul class="side-nav">
-				{% for release in site.release %}
+				{% for release in site.releases %}
 				{% if release.netlabel_id == page.netlabel_id %}
-				<li><a href="{{ site.url }}{{ release.url }}">{{ release.release_artist }} – »{{ release.release_title }}«</a></li>
+				<li><a href="{{ site.url }}{{ release.url }}"><span class="subheader">{{ release.release_id }}</span> {{ release.release_artist }} – »{{ release.release_title }}«</a></li>
 				{% endif %}
 				{% endfor %}
 				<li>&nbsp;</li>
