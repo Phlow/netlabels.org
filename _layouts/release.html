@@ -24,7 +24,7 @@ format: release
 
 				<span itemprop="name">
 					<p class="subheadline">
-						{% for netlabel in site.netlabel %}
+						{% for netlabel in site.netlabels %}
 						{% if netlabel.netlabel_id == page.netlabel_id %}
 						<a href="{{ netlabel.url }}">{{ netlabel.netlabel_name }}</a>
 						{% endif %}
@@ -46,7 +46,7 @@ format: release
 			<img class="t15 b15" src="{{ page.release_cover }}" alt="Cover of {{ page.release_title }}">
 			{{ content }}
 
-			<a class="button radius small" target="_blank" href="{{ page.release_url }}">Check out & download release at {{ page.netlabel_name }}</a>
+			<a class="button radius small" target="_blank" href="{{ page.release_url }}">Check out & download release at {{ page.netlabel_name }} ›</a>
 			</span>
 
 
