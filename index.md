@@ -20,16 +20,29 @@ widget-3:
 <div class="medium-6 columns" markdown="1">
 
 ## Netlabels
+{: .b15 }
 
 {% include list-netlabels %}
+
+<a class="button radius small" href="{{ site.url }}/netlabels/">Show all netlabels ›</a>
 
 
 </div><!-- /.medium-6.columns -->
 <div class="medium-6 columns" markdown="1">
 
 ## Releases
+{: .b15 }
 
-{% include list-releases %}
+<ul class="side-nav">
+  {% for release in site.releases limit:7 %}
+    {% unless release.published == false %}
+    <li><a href="{{ site.url }}{{ release.url }}"><span class="subheader">{{ release.netlabel_name | upcase }}</span> › {{ release.release_artist }} – »{{ release.release_title }}«</a></li>
+    {% endunless %}
+  {% endfor %}
+  <li>&nbsp;</li>
+</ul>
+
+<a class="button radius small" href="{{ site.url }}/releases/">Show all releases ›</a>
 
 </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
