@@ -1,8 +1,8 @@
 ---
 layout: netlabel
 netlabel_name: Sutemos
-netlabel_id: sute
-netlabel_logo: "https://ia700408.us.archive.org/12/items/sutemos/sutemos-header.jpg"
+netlabel_id: sutemos
+netlabel_logo: "logo-sutemos.jpg"
 netlabel_website: "http://sutemos.shnaresys.com/"
 category:
     - electronic music

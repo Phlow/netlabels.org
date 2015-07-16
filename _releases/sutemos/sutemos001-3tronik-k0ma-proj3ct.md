@@ -4,7 +4,7 @@ layout: release
 #   Netlabel of Release
 #
 netlabel_name: Sutemos
-netlabel_id: sute
+netlabel_id: sutemos
 #
 #   Release Info
 #
@@ -12,7 +12,7 @@ release_title: K0ma Proj3ct
 release_artist: 3tronik
 release_id: sute001
 release_url: "http://sutemos.shnaresys.com/en/player;page,5"
-release_cover: "http://sutemos.shnaresys.com/en/uploads/photos/4b18c070bb2a.jpg"
+release_cover: "cover-sutemos001-3tronik-k0ma-proj3ct.jpg"
 release_date: 
 categories:
    - electronic music

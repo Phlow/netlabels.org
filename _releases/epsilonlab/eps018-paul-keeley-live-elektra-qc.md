@@ -4,10 +4,10 @@ netlabel_name: Epsilonlab
 netlabel_id: eps
 release_artist: Paul Keeley
 release_title: Live @ Elektra, QC
-release_id: eps07
+release_id: eps18
 release_url: "https://archive.org/details/EPS18"
-release_cover: "https://archive.org/download/eps07/eps07.jpg"
-release_date: 
+release_cover:
+release_date: 2005-07-18
 categories:
     - electronic music
 tags:

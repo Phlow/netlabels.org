@@ -6,7 +6,7 @@ release_artist: Marko Fürstenberg
 release_title: Classics
 release_id: thn078
 release_url: "https://archive.org/details/thn078"
-release_cover: "https://archive.org/download/thn078/thn078.jpg"
+release_cover: "cover-thn078-marko-fuerstenberg-classics.jpg"
 release_date: 
 categories:
    - electronic music

@@ -43,7 +43,11 @@ format: release
 			{% endif %}
 
 			<span itemprop="articleSection">
-			<img class="t15 b15" src="{{ page.release_cover }}" alt="Cover of {{ page.release_title }}">
+			
+			{% if page.release_cover %}
+			<img class="t15 b15" src="{% if page.release_cover contains 'http' %}{{ page.release_cover }}{% elsif page.release_cover %}{{ site.url }}/images/cover/{{ page.netlabel_id }}/{{ page.release_cover }}{% endif %}" alt="Cover of {{ page.release_title }}">
+			{% endif %}
+
 			{{ content }}
 
 			<a class="button radius small" target="_blank" href="{{ page.release_url }}">Check out & download release at {{ page.netlabel_name }} ›</a>

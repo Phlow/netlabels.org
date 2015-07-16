@@ -4,7 +4,7 @@ layout: release
 #   Netlabel of Release
 #
 netlabel_name: Sutemos
-netlabel_id: sute
+netlabel_id: sutemos
 #
 #   Release Info
 #
@@ -12,7 +12,7 @@ release_title: Selektida
 release_artist: IJO
 release_id: sute026
 release_url: "https://archive.org/details/Ijo-Selektidasutemos026"
-release_cover: "https://ia600402.us.archive.org/23/items/Ijo-Selektidasutemos026/index.jpg"
+release_cover: "cover-sutemos026-ijo-selektida.jpg"
 release_date: 2009-11-22
 categories:
    - electronic music

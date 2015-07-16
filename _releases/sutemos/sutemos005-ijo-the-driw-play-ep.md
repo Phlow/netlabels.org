@@ -4,7 +4,7 @@ layout: release
 #   Netlabel of Release
 #
 netlabel_name: Sutemos
-netlabel_id: sute
+netlabel_id: sutemos
 #
 #   Release Info
 #
@@ -12,7 +12,7 @@ release_title: The Driw Play EP
 release_artist: IJO
 release_id: sute005
 release_url: "http://sutemos.shnaresys.com/en/player;page,4"
-release_cover: "http://sutemos.shnaresys.com/en/uploads/photos/ee94339e78f2.jpg"
+release_cover: "cover-sutemos005-ijo-the-driw-play-ep.jpg"
 release_date: 
 categories:
    - electronic music

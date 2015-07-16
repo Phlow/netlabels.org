@@ -2,7 +2,7 @@
 layout: netlabel
 netlabel_name: Stadtgruen
 netlabel_id: stadt
-netlabel_logo: "https://archive.org/services/img/stadtgruen"
+netlabel_logo: "logo-stadtgruen.jpg"
 netlabel_website: "http://www.stadtgruenlabel.net/"
 categories:
     - electronic music

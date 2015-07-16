@@ -5,7 +5,7 @@ title: "What is Netlabels.org?"
 teaser: "It all started years ago with a passion for free minds, freedom and first of all my love for music. The term <em>netlabel</em> and its idea was still unfamiliar to most music lovers. My first contact to netlabels was – I guess – in 2000. I discovered my first netlabels through a then very active and friednly mailing list called <em>Netaudio</em>."
 permalink: "/info/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "blog/header_drop.jpg"
 show_meta: false
 ---
 My desire to collect information about netlabels, to get an overview of the phenomenon was big and I started my first list. Back then it was already difficult to keep up with all the netlabels. I think the list collected some 50 to 100 netlabels.

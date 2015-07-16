@@ -4,7 +4,7 @@ layout: release
 #   Netlabel of Release
 #
 netlabel_name: Sutemos
-netlabel_id: sute
+netlabel_id: sutemos
 #
 #   Release Info
 #

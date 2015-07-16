@@ -2,7 +2,7 @@
 layout: netlabel
 netlabel_name: Thinner
 netlabel_id: thn
-netlabel_logo: "https://archive.org/services/img/thinner"
+netlabel_logo: "logo-thinner.jpg"
 netlabel_website: "https://archive.org/details/thinner"
 categories:
     - electronic music

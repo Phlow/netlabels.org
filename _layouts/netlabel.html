@@ -25,7 +25,7 @@ format: netlabel
 				<span itemprop="name">
 					<p class="subheadline">{{ page.categories | join: ' , ' }}</p>
 					<h1>{{ page.netlabel_name }}</h1>
-					{% if page.netlabel_logo %}<img class="t15 b15" src="{{ page.netlabel_logo }}" alt="{{ page.netlabel_name }} Logo">{% endif %}
+					{% if page.netlabel_logo %}<img class="t15 b15" src="{% if page.netlabel_logo contains 'http' %}{{ page.netlabel_logo }}{% elsif page.netlabel_logo %}{{ site.url }}/images/netlabel-logo/{{ page.netlabel_logo }}{% endif %}" alt="{{ page.netlabel_name }} Logo">{% endif %}
 				</span>
 			</header>
 
