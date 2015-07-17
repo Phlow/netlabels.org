@@ -1,14 +1,12 @@
 ---
-layout: page
+layout: page-fullwidth
 subheadline: ""
 title: "Releases"
 teaser: ""
 permalink: "/releases/"
 show_meta: false
 ---
-<span class="teaser">There are currently {% include count-collection-items collection='releases' %} in our database. Happy diggin'!</span>
+<span class="teaser">There are currently {% include count-collection-items collection='releases' %} releases in our database. This list is sorted by date, where the freshest come first. Happy diggin'!</span>
 
 
-{% include list-releases %}
-
-
+{% include list-releases collection='releases' showdate='true' sort='release_date' reverse='true' %}

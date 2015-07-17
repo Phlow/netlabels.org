@@ -4,6 +4,7 @@ netlabel_name: Sutemos
 netlabel_id: sutemos
 netlabel_logo: "logo-sutemos.jpg"
 netlabel_website: "http://sutemos.shnaresys.com/"
+netlabel_archive_org: "https://archive.org/details/sutemos"
 category:
     - electronic music
 tags:

@@ -50,6 +50,14 @@ format: release
 
 			{{ content }}
 
+				<div id="page-meta" class="t30">
+					<hr>
+					Netlabel: {{ page.netlabel_name }}<br>
+					Release Date: {{ page.release_date }}<br>
+					Music Style: {{ page.tags | join: ' – ' | upcase }}
+					<hr>
+				</div>
+
 			<a class="button radius small" target="_blank" href="{{ page.release_url }}">Check out & download release at {{ page.netlabel_name }} ›</a>
 			</span>
 

@@ -4,6 +4,7 @@ netlabel_name: der kleine grüne Würfel
 netlabel_id: wuerfel
 netlabel_logo: "logo-der-kleine-gruene-wuerfel.jpg"
 netlabel_website: "http://www.derkleinegruenewuerfel.de/"
+netlabel_archive_org: "https://archive.org/details/derkleinegruenewuerfel"
 category:
     - electronic music
 tags:

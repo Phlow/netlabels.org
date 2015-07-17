@@ -13,7 +13,7 @@ release_artist: Frank Biedermann
 release_id: stadt004
 release_url: "http://www.stadtgruenlabel.net/?http://www.stadtgruenlabel.net/index.php?locator=releases&id=8"
 release_cover: "https://ia800301.us.archive.org/11/items/stadt004/stadt004_large.jpg"
-release_date: 
+release_date: 2004-08-22
 categories:
    - electronic music
 tags:

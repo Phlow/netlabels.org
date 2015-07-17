@@ -13,7 +13,7 @@ release_artist: IJO
 release_id: sute005
 release_url: "http://sutemos.shnaresys.com/en/player;page,4"
 release_cover: "cover-sutemos005-ijo-the-driw-play-ep.jpg"
-release_date: 
+release_date: 2004-09-15
 categories:
    - electronic music
 tags:

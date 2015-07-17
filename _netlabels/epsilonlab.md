@@ -3,7 +3,8 @@ layout: netlabel
 netlabel_name: Epsilonlab
 netlabel_id: eps
 netlabel_logo: "logo-epsilonlab.gif"
-netlabel_website: "https://archive.org/details/epsilonlab"
+netlabel_website:
+netlabel_archive_org: "https://archive.org/details/epsilonlab"
 categories:
     - electronic music
 tags:

@@ -7,7 +7,7 @@ release_title: Classics
 release_id: thn078
 release_url: "https://archive.org/details/thn078"
 release_cover: "cover-thn078-marko-fuerstenberg-classics.jpg"
-release_date: 
+release_date: 2005-08-10
 categories:
    - electronic music
 tags:

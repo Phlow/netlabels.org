@@ -13,7 +13,7 @@ release_artist: Martin Donath
 release_id: gruen002
 release_url: "http://www.stadtgruenlabel.net/index.php?locator=releases&id=3"
 release_cover: "http://www.stadtgruenlabel.net/images/photos/content/rc_gruen002.jpg"
-release_date: 
+release_date: 2004-03-01
 categories:
    - electronic music
 tags:

@@ -7,7 +7,7 @@ release_title: Ena
 release_id: thn055
 release_url: "https://archive.org/details/thn055"
 release_cover: "cover-thn055-selfish-ena.jpg"
-release_date: 
+release_date: 2004-04-18
 categories:
    - electronic music
 tags:

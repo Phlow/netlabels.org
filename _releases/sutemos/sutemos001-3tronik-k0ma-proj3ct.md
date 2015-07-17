@@ -13,7 +13,7 @@ release_artist: 3tronik
 release_id: sute001
 release_url: "http://sutemos.shnaresys.com/en/player;page,5"
 release_cover: "cover-sutemos001-3tronik-k0ma-proj3ct.jpg"
-release_date: 
+release_date: 2004-09-08
 categories:
    - electronic music
 tags:

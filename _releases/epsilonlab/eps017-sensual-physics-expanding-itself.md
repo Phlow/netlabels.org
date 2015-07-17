@@ -6,7 +6,7 @@ release_artist: Sensual Physics
 release_title: Expanding Itself
 release_id: eps17
 release_url: "https://archive.org/details/EPS17"
-release_cover: "http://netlabels.org/images/cover/epsilonlab/cover-eps017-sensual-physics-expanding-itself.jpg"
+release_cover: "cover-eps017-sensual-physics-expanding-itself.jpg"
 release_date: 2005-06-27
 categories:
     - electronic music

@@ -7,7 +7,7 @@ release_title: One Touch Button Music
 release_id: thn054
 release_url: "https://archive.org/details/thn054"
 release_cover: "cover-thn054-benfay-one-touch-button-music.jpg"
-release_date: 
+release_date: 2004-04-05
 categories:
    - electronic music
 tags:

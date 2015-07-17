@@ -34,15 +34,17 @@ widget-3:
 {: .b15 }
 
 <ul class="side-nav">
-  {% for release in site.releases limit:7 %}
+    {% assign sorted = (site.releases | sort: 'release_date') | reverse %}
+    {% for release in sorted limit:7 %}
     {% unless release.published == false %}
     <li><a href="{{ site.url }}{{ release.url }}"><span class="subheader">{{ release.netlabel_name | upcase }}</span> › {{ release.release_artist }} – »{{ release.release_title }}«</a></li>
     {% endunless %}
-  {% endfor %}
-  <li>&nbsp;</li>
+    {% endfor %}
+    <li>&nbsp;</li>
 </ul>
 
 <a class="button radius small" href="{{ site.url }}/releases/">Show all releases ›</a>
+
 
 </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
