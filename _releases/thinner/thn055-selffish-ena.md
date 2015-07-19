@@ -11,7 +11,7 @@ release_date: 2004-04-18
 categories:
    - electronic music
 tags:
-   - technodub
+   - dubtechno
 ---
 After three busy years with several EPs, Remixes and Compilation Tracks for Thinner it was more than about time to present the native German, but Swiss residing Thinner-Allstar Benfay within an Album context. And with One Touch Button Music he presents a heart-shaped box that contains twelve pralines of electronic music ranging through many styles. 
 

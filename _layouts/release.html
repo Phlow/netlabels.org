@@ -44,23 +44,28 @@ format: release
 
 			<span itemprop="articleSection">
 			
-			{% if page.release_cover %}
-			<img class="t15 b15" src="{% if page.release_cover contains 'http' %}{{ page.release_cover }}{% elsif page.release_cover %}{{ site.url }}/images/cover/{{ page.netlabel_id }}/{{ page.release_cover }}{% endif %}" alt="Cover of {{ page.release_title }}">
-			{% endif %}
+				{% if page.release_cover %}
+				<img class="t15 b15" src="{% if page.release_cover contains 'http' %}{{ page.release_cover }}{% elsif page.release_cover %}{{ site.url }}/images/cover/{{ page.netlabel_id }}/{{ page.release_cover }}{% endif %}" alt="Cover of {{ page.release_title }}">
+				{% endif %}
 
-			{{ content }}
+				{{ content }}
 
-				<div id="page-meta" class="t30">
-					<hr>
-					Netlabel: {{ page.netlabel_name }}<br>
-					Release Date: {{ page.release_date }}<br>
-					Music Style: {{ page.tags | join: ' – ' | upcase }}
-					<hr>
-				</div>
+					<div id="page-meta" class="t30">
+						<hr>
+						Netlabel: {{ page.netlabel_name }}<br>
+						Release Date: {{ page.release_date }}<br>
+						Music Style: {{ page.tags | join: ' – ' | upcase }}
+						<hr>
+					</div>
 
-			<a class="button radius small" target="_blank" href="{{ page.release_url }}">Check out & download release at {{ page.netlabel_name }} ›</a>
+				{% if page.release_url %}<a class="button radius small" target="_blank" href="{{ page.release_url }}">Download on {{ page.netlabel_name }} ›</a>{% endif %}
+
+				{% if page.release_url_archive_org %}<a class="button small radius" href="{{ page.release_url_archive_org }}" title="Download {{ page.release_title }} @ Archive.org" target="_blank">Download on Archive.org ›</a>{% endif %}
+
+				{% if page.release_url_scene_org %}<a class="button small radius" href="{{ page.release_url_scene_org }}" title="Download {{ page.release_title }} @ scene.org" target="_blank">Download on scene.org ›</a>{% endif %}
+
+
 			</span>
-
 
 			{% if page.show_meta == true %}
 			{% include meta_information.html %}

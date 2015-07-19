@@ -11,8 +11,9 @@ netlabel_id: sutemos
 release_title: Intelligent Toys 2
 release_artist: Various Artists
 release_id: sute007
-release_archive_url: "https://archive.org/details/sute007"
-release_cover: "http://phlow-magazine.com/wp-content/uploads/intelligent-toys-5-artwork.jpg"
+release_url: "http://sutemos.shnaresys.com/en/player;gid,8"
+release_url_archive_org: "https://archive.org/details/sute007"
+release_cover: "cover-sutemos007-various-intelligent-toys-2.jpg"
 release_date: 2004-10-25
 categories:
    - electronic music

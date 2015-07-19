@@ -11,7 +11,7 @@ release_date: 2005-08-10
 categories:
    - electronic music
 tags:
-   - technodub
+   - dubtechno
 ---
 "Classics" is the fifth release Thinner release of german techdub wizard Marko Fürstenberg, who is one of the most prolific artists within the realms of Netaudio. After the 2003 "Gesamtlaufzeit" longplayer we haven't seen a new release from him 'cause since then Marko has been busy emphasizing on a more pounding minimal direction in order to further develop his pure dubtech by merging his sound with more reduced elements.
 
