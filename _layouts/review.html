@@ -37,15 +37,23 @@ format: review
 
 			<span itemprop="articleSection">
 			{{ content }}
+
+				<div id="page-meta" class="t30">
+					<hr>
+					{% if page.netlabel_name %}Netlabel: <a href="{{ page.netlabel_url }}" target="_blank">{{ page.netlabel_name }}</a>{% endif %}<br>
+					{% if page.categories %}Music Category: {{ page.categories | join: ' – ' | upcase }}{% endif %}<br>
+					Style: {% for tag in page.tags %}<span class="icon-price-tag pr10"> {{tag}}</span> {% endfor %}<br>
+					{% if page.date %}
+					Date: <time class="icon-calendar pr20" datetime="{{ page.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ page.date | date: "%Y-%m-%d" }}</time>
+					{% endif %}<br>
+					{% if page.author %}Author: {{ page.author }}{% endif %}
+					<hr>
+				</div>
 			</span>
 
 			<p>
 				<a class="button small radius" href="{{ page.release_url }}" target="_blank">Download »{{ page.title }}«</a>
 			</p>
-
-			{% if page.show_meta == true %}
-			{% include meta_information.html %}
-			{% endif %}
 
 			{% if page.comments == true %}
 			{% include comments.html %}

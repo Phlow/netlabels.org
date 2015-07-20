@@ -6,7 +6,7 @@
 *   If you set »published: false« in front matter of a collection page 
 *   the page gots filtered out via unless
 *
-*   Example: {% include list-reviews %}
+*   Example: {% include list-reviews language='de' prefix_text='Musikkritik › '%}
 *   
 {% endcomment %}
 
@@ -14,7 +14,7 @@
   {% for review in site.reviews %}
     {% unless review.published == false %}
     	{% if review.language == include.language %}
-		    <li><a href="{{ site.url }}{{ review.url }}">Music Review »{{ review.title }}«</a></li>
+		    <li><a href="{{ site.url }}{{ review.url }}">{{ include.prefix_text }}»{{ review.title }}«</a></li>
     	{% endif %}
     {% endunless %}
   {% endfor %}

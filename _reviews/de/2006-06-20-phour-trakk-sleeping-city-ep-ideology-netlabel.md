@@ -1,23 +1,34 @@
 ---
-published: false
 layout: review
-subheadline: Netaudio
-title: 'Phour Trakk &#8211; Sleeping City EP (Ideology Netlabel)'
-teaser: "<strong>Instrumentaler TripHop mit Fernweh</strong> – Schlurfende Beats, verrauschte Samples und ein Hang zu fernen Ländern kennzeichnen die Musikstücke von Phour Trakk. Der in Köln lebende Produzent reist nicht nur gerne in ferne Länder, sondern nimmt uns als Hörer gerne auch auf seine eigenen exotischen Musik-Trips mit."
-release_url: 
-image:
-    title: cover-phour-trakk.gif
+#
+# Release Info
+#
+netlabel_name: Ideology
+netlabel_url: www.ideology.de
+release_title: Sleeping City EP
+release_artist: Phour Trakk
+release_url: https://files.scene.org/browse/music/groups/ideology/id035/
+#
+# Review
+#
+subheadline: TripHop
+title: Instrumentaler TripHop mit Fernweh
+teaser: "Schlurfende Beats, verrauschte Samples und ein Hang zu fernen Ländern kennzeichnen die Musikstücke von Phour Trakk. Der in Köln lebende Produzent reist nicht nur gerne in ferne Länder, sondern nimmt uns als Hörer gerne auch auf seine eigenen exotischen Musik-Trips mit."
 categories:
-    - musik
+    - electronic music
 tags:
+    - netaudio
     - chill out
     - netaudio
     - downbeat
     - download
-    - free
-    - mp3
+    - mp3   
     - music
-    - Netlabel
+image:
+    title: cover-phour-trakk.gif
+date: 
+language: de
+author: Moritz »mo.« Sauer
 language: de
 show_meta: true
 ---
@@ -35,13 +46,11 @@ Phour Trakk scheint es ähnlich zu gehen, und er verwebt in seinen zahlreichen a
 [06. Sleeping city][6] (MP3)  
 [07. Neon traffic][7] (MP3)
 
-[Release: Phour Trakk &#8211; Sleeping City EP][8]
 
-
- [1]: ftp://ftp.scene.org/pub/music/groups/ideology/id035/id035_01_-_phour_trakk-intro.mp3
- [2]: ftp://ftp.scene.org/pub/music/groups/ideology/id035/id035_02_-_phour_trakk-incorrect_muzak.mp3
- [3]: ftp://ftp.scene.org/pub/music/groups/ideology/id035/id035_03_-_phour_trakk-blue_is_the_colour.mp3
- [4]: ftp://ftp.scene.org/pub/music/groups/ideology/id035/id035_04_-_phour_trakk-summerdays_have_gone.mp3
- [5]: ftp://ftp.scene.org/pub/music/groups/ideology/id035/id035_05_-_phour_trakk-i_am_leaving.mp3
- [6]: ftp://ftp.scene.org/pub/music/groups/ideology/id035/id035_06_-_phour_trakk-sleeping_city.mp3
- [7]: ftp://ftp.scene.org/pub/music/groups/ideology/id035/id035_07_-_phour_trakk-neon_traffic.mp3
+ [1]: https://files.scene.org/view/music/groups/ideology/id035/id035_01_-_phour_trakk-intro.mp3
+ [2]: https://files.scene.org/view/music/groups/ideology/id035/id035_02_-_phour_trakk-incorrect_muzak.mp3
+ [3]: https://files.scene.org/view/music/groups/ideology/id035/id035_03_-_phour_trakk-blue_is_the_colour.mp3
+ [4]: https://files.scene.org/view/music/groups/ideology/id035/id035_04_-_phour_trakk-summerdays_have_gone.mp3
+ [5]: https://files.scene.org/view/music/groups/ideology/id035/id035_05_-_phour_trakk-i_am_leaving.mp3
+ [6]: https://files.scene.org/view/music/groups/ideology/id035/id035_06_-_phour_trakk-sleeping_city.mp3
+ [7]: https://files.scene.org/view/music/groups/ideology/id035/id035_07_-_phour_trakk-neon_traffic.mp3

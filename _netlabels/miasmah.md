@@ -3,7 +3,7 @@ layout: netlabel
 netlabel_name: Miasmah
 netlabel_id: mia
 netlabel_logo: "logo-miasmah.gif"
-netlabel_website: "http://miasmah.com/"
+netlabel_url: "http://miasmah.com/"
 netlabel_archive_org: "https://archive.org/details/miasmah"
 category:
     - electronic music

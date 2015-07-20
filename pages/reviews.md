@@ -9,6 +9,6 @@ show_meta: false
 
 ## German Reviews
 
-These Reviews – mostly written for the German Phlow Magazin Blog – are in German.
+These German reviews were mostly written for the German Phlow Magazin Blog.
 
-{% include list-reviews language='de' %}
+{% include list-reviews language='de' prefix_text='<span class="subheader">Musikkritik </span>' %}

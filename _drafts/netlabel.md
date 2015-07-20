@@ -3,7 +3,7 @@ layout: netlabel
 netlabel_name: 
 netlabel_id: 
 netlabel_logo: ""
-netlabel_website: ""
+netlabel_url: ""
 netlabel_archive_org: ""
 category:
     - 

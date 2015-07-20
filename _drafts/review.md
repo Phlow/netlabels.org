@@ -1,22 +1,26 @@
 ---
 layout: review
-subheadline: 
-title: 
-teaser: ""
+#
+# Release Info
+#
+netlabel_name: 
+netlabel_url: 
 release_title: 
 release_artist: 
-release_id: 
 release_url: 
+#
+# Review
+#
+subheadline: 
+title: 
+teaser: 
 categories:
-    - review
-tags:
     - 
-author: Moritz »mo.« Sauer
-header: no
+tags:
+    - netaudio
 image:
-    title: cover/
-    thumb:
-language: de
-show_meta: true
+    title: 
 date: 
+language: de
+author: Moritz »mo.« Sauer
 ---

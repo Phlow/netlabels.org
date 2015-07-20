@@ -1,12 +1,14 @@
 ---
 layout: review
-subheadline: IDM Music
-title: Intelligent Toys
-teaser: "IDM ist nicht mein Lieblingsgenre. Oftmals zerfleischen sich die Tracks wie ein Psychopath seinen eigenen Körper. Oder die melodischen Ergüsse fühlen sich an wie klebrige Zuckerberge ohne Konturen und zuviel Kunstfarbe. Die neue Compilation des jungen lithauischen Labels Sutemos umschifft jedoch gekonnt diese Riffe."
+netlabel_name: Sutemos
+netlabel_url: http://sutemos.shnaresys.com
 release_title: Intelligent Toys
 release_artist: Various
 release_id: sute001
 release_url: "http://sutemos.shnaresys.com/en/player;page,4"
+subheadline: IDM Music
+title: Abwechslungsreiche IDM trifft Ambient Compilation
+teaser: "IDM ist nicht mein Lieblingsgenre. Oftmals zerfleischen sich die Tracks wie ein Psychopath seinen eigenen Körper. Oder die melodischen Ergüsse fühlen sich an wie klebrige Zuckerberge ohne Konturen und zuviel Kunstfarbe. Die neue Compilation des jungen lithauischen Labels Sutemos umschifft jedoch gekonnt diese Riffe."
 categories:
     - review
 tags:
@@ -16,7 +18,7 @@ tags:
 author: Moritz »mo.« Sauer
 header: no
 image:
-    title: cover/sutemos/cover-sutemos001-intelligent-toys.jpg
+    title: cover-sutemos001-intelligent-toys.jpg
     thumb:
 language: de
 show_meta: true
