@@ -8,7 +8,7 @@ format: review
 			<header>
 				{% if page.image.title %}
 				<figure>
-					<img src="{{ site.urlimg }}{{ page.image.title }}" width="970" alt="{{ page.title escape_once }}" itemprop="image">
+					<img src="{{ site.urlimg }}cover/reviews/{{ page.image.title }}" width="970" alt="{{ page.title escape_once }}" itemprop="image">
 
 					{% if page.image.caption_url && page.image.caption %}
 					<figcaption class="text-right">
@@ -23,7 +23,7 @@ format: review
 				{% endif %}
 
 				<span itemprop="name">
-					{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
+					<p class="subheadline"><a href="{{ site.url }}/reviews/">Music Review</a> – {% if page.subheadline %}{{ page.subheadline }}{% endif %}</p>
 					<h1>{{ page.title }}</h1>
 				</span>
 			</header>
@@ -40,7 +40,7 @@ format: review
 			</span>
 
 			<p>
-				<a class="button small radius" href="{{ page.release_url }}" target="_blank">Download »{{ page.release_title }}« {% unless page.release_artist == 'Various Artists' %}by {{ page.release_artist }}{% endunless %}</a>
+				<a class="button small radius" href="{{ page.release_url }}" target="_blank">Download »{{ page.title }}«</a>
 			</p>
 
 			{% if page.show_meta == true %}

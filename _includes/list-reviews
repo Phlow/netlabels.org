@@ -13,7 +13,9 @@
 <ul class="side-nav">
   {% for review in site.reviews %}
     {% unless review.published == false %}
-    <li><a href="{{ site.url }}{{ review.url }}">Music Review › »{{ review.title }}«</a></li>
+    	{% if review.language == include.language %}
+		    <li><a href="{{ site.url }}{{ review.url }}">Music Review »{{ review.title }}«</a></li>
+    	{% endif %}
     {% endunless %}
   {% endfor %}
   <li>&nbsp;</li>
