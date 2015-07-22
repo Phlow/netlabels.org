@@ -225,3 +225,15 @@ collections:
   reviews:
     output: true
     permalink: /:path/
+
+
+
+#      ______             
+#     / ____/__  ____ ___ 
+#    / / __/ _ \/ __ `__ \
+#   / /_/ /  __/ / / / / /
+#   \____/\___/_/ /_/ /_/ 
+#                         
+
+gems:
+  - jekyll-sitemap
