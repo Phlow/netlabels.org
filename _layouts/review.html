@@ -44,7 +44,7 @@ format: review
 					{% if page.categories %}Music Category: {{ page.categories | join: ' – ' | upcase }}{% endif %}<br>
 					Style: {% for tag in page.tags %}<span class="icon-price-tag pr10"> {{tag}}</span> {% endfor %}<br>
 					{% if page.date %}
-					Date: <time class="icon-calendar pr20" datetime="{{ page.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ page.date | date: "%Y-%m-%d" }}</time>
+					<time class="icon-calendar pr20" datetime="{{ page.date | date: "%Y-%m-%d" }}" itemprop="datePublished"> Date: {{ page.date | date: "%Y-%m-%d" }}</time>
 					{% endif %}<br>
 					{% if page.author %}Author: {{ page.author }}{% endif %}
 					<hr>
