@@ -1,5 +1,10 @@
 ---
 layout: review
+#
+# Release Info
+#
+netlabel_name: Hippocamp
+netlabel_id: hc
 release_title: The One Towards...
 release_artist: Batfinks
 release_id: hc042
@@ -14,7 +19,7 @@ tags:
     - drill'n'bass
     - experimental
 image:
-    title: cover-hc042-batfinks.jpg
+    title: cover-hc042-batfinks-the-one-towards.jpg
 language: de
 author: Moritz »mo.« Sauer
 date: 

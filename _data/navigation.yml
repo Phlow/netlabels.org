@@ -41,6 +41,10 @@
 #   url: "/contact/"
 #   side: right
 
+- title: "Info"
+  url: "http://phlow.de/info/"
+  side: right
+
 - title: "Impressum"
   url: "http://phlow.de/impressum/"
   side: right

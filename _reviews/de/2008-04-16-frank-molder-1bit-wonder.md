@@ -4,6 +4,7 @@ layout: review
 # Release Info
 #
 netlabel_name: 1bit-wonder.com
+netlabel_id: 1bit
 netlabel_url: http://1bit-wonder.com
 release_title: Firefox
 release_artist: Frank Molder
@@ -24,7 +25,7 @@ tags:
     - frank molder
     - mp3
 image:
-    title: cover-firefox-frank-molder.jpg
+    title: cover-1bit20-frank-molder-firefox.jpg
 date: 2008-04-16
 language: de
 author: Moritz »mo.« Sauer

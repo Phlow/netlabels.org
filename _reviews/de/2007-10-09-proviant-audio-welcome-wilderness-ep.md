@@ -4,6 +4,7 @@ layout: review
 # Release Info
 #
 netlabel_name: Aquavelvas
+netlabel_id: aqv
 netlabel_url: http://www.aquavelvas.com
 release_title: Welcome Wilderness EP
 release_artist: Proviant Audio
@@ -24,7 +25,7 @@ tags:
     - Netlabel
     - netaudio
 image:
-    title: cover-proviant-audio.jpg
+    title: cover-aqv012-proviant-audio-welcome-wilderness-ep.jpg
 date: 2007-10-09
 language: de
 author: Moritz »mo.« Sauer

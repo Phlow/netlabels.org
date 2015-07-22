@@ -4,6 +4,7 @@ layout: review
 # Release Info
 #
 netlabel_name: mono211.com
+netlabel_id: mtk
 netlabel_url: https://archive.org/details/monotonik
 release_title: The Quiet EP
 release_artist: Sonmi451
@@ -26,7 +27,7 @@ tags:
   - Netaudio
   - Netlabel
 image:
-    title: mtk175.jpg
+    title: cover-mtk175-somni451-the-quiet-ep.jpg
 date: 2007-01-02
 language: de
 author: Moritz »mo.« Sauer

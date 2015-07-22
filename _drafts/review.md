@@ -4,6 +4,7 @@ layout: review
 # Release Info
 #
 netlabel_name: 
+netlabel_id:
 netlabel_url: 
 release_title: 
 release_artist: 

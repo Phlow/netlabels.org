@@ -1,6 +1,7 @@
 ---
 layout: review
 netlabel_name: Konsum Productions
+netlabel_id: knsm
 netlabel_url: https://knsm.cc/
 release_title: sabian
 release_artist: sabian
@@ -18,7 +19,7 @@ tags:
     - drum'n'bass
     - bigbeat
 image:
-    title: cover-sabian.jpg
+    title: cover-knsm03-sabian-konsum-productions.jpg
 language: de
 date: 2004-01-01
 author: Moritz »mo.« Sauer

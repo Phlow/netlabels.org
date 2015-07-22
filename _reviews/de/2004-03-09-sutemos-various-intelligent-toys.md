@@ -1,6 +1,7 @@
 ---
 layout: review
 netlabel_name: Sutemos
+netlabel_id: sutemos
 netlabel_url: http://sutemos.shnaresys.com
 release_title: Intelligent Toys
 release_artist: Various
@@ -10,7 +11,7 @@ subheadline: IDM Music
 title: Abwechslungsreiche IDM trifft Ambient Compilation
 teaser: "IDM ist nicht mein Lieblingsgenre. Oftmals zerfleischen sich die Tracks wie ein Psychopath seinen eigenen Körper. Oder die melodischen Ergüsse fühlen sich an wie klebrige Zuckerberge ohne Konturen und zuviel Kunstfarbe. Die neue Compilation des jungen lithauischen Labels Sutemos umschifft jedoch gekonnt diese Riffe."
 categories:
-    - review
+    - electronic music
 tags:
     - idm
     - ambient

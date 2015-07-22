@@ -4,6 +4,7 @@ layout: review
 # Release Info
 #
 netlabel_name: Miasmah
+netlabel_id: mia
 netlabel_url: http://miasmah.com
 release_title: Lighted Apartment
 release_artist: Various Artists
@@ -25,7 +26,7 @@ tags:
     - musik
     - Netlabel
 image:
-    title: mia050-cover-445x445.jpg
+    title: cover-mia050-various-artists-lighted-appartment.jpg
 date: 2007-08-13
 language: de
 author: Moritz »mo.« Sauer

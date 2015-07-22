@@ -4,10 +4,11 @@ layout: review
 # Release Info
 #
 netlabel_name: addSensor
-netlabel_url: 
+netlabel_id: sensor
+netlabel_url: http://www.addsensor.com/
 release_title: Medicamentosa
 release_artist: Crisopa
-release_url: 
+release_url: http://www.addsensor.com/addsensor_html.htm
 #
 # Review
 #
@@ -24,7 +25,7 @@ tags:
   - downbeat
   - mp3
 image:
-    title: cover-crisopa-medicamentosa.jpg
+    title: cover-sensor-009-crisopa-medicamentosa.jpg
 date: 2008-04-14
 language: de
 author: Moritz »mo.« Sauer

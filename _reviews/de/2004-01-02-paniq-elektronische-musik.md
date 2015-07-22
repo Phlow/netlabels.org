@@ -1,5 +1,6 @@
 ---
 layout: review
+netlabel_id: nolabel
 release_title: "Neurons: Fire At Will"
 release_artist: Paniq
 release_url: "http://www.paniq.org/albums/neurons_fire_at_will"
@@ -9,14 +10,14 @@ teaser: "Seit gestern läuft im Phlow-HQ &#8220;Elektronische Musik&#8221; von p
 categories:
     - electronic music
 image:
-    title: paniq.jpg
+    title: cover-nolabel-paniq-neurons-fire-at-will.jpg
 tags:
     - netaudio
     - Bigbeats
     - Techno
     - Pop
 language: de
-date: 
+date: 2004-01-02
 author: Moritz »mo.« Sauer
 ---
 Auf »Neurons: Fire At Will« sammelt der Scener [paniq][2] ein amüsantes Potpourri aus brummenden und rappelnden Sounds, die von Game-Musik, Bigbeats, Techno und irgendwo auch Pop inspiriert wurden. Ich höre da deutlich eine von Computerspielen beeinflusste Kindheit heraus. Schön, dass die Tracks so fett und druckvoll produziert wurden &#8211; mit der von paniq selbst programmierten Software Aldrin für das Linux-System.

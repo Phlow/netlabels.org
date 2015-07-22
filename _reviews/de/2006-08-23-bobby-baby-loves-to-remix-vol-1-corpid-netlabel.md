@@ -1,6 +1,7 @@
 ---
 layout: review
 netlabel_name: Corpid Netlabel
+netlabel_id: corpid
 netlabel_url: "http://www.corpid-label.de"
 release_title: Loves To Remix Vol. 1
 release_artist: Bobby Baby
@@ -23,7 +24,7 @@ tags:
     - Netlabel
     - Pop
 image:
-    title: cx015_cover.jpg
+    title: cover-corpid-bobby-baby-loves-to-remix-vol-1.jpg
 author: Moritz »mo.« Sauer
 language: de
 show_meta: true
