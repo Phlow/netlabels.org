@@ -1,5 +1,6 @@
 ---
 layout: page
+sidebar: right
 subheadline: "About"
 title: "What is Netlabels.org?"
 teaser: "It all started years ago with a passion for free minds, freedom and first of all my love for music. The term <em>netlabel</em> and its idea was still unfamiliar to most music lovers. My first contact to netlabels was – I guess – in 2000. I discovered my first netlabels through a then very active and friendly mailing list called <em>Netaudio</em>."
@@ -30,7 +31,7 @@ Unfortunately more and more hackers and spammers tried to rip the catalogue apar
 
 ## A fresh restart with GitHub
 
-In all the following years I researched an easy way to build the catalogue again. I even paid a programmer to build a unique CMS for me, but I had no money to spend it on a free resource with creative commons music, where there is no chance of financing the project to do it properly.
+<img src="{{ site.urlimg }}/pages/moritz_mo_sauer_quadratisch-256.jpg" class="right" alt="Moritz »mo.« Sauer">In all the following years I researched an easy way to build the catalogue again. I even paid a programmer to build a unique CMS for me, but I had no money to spend it on a free resource with creative commons music, where there is no chance of financing the project to do it properly.
 
 Now I have a new idea: I will try to rebuild Netlabels.org from the ground up. It will be a static resource build with the help of [GitHub][1], a platform for programmers. It will be some work for the netlabels to get involved, but I think it's worth the effort and it's save and it's the open source-way.
 

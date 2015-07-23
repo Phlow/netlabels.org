@@ -42,7 +42,7 @@
 #   side: right
 
 - title: "Info"
-  url: "http://phlow.de/info/"
+  url: "/info/"
   side: right
 
 - title: "Impressum"
