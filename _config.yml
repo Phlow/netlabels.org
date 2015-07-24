@@ -221,10 +221,10 @@ collections:
     permalink: /:path/
   releases:
     output: true
-    permalink: /:path/
+    permalink: /release/:path/
   reviews:
     output: true
-    permalink: /:path/
+    permalink: /review/:path/
 
 
 

@@ -11,9 +11,9 @@ widget-2:
     text: 'Dig through our archive full of articles, interviews, screenshots about netlabel and netaudio culture.'
     image: blog/widget-computer.jpg
 widget-3:
-    title: 'Please be patient!'
-    url: /news/start/
-    text: "We're finally starting over... But you have to be patient. We feed our little project in our rare spare time."
+    title: 'Listen to netlabel...'
+    url: /reviews/
+    text: "...releases immidiately and find interesting releases through our archived reviews (currently only in German)."
     image: blog/widget-listening-music.jpg
 ---
 <div class="row t60">

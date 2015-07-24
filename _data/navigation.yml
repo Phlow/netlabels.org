@@ -14,6 +14,8 @@
   url: /history/
   side: left
   dropdown:
+  - title: Music Reviews
+    url: /reviews/
   - title: Interviews
     url: /history/interviews/
   - title: Netlabel Screenshots
@@ -21,8 +23,8 @@
   - title: Netaudio Flyer
     url: /history/netaudio-flyer/
 
-- title: Reviews
-  url: /reviews/
+- title: Resources
+  url: /resources/
   side: left
 
 - title: Blog

@@ -10,6 +10,8 @@
 			»{{ page.release_title }}« by {{ page.release_artist }} on {{ page.netlabel_name }}
 		{% elsif page.layout == 'netlabel' %}
 			{{ page.netlabel_name }} Netlabel – Information, Releases, Artists
+		{% elsif page.layout == 'review' %}
+			Music Review › {{ page.title }} »{{ page.release_title }}«
 		{% elsif page.title %}
 			{{ page.title }}
 		{% else %}

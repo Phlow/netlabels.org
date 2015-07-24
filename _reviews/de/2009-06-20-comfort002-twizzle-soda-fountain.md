@@ -23,7 +23,7 @@ tags:
     - triphop
     - pop
 image:
-    title: twizzle200x.jpg
+    title: cover-comfort002-twizzle-soda-fountain.jpg
 date: 
 language: de
 author: Moritz »mo.« Sauer
