@@ -5,7 +5,7 @@ layout: review
 #
 netlabel_name: Aquavelvas
 netlabel_id: aqv
-netlabel_url: http://www.aquavelvas.com
+netlabel_url: https://soundcloud.com/aquavelvas/sets
 release_title: Welcome Wilderness EP
 release_artist: Proviant Audio
 release_url: http://freemusicarchive.org/music/Proviant_Audio/Welcome_Wilderness

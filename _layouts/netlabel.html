@@ -41,7 +41,9 @@ format: netlabel
 
 			{% if page.netlabel_url %}<a class="button small radius" href="{{ page.netlabel_url }}" title="{{ page.netlabel_name }} Website @ {{ page.netlabel_url }}" target="_blank">Visit {{ page.netlabel_url | remove: "http://" | remove: "https://" | remove: "/" }} ›</a>{% endif %}
 
-			{% if page.netlabel_archive_org %}<a class="button small radius" href="{{ page.netlabel_archive_org }}" title="{{ page.netlabel_name }} @ Archive.org }}" target="_blank">{{ page.netlabel_name }} on Archive.org ›</a>{% endif %}
+			{% if page.netlabel_archive_org %}<a class="button small radius" href="{{ page.netlabel_archive_org }}" title="{{ page.netlabel_name }} @ Archive.org }}" target="_blank">{{ page.netlabel_name }} on sonicsquirrel.net ›</a>{% endif %}
+
+			{% if page.netlabel_sonicsquirrel_net %}<a class="button small radius" href="{{ page.netlabel_sonicsquirrel_net }}" title="{{ page.netlabel_name }} @ sonicsquirrel.net }}" target="_blank">{{ page.netlabel_name }} on sonicsquirrel.net ›</a>{% endif %}
 
 				<div id="page-meta" class="t30">
 					<hr>
