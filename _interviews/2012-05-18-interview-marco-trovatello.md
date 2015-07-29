@@ -1,24 +1,24 @@
 ---
-title: »I had to let God be in Control of all Things«
-teaser: 'Marco Trovatello ist weder Autist noch Einsiedler. Digital vernetzt ist er bestens: z.B. in seiner Funktion als Crossmedia-Profi für das Zentrum der deutschen Luft- und Raumfahrt. Musik produziert er seit Jahren mit anderen Musikern. Trotzdem verwirklichte der Musiker seine Vision eines modernen Post-Rock Albums gänzlich alleine. Ob Bass, Beats oder Synthesizer, eingespielt wurde alles selbst. Wieso, weshalb und warum sein atmosphärisches und luftigtes Album so gar nichts mit der Raumfahrt zu tun hat, verrät er im Interview.'
-layout: post
-permalink: /marco-trovatello
-subheadline: Interview mit einem Netaudio Künstler
+layout: interview
+subheadline: Netaudio Künstler Marco Trobatello
+title: "»I had to let God be in Control of all Things«"
+teaser: "Marco Trovatello ist weder Autist noch Einsiedler. Digital vernetzt ist er bestens: z.B. in seiner Funktion als Crossmedia-Profi für das Zentrum der deutschen Luft- und Raumfahrt. Musik produziert er seit Jahren mit anderen Musikern. Trotzdem verwirklichte der Musiker seine Vision eines modernen Post-Rock Albums gänzlich alleine. Ob Bass, Beats oder Synthesizer, eingespielt wurde alles selbst. Wieso, weshalb und warum sein atmosphärisches und luftigtes Album so gar nichts mit der Raumfahrt zu tun hat, verrät er im Interview."
 categories:
-  - MP3 Musik
-  - Netzkultur
+  - interview
 tags:
-  - Creative Commons
+  - creative commons
   - der kleine grüne würfel
   - dlr
   - marco trovatello
   - musik
   - postrock
 image:
-  title: marco_trovatello.jpg
+  title: interview/interview-marco-trovatello.jpg
   credit: Musiker mit Herz und Seele für Creative Commons
+language: de
 ---
-**Was bitteschön ist denn »Neo-Postrock«? Der neue [»Zwitter-Rock«][1] nachdem [Rock][2]?**
+Was bitteschön ist denn »Neo-Postrock«? Der neue [»Zwitter-Rock«][1] nachdem [Rock][2]?
+{: .font-size-h4 }
 
 Weiß auch nicht, wer sich diesen bescheuerten Begriff ausgedacht hat. Irgendso ein Grüner-Würfel-Promo-Fuzzi. Aber eigentlich mag ich ja Post-Rock, finde die Bezeichnung gar nicht so schlimm und denke auch nicht, wie wahrscheinlich viele Musikjournalisten, dass das Genre tot ist. Es ist wohl lediglich der Versuch des Einsortierens in eine Schublade.
 
@@ -26,19 +26,21 @@ Wie dem auch sei: Seine eigene Musik als Musiker in ein Genre einzuordnen ist, g
 
 
 
-**Die Instrumente und Kompositionen Deines [Albums »I had to let God be in Control of ALL Things«][3] stammen allesamt von Dir. Bist Du [Autist][4], der alles lieber selbst macht oder magst Du andere Menschen nicht? Warum hast Du alles selbst produziert?**
+Die Instrumente und Kompositionen Deines [Albums »I had to let God be in Control of ALL Things«][3] stammen allesamt von Dir. Bist Du [Autist][4], der alles lieber selbst macht oder magst Du andere Menschen nicht? Warum hast Du alles selbst produziert?
+{: .font-size-h4 }
 
-<img  title="marco_trovatello_jag_bass_vi_c" src="{{ site.urlimg }}marco_trovatello_jag_bass_vi_c.jpg" alt=""   />
+<img src="{{ site.urlimg }}interview/interview-marco-trovatello-jag-bass-vi-c.jpg" class="right" alt="Instrumente">
 
 Ich fürchte da habe ich nur die Standard-Antwort parat, die schon viele vor mir gebracht haben: Ich fand den Prozess des Musikmachens im Bandgefüge zum Schluss echt schwierig. Tatsächlich könnte meine Musik wohl von einer Band gut gespielt werden. Beim Track »Bracers of Chaos« hätte der Gitarrist dann allerdings das Problem, dass er über weite Strecken bloß zwei Akkorde spielen müsste - was würde das wohl für die Stimmung in der Band bzw. in Bezug auf seine (oder ihre) Lust auf das Spielen dieses bestimmten Songs bedeuten? Das muss zwar nicht so sein und es gibt auch viele Ausnahmen, z.B. Musiker wie [Steve Shelley][6] von Sonic Youth oder Bands wie [To Rococo Rot][7] etc. - aber dennoch: Für mich hat das nicht mehr so funktioniert.
 
 Will sagen: Dieses ewige »Alle müssen sich wohlfühlen«, »Jeder hat seinen Part« etc. etc. - und das schwingt ja in vielen Proberäumen mit - ist auf die Dauer doch recht mühsam. Das alleine zu machen – über einen langen Zeitraum übrigens – war einfach total entspannt und hat mich letztlich dazu gebracht, mich auch mal mit dem Gitarrespielen etwas mehr auseinanderzusetzen und meine Wurstfinger in den Griff zu bekommen.
 
-**Wie kann man sich den Entstehungsprozess Deiner Songs vorstellen? Wie hast Du die zahlreichen Sounds und Instrumente miteinander verbunden? Wie komponiert Marco Trovatello Songs?**
+Wie kann man sich den Entstehungsprozess Deiner Songs vorstellen? Wie hast Du die zahlreichen Sounds und Instrumente miteinander verbunden? Wie komponiert Marco Trovatello Songs?
+{: .font-size-h4 }
 
 Nach heutigen Maßstäben eher konventionell: Ein E-Bassgitarre, eine Akustikgitarre, eine E-Gitarre, meine geliebte [Jaguar Bass VI Custom][8], ein paar [analoge Schätzchen][9] und ein Computer mit Logic bilden das Grundgerüst. Wie schon im Promo-Text ganz schön beschrieben: An manchen Sachen habe ich ziemlich lang rumgefrickelt, andere wiederum fast in einem Rutsch eingespielt.
 
-<img title="marco_trovatello-ms10" src="{{ site.urlimg }}marco_trovatello-ms10.jpg" alt=""  />
+<img src="{{ site.urlimg }}interview/interview-marco-trovatello-ms10.jpg" alt="Instrumente">
 
 **Auf Deinem Panel [»Twittern aus dem All für die digitale Öffentlichkeitsarbeit«][11] auf der republica 2012 durfte man Astronauten, die twittern kennenlernen. Beeinflusst Deine Arbeit für das [Deutsche Zentrum für Luft- und Raumfahrt][12] Deine Musik? Hat das Album kosmische Strahlung abgekommen?**
 
@@ -46,7 +48,9 @@ Eigentlich nicht. Ich mag meinen Job ganz gerne, aber eigentlich ist es eher das
 
 Wer will schon noch abgenudelte Klassik-, Pop-, oder Rock- Hits zu Raumfahrtbildern hören? Dennoch gibt es ein paar schöne Beispiele, die ich mal [hier][13] und [hier][14] verbloggt habe. Wenn jemand so etwas mit meiner Musik vorhat: Nur zu, viel Footage steht unter offenen Lizenzen (NASA bspw. Public-Domain oder DLR unter CC-BY) und mein Album unter aufgeweichter CC-BY-NC. Ich selbe würde das aber eher nicht in Angriff nehmen.
 
-**Auf der Website des Deutschen Zentrums für Luft- und Raumfahrt setzt Ihr für eigene Inhalte [Creative Commons-Lizenzen][15] ein. Auch Dein Album veröffenlichst Du unter einer Lizenz, die das Kopieren, Verbreiten und teilweise sogar modifizieren der Musik erlaubt. Was hat Musik mit Lizenzen zu tun und warum liegt Dir die Idee der [Creative Commons][16] (CC) so sehr am Herzen?**
+
+Auf der Website des Deutschen Zentrums für Luft- und Raumfahrt setzt Ihr für eigene Inhalte [Creative Commons-Lizenzen][15] ein. Auch Dein Album veröffenlichst Du unter einer Lizenz, die das Kopieren, Verbreiten und teilweise sogar modifizieren der Musik erlaubt. Was hat Musik mit Lizenzen zu tun und warum liegt Dir die Idee der [Creative Commons][16] (CC) so sehr am Herzen?
+{: .font-size-h4 }
 
 Was Musik mit Lizenzen, Urheber- und Nutzungsrechten zu tun hat, kann man in Blogs (auch in [meinem][17]), sozialen Netzwerken und Medien derzeit ja intensiv verfolgen - wobei ich mich jetzt nicht zu den unterirdischen Kampagnen einiger, nun ja, Holzmedien äußern will.
 
@@ -58,16 +62,21 @@ Und auch wenn Leute der Meinung sind, die ganze Urheberrechtsdebatte stecke in e
 
 Zu meinen Job: Das war einfach eine logische Konsequenz. Das DLR ist überwiegend und das deutsche Raumfahrtprogramm komplett über öffentliche Gelder finanziert. Da lag es auf der Hand, hier die CC-BY anzuwenden. Mehr dazu habe ich [hier][24] und [hier][25] gesagt.
 
-**Du leitest die »Abteilung Crossmedia in der Hauptabteilung Kommunikation des DLR. In dieser Funktion konzipierst und verantwortest Du die Onlinekommunikation des DLR«. Planst Du auch Crossmedia-Aktionen in eigener Sache, also für Dein Album? Was willst Du dagegen tun, dass Dein Album nicht im – mittlerweile – Ozean der freien Musik untergeht ohne gehört zu werden?**
+
+Du leitest die »Abteilung Crossmedia in der Hauptabteilung Kommunikation des DLR. In dieser Funktion konzipierst und verantwortest Du die Onlinekommunikation des DLR«. Planst Du auch Crossmedia-Aktionen in eigener Sache, also für Dein Album? Was willst Du dagegen tun, dass Dein Album nicht im – mittlerweile – Ozean der freien Musik untergeht ohne gehört zu werden?
+{: .font-size-h4 }
 
 Erstmal leistest Du mit Phlow ja hier schon mal einen sehr netten Beitrag zur Multiplikation – vielen Dank dafür. Weiterhin beschäftige ich mich, wie Du ja schon sagst, im Rahmen meines Jobs den lieben langen Tag mit Online- und Social-Media-Kommunikation, von daher kenne ich mich mit digitaler Öffentlichkeitsarbeit ein bisschen aus, bin selber nicht so schlecht digital-sozial vernetzt und habe vor einiger Zeit auch mal die entsprechenden Kanäle ([Facebook][26], [Twitter][27], [Soundcloud][28]) für den kleinen grünen Würfel aufgesetzt. Nicht zuletzt ist Labelchef Stoffel nicht nur wie ich ein Verfechter von DIY und neuen Rechts- und Vertriebsmodellen, sondern auch bestens vernetzt.
 
 Fazit: Nach nur zwei Tagen, die das Album jetzt draußen ist und wir mit der Netradio-, Blog- und anderer Promo nicht mal angefangen haben, kam über die Sozialen Netzwerke, Kommentare und E-Mail schon viel positives Feedback und sogar einige Bestellungen der CD-R. Und das ist wirklich genau das, was ich mir gewünscht habe: Das Leuten die Musik gefällt, sie sich weiterverbeitet und dadurch vielleicht neue Kooperationen, Projekte, oder ähnliches ergeben. Da kann mir als kleiner Musiker die GEMA gestohlen bleiben. *Netaudio ist lange nicht abgeschrieben!*
 
-**Woher kommt der Titel »I had to let God be in Control of ALL Things« Deines Albums? Schwingt da Resignation, Gläubigkeit oder Hoffnung mit?**
+Woher kommt der Titel »I had to let God be in Control of ALL Things« Deines Albums? Schwingt da Resignation, Gläubigkeit oder Hoffnung mit?
+{: .font-size-h4 }
 
 Tja mo., wenn ich das jetzt verraten würde … Mystik oder Mystizismus? Das musst Du und das müssen die Hörerinnen und Hörer selbst herausfinden.  
+
 Vielen Dank Marco, für das Interview
+{: .font-size-h4 }
 
  [1]: http://de.wikipedia.org/wiki/Postrock
  [2]: http://de.wikipedia.org/wiki/Rockmusik
@@ -95,5 +104,5 @@ Vielen Dank Marco, für das Interview
  [24]: http://www.dlr.de/cc
  [25]: http://blog.zeit.de/open-data/2012/03/01/bilder-des-raumfahrtzentrums-dlr-befreit/
  [26]: http://www.facebook.com/gruenerwuerfel
- [27]: http://twitter.com/#!/gruener_wuerfel
+ [27]: https://twitter.com/gruener_wuerfel
  [28]: http://soundcloud.com/gruenerwuerfel

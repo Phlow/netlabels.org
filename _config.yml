@@ -225,6 +225,9 @@ collections:
   reviews:
     output: true
     permalink: /review/:path/
+  interviews:
+    output: true
+    permalink: /interview/:path/
 
 
 
