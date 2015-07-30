@@ -1,6 +1,6 @@
 ---
 layout: interview
-subheadline: Netaudio Künstler Marco Trobatello
+subheadline: Netaudio Künstler
 title: "»I had to let God be in Control of all Things«"
 teaser: "Marco Trovatello ist weder Autist noch Einsiedler. Digital vernetzt ist er bestens: z.B. in seiner Funktion als Crossmedia-Profi für das Zentrum der deutschen Luft- und Raumfahrt. Musik produziert er seit Jahren mit anderen Musikern. Trotzdem verwirklichte der Musiker seine Vision eines modernen Post-Rock Albums gänzlich alleine. Ob Bass, Beats oder Synthesizer, eingespielt wurde alles selbst. Wieso, weshalb und warum sein atmosphärisches und luftigtes Album so gar nichts mit der Raumfahrt zu tun hat, verrät er im Interview."
 categories:

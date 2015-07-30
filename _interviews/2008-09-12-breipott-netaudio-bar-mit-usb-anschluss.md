@@ -1,6 +1,6 @@
 ---
 layout: interview
-subheadline: Netlabel-Sounds am Tresen
+subheadline: Interview
 title: "breiPott: Netaudio-Bar mit USB-Anschluss"
 teaser: "Sie nennen sie selbst <em>»die erste Netaudio-Bar mit Milchreisküche«</em>, kurz breiPott. Schließlich hört man programatisch in dieser Bar nur freie Musik aus dem Internert, sprich Sounds von Netlabels. Aber das ist nicht alles: Weil die Musik frei und meist unter einer Creative Commons-Lizenz veröffentlicht wird, darf sie auch mitgenommen werden. Ein mitgebrachter USB-Stick reicht, denn in der breiPott-Bar stehen Musik-Tankstellen für den Musikdownload zur Verfügung. Wie es zu der Idee kam, lest Ihr im Interview."
 categories:
@@ -13,6 +13,7 @@ tags:
 image:
   title: interview/interview-breipott-bar.jpg
 permalink: /interview/breipott-netaudio-bar-mit-usb-anschluss/
+language: de
 ---
 Stellt Euch und Euren Hintergrund doch kurz mal vor? Wer steckt hinter und im breiPott?
 {: .font-size-h4 }

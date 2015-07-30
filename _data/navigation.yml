@@ -10,10 +10,12 @@
   url: /releases/
   side: left
 
-- title: History
+- title: "Resources & History"
   url: /history/
   side: left
   dropdown:
+  - title: Resources
+    url: /resources/
   - title: Music Reviews
     url: /reviews/
   - title: Interviews
@@ -23,9 +25,6 @@
   - title: Netaudio Flyer
     url: /history/netaudio-flyer/
 
-- title: Resources
-  url: /resources/
-  side: left
 
 - title: Blog
   url: /blog/

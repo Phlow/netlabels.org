@@ -2,10 +2,14 @@
 layout: page
 subheadline: "History"
 title: "Welcome to the Archive!"
-teaser: "<em>Please be patient</em> while we build up the archive... Till then, check out some first additions..."
+teaser: "Our growing archive collects information all around netlabel and netaudio culture. Dig through music reviews, read and listen to interviews or click through our screenshot- and flyer-collection."
 permalink: "/history/"
 show_meta: false
 ---
+## Music Reviews
+
+Find interesting netlabel and netaudio music through [our reviews][6] in different languages.
+
 
 ## Ancient Netlabel Screenshots
 
@@ -30,8 +34,8 @@ This sub-archive represents a [collection of interviews][5] with musicians, arti
  [2]: {{ site.url }}/history/netlabel-screenshots/
  [3]: {{ site.url }}/contact/
  [4]: {{ site.url }}/history/netaudio-flyer/
- [5]: {{ site.url }}/history/interviews/
- [6]: #
+ [5]: {{ site.url }}/interviews/
+ [6]: {{ site.url }}/reviews/
  [7]: #
  [8]: #
  [9]: #

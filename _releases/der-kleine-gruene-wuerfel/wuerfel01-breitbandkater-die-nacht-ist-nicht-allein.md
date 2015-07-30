@@ -12,7 +12,7 @@ release_title: Die Nacht ist nicht allein
 release_artist: breitbandkater
 release_id: wuerfel01
 release_url: "http://www.derkleinegruenewuerfel.de/releases/breitbandkater-die-nacht-ist-nicht-allein/"
-release_cover: "cover-wuerfel01-breitbandkater.jpg"
+release_cover: "cover-wuerfel01-breitbandkater-die-nacht-ist-nicht-allein.jpg"
 release_date: 2006-08-06
 categories:
    - electronic music

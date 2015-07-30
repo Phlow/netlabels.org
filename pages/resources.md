@@ -46,6 +46,25 @@ the sonicsquirrel.net platform was started in summer 2005 as a side-project of a
 </div><!-- /.row -->
 
 
+<div class="row">
+<div class="medium-6 columns" markdown="1">
+## Blogs, Magazines, Podcasts & Radioshows
+
+- <http://machtdose.de/tag/podcast>
+- <http://www.netlabelism.com/>
+- <http://www.netwaves.org/>
+- <http://phlow-magazine.com/>
+
+
+</div><!-- /.medium-6.columns -->
+<div class="medium-6 columns" markdown="1">
+
+
+
+</div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
+
  [1]: http://freemusicarchive.org/
  [2]: http://sonicsquirrel.net/
  [3]: https://archive.org/details/netlabels
