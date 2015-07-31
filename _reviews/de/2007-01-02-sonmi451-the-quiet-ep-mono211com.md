@@ -14,7 +14,7 @@ release_url: http://www.archive.org/details/mtk175
 #
 subheadline: Elektronische Musik
 title: Kaleidoskop Ambient
-teaser: "Somni451 bewegt sich irgendwo zwischen knisternden Sounds à la Jan Jelinek und Melodien à la Lackluster. Teilweise könnte man seine Musik auch als Installationsmusik oder als wohliges akustisches Möbelstück wahrnehmen. Anstelle von Melodien bleiben eher Eindrücke haften."
+teaser: "Sonmi451 bewegt sich irgendwo zwischen knisternden Sounds à la Jan Jelinek und Melodien à la Lackluster. Teilweise könnte man seine Musik auch als Installationsmusik oder als wohliges akustisches Möbelstück wahrnehmen. Anstelle von Melodien bleiben eher Eindrücke haften."
 categories:
     - electronic music
 tags:
@@ -27,7 +27,7 @@ tags:
   - Netaudio
   - Netlabel
 image:
-    title: cover-mtk175-somni451-the-quiet-ep.jpg
+    title: cover-mtk175-sonmi451-the-quiet-ep.jpg
 date: 2007-01-02
 language: de
 author: Moritz »mo.« Sauer
