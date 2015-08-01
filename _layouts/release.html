@@ -26,7 +26,7 @@ format: release
 					<p class="subheadline">
 						{% for netlabel in site.netlabels %}
 						{% if netlabel.netlabel_id == page.netlabel_id %}
-						<a href="{{ netlabel.url }}">{{ netlabel.netlabel_name }}</a>
+						<span class="subheader">Netlabel › </span><a href="{{ netlabel.url }}">{{ netlabel.netlabel_name }}</a>
 						{% endif %}
 						{% endfor %}
 					</p>
