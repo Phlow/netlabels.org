@@ -5,7 +5,7 @@ netlabel_id:
 netlabel_logo: ""
 netlabel_url: ""
 netlabel_archive_org: ""
-category:
+categories:
     - 
 tags:
     - 

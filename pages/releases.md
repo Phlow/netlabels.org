@@ -1,7 +1,8 @@
 ---
 layout: page-fullwidth
-subheadline: ""
-title: "Releases"
+header: no
+subheadline: "Catalogue"
+title: "Netlabel Releases"
 teaser: ""
 permalink: "/releases/"
 show_meta: false

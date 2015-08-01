@@ -5,7 +5,7 @@ netlabel_id: mtk
 netlabel_logo: "logo-monotonik.jpg"
 netlabel_url: "https://archive.org/details/monotonik"
 netlabel_archive_org: "https://archive.org/details/monotonik"
-category:
+categories:
     - electronic music
 tags:
     - idm
@@ -16,7 +16,7 @@ Monotonik is an Internet-only music label that *exclusively* releases electronic
 
 In their words: All of our releases are freely downloadable and distributable for personal, non-commercial use, and we've been releasing .mp3 and .mod files online since May 1996. We offer mellow and melodic »idm« electronic music, alongside bleep-inflected retro videogame soundtrack stylings, plus selections of more uptempo breakbeat, drum and bass, and 'nu chill', courtesy DJs, groups, and producers from all over the world. More information about the label is available at our main website.
 
-<a class="radius button" href="https://web.archive.org/web/20100312053402/http://www.monotonik.com/">Check out Monotonik in the Internet Archive Wayback Machine ›</a>
+<a class="radius button secondary" href="https://web.archive.org/web/20100312053402/http://www.monotonik.com/">Monotonik-Website › Internet Archive Wayback Machine ›</a>
 
 
 ## More information

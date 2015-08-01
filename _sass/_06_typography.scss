@@ -187,8 +187,12 @@ code {
 /* Lists
 ------------------------------------------------------------------- */
 
-ul, ol {
+ul {
     margin-left: 20px;
+    padding: 0;
+}
+ol {
+    margin-left: 30px;
     padding: 0;
 }
 li {

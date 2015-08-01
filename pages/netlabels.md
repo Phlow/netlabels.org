@@ -1,5 +1,6 @@
 ---
 layout: page
+header: no
 subheadline: "Netlabel Catalogue"
 title: "Listed Netlabels"
 meta_description: "Through this list you find all kinds of different netlabels, their style and their releases."

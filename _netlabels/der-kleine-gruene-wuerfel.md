@@ -5,7 +5,7 @@ netlabel_id: wuerfel
 netlabel_logo: "logo-der-kleine-gruene-wuerfel.jpg"
 netlabel_url: "http://www.derkleinegruenewuerfel.de/"
 netlabel_archive_org: "https://archive.org/details/derkleinegruenewuerfel"
-category:
+categories:
     - electronic music
 tags:
     - techno

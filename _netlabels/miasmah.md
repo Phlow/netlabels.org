@@ -5,7 +5,7 @@ netlabel_id: mia
 netlabel_logo: "logo-miasmah.gif"
 netlabel_url: "http://miasmah.com/"
 netlabel_archive_org: "https://archive.org/details/miasmah"
-category:
+categories:
     - electronic music
 tags:
     - ambient

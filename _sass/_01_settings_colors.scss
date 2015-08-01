@@ -106,20 +106,6 @@ $ci-6: $netlabels-org-medium-green;
 
 
 
-
-
-/* Foundation Color Variables
-------------------------------------------------------------------- */
-
-$primary-color: $netlabels-org-dark-green;
-$secondary-color: $phlow-mittel-gruen;
-$alert-color: $phlow-mittel-orange;
-$success-color: $netlabels-org-dark-green;
-$warning-color: $phlow-dunkel-rot;
-$info-color: $phlow-dunkel-blau;
-
-
-
 /* Grey Scale
 ------------------------------------------------------------------- */
 
@@ -139,6 +125,20 @@ $grey-13: #313131;
 $grey-14: #242424;
 $grey-15: #171717;
 $grey-16: #0B0B0B;
+
+
+
+
+
+/* Foundation Color Variables
+------------------------------------------------------------------- */
+
+$primary-color: $netlabels-org-dark-green;
+$secondary-color: $grey-5;
+$alert-color: $phlow-mittel-orange;
+$success-color: $netlabels-org-dark-green;
+$warning-color: $phlow-dunkel-rot;
+$info-color: $phlow-dunkel-blau;
 
 
 

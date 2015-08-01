@@ -4,6 +4,8 @@ subheadline: "Archive"
 title: "Netaudio Flyer Collection"
 teaser: ""
 permalink: "/history/netaudio-flyer/"
+header:
+    image_fullwidth: "blog/header_unsplash_8.jpg"
 show_meta: false
 ---
 ### Thinner Netaudio Party in 2003

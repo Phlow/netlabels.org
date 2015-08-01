@@ -65,10 +65,10 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 #masthead {
-    background-color: $grey-12;
+    background-color: $grey-5;
 }
 #masthead-no-image-header {
-    background-color: $grey-12;
+    background-color: $grey-5;
 }
 #masthead-with-text {
     text-align: center;
@@ -82,7 +82,7 @@ body.video cite { color: #fff; }
     height: 175px;
 }
 #masthead-no-image-header #logo img {
-    margin-top: 60px;
+    margin-top: 45px;
 }
 
 /* Masthead › small-only
@@ -117,7 +117,7 @@ body.video cite { color: #fff; }
 
 @media #{$medium-only} {
     #logo img {
-        margin-top: 60px;
+        margin-top: 45px;
     }
     #masthead {
         height: 280px;
@@ -140,7 +140,7 @@ body.video cite { color: #fff; }
 
 @media #{$large-only} {
     #logo img {
-        margin-top: 80px;
+        margin-top: 45px;
     }
     #masthead {
         height: 310px;
@@ -163,7 +163,7 @@ body.video cite { color: #fff; }
 
 @media #{$xlarge-up} {
     #logo img {
-        margin-top: 110px;
+        margin-top: 45px;
     }
     #masthead {
         height: 380px;

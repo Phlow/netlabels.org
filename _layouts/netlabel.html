@@ -41,14 +41,16 @@ format: netlabel
 
 			{% if page.netlabel_url %}<a class="button small radius" href="{{ page.netlabel_url }}" title="{{ page.netlabel_name }} Website @ {{ page.netlabel_url }}" target="_blank">Visit {{ page.netlabel_url | remove: "http://" | remove: "https://" | remove: "/" }} ›</a>{% endif %}
 
-			{% if page.netlabel_archive_org %}<a class="button small radius" href="{{ page.netlabel_archive_org }}" title="{{ page.netlabel_name }} @ Archive.org }}" target="_blank">{{ page.netlabel_name }} on sonicsquirrel.net ›</a>{% endif %}
+			{% if page.netlabel_archive_org %}<a class="button small radius" href="{{ page.netlabel_archive_org }}" title="{{ page.netlabel_name }} @ Archive.org }}" target="_blank">{{ page.netlabel_name }} on Archive.org ›</a>{% endif %}
+
+			{% if page.netlabel_scene_org %}<a class="button small radius" href="{{ page.netlabel_scene_org }}" title="{{ page.netlabel_name }} @ scene.org }}" target="_blank">{{ page.netlabel_name }} on Scene.org ›</a>{% endif %}
 
 			{% if page.netlabel_sonicsquirrel_net %}<a class="button small radius" href="{{ page.netlabel_sonicsquirrel_net }}" title="{{ page.netlabel_name }} @ sonicsquirrel.net }}" target="_blank">{{ page.netlabel_name }} on sonicsquirrel.net ›</a>{% endif %}
 
 				<div id="page-meta" class="t30">
 					<hr>
 					Netlabel-ID: {{ page.netlabel_id }}<br>
-					Category: {{ page.category | join: ' – ' | upcase }}<br>
+					Category: {{ page.categories | join: ' – ' | upcase }}<br>
 					Music Style: {{ page.tags | join: ' – ' | upcase }}
 					<hr>
 				</div>
@@ -59,9 +61,11 @@ format: netlabel
 
 			<ul class="side-nav">
 				{% for release in site.releases %}
-				{% if release.netlabel_id == page.netlabel_id %}
-				<li><a href="{{ site.url }}{{ release.url }}"><span class="subheader">{{ release.release_id }}</span> {{ release.release_artist }} – »{{ release.release_title }}«</a></li>
-				{% endif %}
+					{% if release.netlabel_id == page.netlabel_id %}
+						{% unless release.published == false %}
+						<li><a href="{{ site.url }}{{ release.url }}"><span class="subheader">{{ release.release_id }}</span> {{ release.release_artist }} – »{{ release.release_title }}«</a></li>
+						{% endunless %}
+					{% endif %}
 				{% endfor %}
 				<li>&nbsp;</li>
 			</ul>

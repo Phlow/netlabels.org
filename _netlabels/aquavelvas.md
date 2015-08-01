@@ -5,7 +5,7 @@ netlabel_id: aqv
 netlabel_logo: "logo-aquavelvas.jpg"
 netlabel_url: "https://soundcloud.com/aquavelvas/sets"
 netlabel_sonicsquirrel_net: "http://sonicsquirrel.net/detail/label/aquavelvas/23"
-category:
+categories:
     - electronic music
 tags:
     - downbeat

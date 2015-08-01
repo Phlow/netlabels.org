@@ -1,7 +1,3 @@
-- title: Start
-  url: "/"
-  side: left
-
 - title: Netlabels
   url: /netlabels/
   side: left

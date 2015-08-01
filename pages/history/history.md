@@ -4,6 +4,8 @@ subheadline: "History"
 title: "Welcome to the Archive!"
 teaser: "Our growing archive collects information all around netlabel and netaudio culture. Dig through music reviews, read and listen to interviews or click through our screenshot- and flyer-collection."
 permalink: "/history/"
+header:
+    image_fullwidth: "blog/header_unsplash_8.jpg"
 show_meta: false
 ---
 ## Music Reviews

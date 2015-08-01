@@ -3,6 +3,8 @@ layout: page-fullwidth
 subheadline: "Archive"
 title: "Netlabel Screenshot Archive"
 teaser: "These are ancient screenshots taken between 2002 to 2006. All screenshots where collected by Moritz »mo.« Sauer for his presentations on netlabel culture."
+header:
+    image_fullwidth: "blog/header_unsplash_8.jpg"
 permalink: "/history/netlabel-screenshots/"
 show_meta: false
 ---
