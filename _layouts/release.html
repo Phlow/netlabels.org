@@ -35,7 +35,6 @@ format: release
 				</span>
 			</header>
 
-
 			{% if page.teaser %}
 			<p class="teaser" itemprop="description">
 				{{ page.teaser }}
@@ -52,7 +51,13 @@ format: release
 
 					<div id="page-meta" class="t30">
 						<hr>
-						Netlabel: {{ page.netlabel_name }}<br>
+						Netlabel: 
+						{% for netlabel in site.netlabels %}
+						{% if netlabel.netlabel_id == page.netlabel_id %}
+						<span class="subheader"></span><a href="{{ netlabel.url }}">{{ netlabel.netlabel_name }}</a>
+						{% endif %}
+						{% endfor %}
+						<br>
 						Release Date: {{ page.release_date }}<br>
 						Release-ID: {{ page.release_id }}<br>
 						Music Style: {{ page.tags | join: ' – ' | upcase }}
