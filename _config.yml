@@ -97,6 +97,25 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: "your_author_name"
+  -
+    scope:
+      path: ""        
+      type: "netlabels"
+    values:
+      header: false
+  -
+    scope:
+      path: ""        
+      type: "reviews"
+    values:
+      header: false
+  -
+    scope:
+      path: ""        
+      type: "releases"
+    values:
+      header: false
+
 
 
 
