@@ -64,6 +64,12 @@
 	<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
 	{% if page.meta_description %}
 		<meta property="og:description" content="{{ page.meta_description | strip_html | escape }}"/>
+	{% elsif page.layout == 'release' %}
+		<meta property="og:description" content="Check out this netlabel release on Netlabels.org: »{{ page.release_title }}« by {{ page.release_artist }} on {{ page.netlabel_name }}"/>
+	{% elsif page.layout == 'netlabel' %}
+		<meta property="og:description" content="Find out more about {{ page.netlabel_name }} Netlabel on Netlabels.org and listen to releases, check out artists and images."/>
+	{% elsif page.layout == 'review' %}
+		<meta property="og:description" content="{{ page.teaser }}"/>
 	{% elsif page.description %}
 		<meta property="og:description" content="{{ page.description | strip_html | escape }}"/>
 	{% elsif site.description %}<meta property="og:description" content="{{ site.description | strip_html | escape }}"/>
@@ -76,8 +82,10 @@
 		<meta property="og:image" content="{{ site.urlimg }}netlabel-logo/{{ page.netlabel_logo }}" />
 	{% elsif page.layout == 'review' %}
 		<meta property="og:image" content="{{ site.urlimg }}cover/{{ page.netlabel_id }}/{{ page.image.title }}" />
-	{% else %}
+	{% elsif page.image.title %}
 		<meta property="og:image" content="{{ site.urlimg }}{{ page.image.title }}" />
+	{% else %}
+		<meta property="og:image" content="{{ site.url }}/assets/img/netlabels_org-favicon-512x.png" />
 	{% endif %}
 
 	{% if site.alexa_verify_id %}<meta name="alexaVerifyID" content="{{ site.alexa_verify_id }}" />{% endif %}
