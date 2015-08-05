@@ -13,11 +13,25 @@ image:
     homepage: blog/new-music-discoveries.jpg
 ---
 
-## »A Walk On Deep Snow« by rktic
+## Dubtechno: »A Walk On Deep Snow«...
 
-...[on »Northern Lights«]({{ site.url }}/release/thinner/thn005-rktic-northern-lights/)
+... by rktic on [»Northern Lights«]({{ site.url }}/release/thinner/thn005-rktic-northern-lights/).
 
 <audio controls>
   <source src="https://archive.org/download/thn005/thn005-05-rktic_-_a_walk_on_deep_snow.mp3" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+
+
+## Ambient: »sctl14«...
+
+from [»Tiefe Berge«]({{ site.url }}/release/autoplate/apl036-emil-klotzsch-tiefe-berge/) by [Emil Klotzsch](http://www.emilklotzsch.de/).
+
+<audio controls>
+  <source src="https://ia802609.us.archive.org/18/items/apl036/apl036-01-emil_klotzsch_-_sctl14.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
+
+
+
