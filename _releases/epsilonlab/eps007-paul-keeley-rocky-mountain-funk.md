@@ -5,8 +5,8 @@ netlabel_id: eps
 release_artist: Paul Keeley
 release_title: Rocky Mountain Funk
 release_id: eps07
-release_url: "https://archive.org/details/eps07"
-release_cover: "https://archive.org/download/eps07/eps07.jpg"
+release_url_archive_org: "https://archive.org/details/eps07"
+release_cover: "cover-eps007-paul-keeley-rocky-mountain-funk.jpg"
 release_date: 2004-01-10
 categories:
     - electronic music

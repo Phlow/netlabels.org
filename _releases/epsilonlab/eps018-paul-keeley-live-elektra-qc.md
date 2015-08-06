@@ -5,8 +5,8 @@ netlabel_id: eps
 release_artist: Paul Keeley
 release_title: Live @ Elektra, QC
 release_id: eps18
-release_url: "https://archive.org/details/EPS18"
-release_cover:
+release_url_archive_org: "https://archive.org/details/EPS18"
+release_cover: cover-eps018-paul-keeley-live-elektra-qc.jpg
 release_date: 2005-07-18
 categories:
     - electronic music
