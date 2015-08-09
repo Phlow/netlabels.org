@@ -12,6 +12,8 @@
   dropdown:
   - title: Resources
     url: /resources/
+  - title: Research
+    url: /research/
   - title: Music Reviews
     url: /reviews/
   - title: Interviews

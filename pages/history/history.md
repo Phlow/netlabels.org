@@ -31,14 +31,18 @@ This sub-archive represents a [collection of interviews][5] with musicians, arti
 
 
 
+## Netlabel Research & History
 
- [1]: {{ site.url }}/news/start/
- [2]: {{ site.url }}/history/netlabel-screenshots/
- [3]: {{ site.url }}/contact/
- [4]: {{ site.url }}/history/netaudio-flyer/
- [5]: {{ site.url }}/interviews/
- [6]: {{ site.url }}/reviews/
- [7]: #
+A collection of [articles researching netlabel history][7], theory, philosophy and impact of netlabel and netaudio culture.
+
+
+ [1]: {{ site.url }}/news/start/
+ [2]: {{ site.url }}/history/netlabel-screenshots/
+ [3]: {{ site.url }}/contact/
+ [4]: {{ site.url }}/history/netaudio-flyer/
+ [5]: {{ site.url }}/interviews/
+ [6]: {{ site.url }}/reviews/
+ [7]: {{ site.url }}/research/
  [8]: #
  [9]: #
  [10]: #
