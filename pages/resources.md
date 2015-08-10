@@ -3,6 +3,7 @@ layout: page-fullwidth
 subheadline:
 title: "Netaudio & Netlabel Resources"
 teaser: "You find netlabel releases and netaudio culture in these places fantastic places..."
+header: no
 permalink: "/resources/"
 show_meta: false
 ---

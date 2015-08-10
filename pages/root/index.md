@@ -16,6 +16,7 @@ widget-3:
     url: http://www.facebook.com/netlabels
     text: 'You have a netlabel? You want to promote your releases? Than <a href="http://www.facebook.com/netlabels">promote your new releases on our Facebook-Page</a>.'
     image: blog/unsplash_9-302x182.jpg
+permalink: /
 ---
 <div class="row t60">
 <div class="medium-6 columns" markdown="1">
