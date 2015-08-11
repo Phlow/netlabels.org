@@ -13,9 +13,18 @@ image:
     homepage: blog/new-music-discoveries.jpg
 ---
 
+## Dubtechno meets Acid »Orbicle«
+
+...by rktic on [»Acid Dubs«](https://archive.org/details/ratc009)
+
+<audio controls>
+  <source src="https://archive.org/download/ratc009/ratc009_02_rktic_-_orbicle.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
 ## Dubtechno: »A Walk On Deep Snow«...
 
-... by rktic on [»Northern Lights«]({{ site.url }}/release/thinner/thn005-rktic-northern-lights/).
+...by rktic on [»Northern Lights«]({{ site.url }}/release/thinner/thn005-rktic-northern-lights/).
 
 <audio controls>
   <source src="https://archive.org/download/thn005/thn005-05-rktic_-_a_walk_on_deep_snow.mp3" type="audio/mpeg">

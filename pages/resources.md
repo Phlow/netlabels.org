@@ -20,6 +20,7 @@ show_meta: false
 
 <img src="{{ site.urlimg }}/pages/logo-internet-archive-small.jpg" class="right" alt="">Since July 2003 Archive.org gives netlabels a home for their creative commons music releases. *»Internet Archive is a non-profit library of millions of free books, movies, software, music, and more.«* Without the help of Archive.org netlabel culture would starve in the corners of the web. Even while lot of netlabels are gone forever, you still find their music on [archive.org/details/netlabels][3].
 
+Check out the [forum for Netlabels on Archive.org][6]
 
 
 
@@ -46,10 +47,21 @@ the sonicsquirrel.net platform was started in summer 2005 as a side-project of a
 </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
+<div class="row">
+<div class="small-12 columns" markdown="1">
+<hr>
+<h2>Blogs, Magazines, Podcasts & Radioshows</h2>
+</div><!-- /.small-12.columns -->
+</div><!-- /.row -->
+
 
 <div class="row">
 <div class="medium-6 columns" markdown="1">
-## Blogs, Magazines, Podcasts & Radioshows
+## Englisch Resources
+
+### Phlow-Magazine.com
+
+[Phlow-Magazine.com][8] is a magazine about free mp3 music culture. Our magazine offers you free music to download from netlabels and musicians all over the globe. We pick the finest songs and digg the fattest grooves out of terrabytes of music released under a creative commons licence. Listen to our podcast, have a look into our mp3-archive of free music and read our portraits of amazing netlabels and musicians.
 
 - <http://machtdose.de/tag/podcast>
 - <http://www.netlabelism.com/>
@@ -60,6 +72,13 @@ the sonicsquirrel.net platform was started in summer 2005 as a side-project of a
 </div><!-- /.medium-6.columns -->
 <div class="medium-6 columns" markdown="1">
 
+## German Resources
+
+### Blog: Ex Und Hop
+
+[![Logo Ex Und Hop]({{ site.urlimg }}logo/logo-blog-ex-und-hop.png)][7]
+
+[Ex Und Hop][7] is a curated blog in German language that presents selected music released under creative commons licenses without focusing on special genres. Ex Und Hop emerged from the nightlife and music scene in Frankfurt and Offenbach. The blog is part of the Hype Machine, the largest handpicked listing of music blogs on the net and adds free (as in freedom) contributions to the discussion of international music lovers and music bloggers.
 
 
 </div><!-- /.medium-6.columns -->
@@ -71,8 +90,8 @@ the sonicsquirrel.net platform was started in summer 2005 as a side-project of a
  [3]: https://archive.org/details/netlabels
  [4]: https://www.scene.org/
  [5]: https://en.wikipedia.org/wiki/Demoscene
- [6]: #
- [7]: #
- [8]: #
+ [6]: https://archive.org/iathreads/forum-display.php?forum=netlabels
+ [7]: http://www.ex-und-hop.net/
+ [8]: http://phlow-magazine.com/
  [9]: #
  [10]: #
