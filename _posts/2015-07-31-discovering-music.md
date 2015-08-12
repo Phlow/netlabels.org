@@ -12,6 +12,23 @@ header:
 image:
     homepage: blog/new-music-discoveries.jpg
 ---
+## Lush Melodic Electronica
+
+Enjoy some guitars melodies from [Arrial on »For The Love«]({{ site.url }}/release/autoplate/apl043-va-a-summer-frost-and-a-winter-thaw/). Check out »Tomorrow I Start My Homework (Daniel Blomqvist Mix)« and the original.
+
+»Tomorrow I Start My Homework (Daniel Blomqvist Mix)«
+
+<audio controls>
+  <source src="http://archive.scene.org/pub/music/groups/thinner/autoplate/[apl043]-01-arrial_-_tomorrow_i_start_my_homework-(daniel_blomqvist_mix).mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
+»Tomorrow I Start My Homework«
+
+<audio controls>
+  <source src="http://archive.scene.org/pub/music/groups/thinner/autoplate/[apl043]-01-arrial_-_tomorrow_i_start_my_homework-(daniel_blomqvist_mix).mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
 
 ## Dubtechno meets Acid »Orbicle«
 

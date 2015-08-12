@@ -56,27 +56,29 @@ the sonicsquirrel.net platform was started in summer 2005 as a side-project of a
 
 
 <div class="row">
-<div class="medium-6 columns" markdown="1">
-## Englisch Resources
+<div class="medium-6 columns b30" markdown="1">
+<h2 class="b30">Englisch Resources</h2>
 
-### Phlow-Magazine.com
+[![Phlow]({{ site.urlimg }}logo/logo-phlow.png)][8]
 
 [Phlow-Magazine.com][8] is a magazine about free mp3 music culture. Our magazine offers you free music to download from netlabels and musicians all over the globe. We pick the finest songs and digg the fattest grooves out of terrabytes of music released under a creative commons licence. Listen to our podcast, have a look into our mp3-archive of free music and read our portraits of amazing netlabels and musicians.
+
+[![Starfrosch]({{ site.urlimg }}logo/logo-starfrosch.png)][9]
+
+As [seen on German Wired][10], [starfrosch][9] is a Creative Commons music blog, a radio station and the [#hot100 charts][11]. Every week we collect thousands of tracks from the most important music plattforms like Soundcloud, Archive.org and others. Only the most popular tracks are published on the charts, sorted by genre.
+
 
 - <http://machtdose.de/tag/podcast>
 - <http://www.netlabelism.com/>
 - <http://www.netwaves.org/>
-- <http://phlow-magazine.com/>
 
 
 </div><!-- /.medium-6.columns -->
 <div class="medium-6 columns" markdown="1">
 
-## German Resources
+<h2 class="b30">German Resources</h2>
 
-### Blog: Ex Und Hop
-
-[![Logo Ex Und Hop]({{ site.urlimg }}logo/logo-blog-ex-und-hop.png)][7]
+[![Logo Ex Und Hop]({{ site.urlimg }}logo/logo-blog-ex-und-hop.jpg)][7]
 
 [Ex Und Hop][7] is a curated blog in German language that presents selected music released under creative commons licenses without focusing on special genres. Ex Und Hop emerged from the nightlife and music scene in Frankfurt and Offenbach. The blog is part of the Hype Machine, the largest handpicked listing of music blogs on the net and adds free (as in freedom) contributions to the discussion of international music lovers and music bloggers.
 
@@ -93,5 +95,15 @@ the sonicsquirrel.net platform was started in summer 2005 as a side-project of a
  [6]: https://archive.org/iathreads/forum-display.php?forum=netlabels
  [7]: http://www.ex-und-hop.net/
  [8]: http://phlow-magazine.com/
- [9]: #
- [10]: #
+ [9]: http://starfrosch.com/
+ [10]: https://www.wired.de/collection/latest/so-sehen-die-charts-der-cc-musik-im-netz-aus
+ [11]: http://starfrosch.com/hot-100
+ [12]: #
+ [13]: #
+ [14]: #
+ [15]: #
+ [16]: #
+ [17]: #
+ [18]: #
+ [19]: #
+ [20]: #
