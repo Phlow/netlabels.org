@@ -17,10 +17,10 @@ release_date: 2004-03-02
 categories:
    - electronic music
 tags:
-   - Downbeat
-   - Chill Out
-   - IDM
-   - Electronica
+   - downbeat
+   - chill out
+   - idm
+   - electronica
 ---
 A familiar face from the staple Chill productions release group and our 101 compilation, we're excited to have 'relative q' drop his latest on us. 
 

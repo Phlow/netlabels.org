@@ -17,11 +17,10 @@ release_date: 2004-02-28
 categories:
    - electronic music
 tags:
-   - Experimental
-   - Rhythmic Noise
-   - Ambient/noise
-   - Minimalism
-   - Soundscape
+   - experimental
+   - ambient
+   - noise
+   - minimalism
 ---
 Leenak (kaneel) and Makunouchi Bento have once again put their minds together and created 'Errata', under their Miopedi collaboration. Often split releases come across with a fitting split persona, though Miopedi : Errata has strong personalities reminiscent of the ambience and sound that seemingly existed in memory long before you heard them.
 

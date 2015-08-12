@@ -17,8 +17,7 @@ release_date: 2004-02-24
 categories:
    - electronic music
 tags:
-   - Electronic
-   - House
+   - house
 ---
 Randomajestiq's becoming a familiar face and for good reason. His mixes are solid, well thought out and it show's almost instantly. 'Deepmove Mode' is less ecclectic and more melodic groove than his previous releases with kahvi, kikapu, autoplate, here and more.
 
