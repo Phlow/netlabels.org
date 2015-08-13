@@ -5,7 +5,7 @@ netlabel_id: thn
 release_artist: Marko Fürstenberg
 release_title: Classics
 release_id: thn078
-release_url: "https://archive.org/details/thn078"
+release_url_archive_org: "https://archive.org/details/thn078"
 release_cover: "cover-thn078-marko-fuerstenberg-classics.jpg"
 release_date: 2005-08-10
 categories:

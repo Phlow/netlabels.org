@@ -12,6 +12,16 @@ header:
 image:
     homepage: blog/new-music-discoveries.jpg
 ---
+## Fluffy House Music...
+
+...by [Digitalverein titled »Face The Horizon«]({{ site.url }}/release/thinner/thn033-digitalverein-internal-course/) on [Thinner]({{ site.url }}/thinner/).
+
+<audio controls>
+  <source src="https://archive.org/download/thn033/thn033-05-digitalverein_-_face_the_horizon.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
+
 ## Lush Melodic Electronica
 
 Enjoy some guitars melodies from [Arrial on »For The Love«]({{ site.url }}/release/autoplate/apl043-va-a-summer-frost-and-a-winter-thaw/). Check out »Tomorrow I Start My Homework (Daniel Blomqvist Mix)« and the original.

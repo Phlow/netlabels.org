@@ -5,7 +5,7 @@ netlabel_id: thn
 release_artist: Selffish
 release_title: Ena
 release_id: thn055
-release_url: "https://archive.org/details/thn055"
+release_url_archive_org: "https://archive.org/details/thn055"
 release_cover: "cover-thn055-selfish-ena.jpg"
 release_date: 2004-04-18
 categories:
