@@ -13,6 +13,26 @@ image:
     homepage: blog/new-music-discoveries.jpg
 ---
 
+## Some more IDM Gems...
+
+...by Plosive. Listen to
+
+»caught your tumble (plosive mix)«
+
+<audio controls>
+  <source src="https://archive.org/download/one027/one027_05-paranerd_-_caught_your_tumble_-_plosive_mix.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
+
+and one of my netaudio-alltime-favorites
+
+»likgiltligheten ((inte likgiltig langre mix by plosive)«
+
+<audio controls>
+  <source src="https://archive.org/download/one027/one027_06-partikel_-_likgiltligheten_-_inte_likgiltig_langre.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
 
 ## Playful, Diverse and Melodic IDM
 
