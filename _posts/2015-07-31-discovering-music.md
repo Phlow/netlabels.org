@@ -13,6 +13,17 @@ image:
     homepage: blog/new-music-discoveries.jpg
 ---
 
+## Smooth, Calm and Deep Minimal Techno
+
+I like [»3Winterwaerme« by Martin Donath]({{ site.url }}/release/realaudio/raam001-various-artists-liquid-times/) on [Realaudio]({{ site.url }}/realaudio/) very much. Just a relaxing, rolling groove with some crackles on top like a fire in the chimney.
+
+<audio controls>
+  <source src="https://archive.org/download/raam001/raam001_03-martin_donath_-_winterwaerme_vbr.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
+
+
 ## Some more IDM Gems...
 
 ...by Plosive. Listen to
@@ -69,7 +80,7 @@ and one of my netaudio-alltime-favorites
 
 ## Lush Melodic Electronica
 
-Enjoy some guitars melodies from [Arrial on »For The Love«]({{ site.url }}/release/autoplate/apl043-va-a-summer-frost-and-a-winter-thaw/). Check out »Tomorrow I Start My Homework (Daniel Blomqvist Mix)« and the original.
+Enjoy some guitars melodies from [Arrial on »For The Love«]({{ site.url }}/release/autoplate/apl043-va-a-summer-frost-and-a-winter-thaw/). Check out...
 
 »Tomorrow I Start My Homework (Daniel Blomqvist Mix)«
 
