@@ -1,10 +1,13 @@
-- title: Netlabels
-  url: /netlabels/
+- title: "Music"
+  url: /music/
   side: left
-
-- title: Releases
-  url: /releases/
-  side: left
+  dropdown:
+  - title: Netlabels
+    url: /netlabels/
+  - title: Releases
+    url: /releases/
+  - title: Music Reviews
+    url: /reviews/
 
 - title: "Resources & History"
   url: /history/
@@ -14,8 +17,6 @@
     url: /resources/
   - title: Research
     url: /research/
-  - title: Music Reviews
-    url: /reviews/
   - title: Interviews
     url: /interviews/
   - title: Netlabel Screenshots

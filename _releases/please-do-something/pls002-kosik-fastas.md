@@ -12,7 +12,7 @@ release_title: Fastas
 release_artist: KOSIK
 release_id: pls002
 release_url: "https://archive.org/details/pls002"
-release_cover: "https://ia700408.us.archive.org/20/items/pls002/pls002large.jpg"
+release_cover: "cover-pls002.jpg"
 release_date: 2004-04-01
 categories:
    - electronic music

@@ -12,7 +12,7 @@ release_title: Lost Pets
 release_artist: Khonnor
 release_id: pls001
 release_url: "https://archive.org/details/pls001"
-release_cover: "https://ia801403.us.archive.org/28/items/pls001/pls001large.jpg"
+release_cover: "cover-pls001.jpg"
 release_date: 2004-02-01
 categories:
    - electronic music

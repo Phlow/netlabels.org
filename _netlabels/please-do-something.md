@@ -2,7 +2,7 @@
 layout: netlabel
 netlabel_name: Please Do Something
 netlabel_id: pls
-netlabel_logo:
+netlabel_logo: "logo-pleasedosomething.jpg"
 netlabel_archive_org: "https://archive.org/details/pleasedosomething"
 categories:
     - electronic music

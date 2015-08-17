@@ -12,7 +12,7 @@ release_title: Wedding Rings & Bullets In The Same Golden Shrine
 release_artist: Sickoakes
 release_id: pls003
 release_url: "https://archive.org/details/pls003"
-release_cover: "https://ia600401.us.archive.org/8/items/pls003/pls003large.jpg"
+release_cover: "cover-pls003.jpg"
 release_date: 2004-04-01
 categories:
    - electronic music
