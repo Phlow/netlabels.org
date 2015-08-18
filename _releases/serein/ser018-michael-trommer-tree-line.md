@@ -8,22 +8,30 @@ netlabel_id: ser
 #
 #   Release Info
 #
-release_title: Red After Image
-release_artist: Daniel Maze
-release_id: ser016
+release_title: Tree Line
+release_artist: Michael Trommer
+release_id: ser018
 release_url: "http://www.serein.co.uk/archive"
-release_url_archive_org: "https://archive.org/details/ser016"
-release_cover: "cover-ser016-daniel-maze-red-after-image.jpg"
-release_date: 2008-04-03
+release_url_archive_org: "https://archive.org/details/ser018"
+release_cover: "cover-ser018-michael-trommer-tree-line.jpg"
+release_date: 2008-11-18
 categories:
    - electronic music
 tags:
    - ambient
 ---
-We have been itching to get this release out for some time now, and it is my pleasure to announce that the day has finally arrived. Serein is again welcoming a new friend to the family in the form of Daniel Maze, a name some may be familiar with due to several noteable releases on labels such as 12Rec and Monocromatica.
+Michael Trommer is a multi-disciplinary artist based in Toronto, Canada. Prior to landing at Serein, Michael enjoyed releases on a large number of notable labels, both net based and otherwise. In the past he has contributed work to the Thinner netlabel, while more recently Fountain Music have released a split EP by himself and 'Genevieve'. While the aforementioned releases saw him assume his 'Sans Soleil' moniker (a name he reserves for his 4/4 oriented output), Trommer also creates contemporary ambient music of the highest calibre. As you may have guessed, it is this latter style Michael explores on his first release for Serein, 'Tree Line'.
 
-This release originally came to me in the form of a six track EP, which I was more than eager to release; Daniel however was not content and some weeks later he presented me with a full length album, including several new pieces. The time and attention Maze gives to his compositions can only be commended - and what of the music?
+'Tree Line' comprises seven tracks which together span just under one hour, this may give some clues as to the nature of the music. The pieces are long, drawn out affairs, building from silence into shimmering walls of noise and back again. While the sounds themselves have a very electronic, modern feel, there can also be heard the artifacts left behind by analog recording. This delicate balance lends a very personal and sincere quality to the music. While this album works very well played quietly (as typified by 'ambient' music), it is worth noting that the tracks really come to life at higher volumes. Only then do you really get to appreciate the gutsy low frequencies and the myriad of micro-sounds to be found within the music.
 
-Red After Image is a delightfully strange album. From the offset it seems as though Daniel Maze has made it his duty to challenge any preconceptions we may have; be those preconceptions about electronic music in the broader scope, or merely what we've come to expect from net labels. Daniel has created something that is at once recognisable whilst also sounding remarkably fresh. There are surprises abound in this release that are sure to win the hearts of many listeners.
+In all this is a very well realised album by an artist who seems able to do no wrong!
 
-It is a rare gift to be able to produce such a gem as this, with its otherworldly melodies so intricately woven and the obvious care and attention Daniel bestows upon his craft - Red After Image will surely remain in our memories for a long time to come.
+1. february lakes
+2. wallace stevens
+3. fluoro park
+4. frau straubinger
+5. champ de mars
+6. octoberfield
+7. morning haze
+
+Run time 54:10
