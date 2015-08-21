@@ -12,6 +12,7 @@ release_title: Intelligent Toys
 release_artist: Various Artists
 release_id: sute002
 release_url: "http://sutemos.shnaresys.com/en/player;page,4"
+release_url_archive_org: "https://archive.org/details/sute002"
 release_cover: "http://sutemos.shnaresys.com/en/uploads/photos/28bb5b5db20c.jpg"
 release_date: 2004-02-29
 categories:
