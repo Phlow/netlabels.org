@@ -13,7 +13,7 @@ release_artist: 3tronik
 release_id: sute006
 # release_url: ""
 release_url_archive_org: "https://archive.org/details/sute006"
-release_cover: "cover-sutemos-006.jpg"
+release_cover: "cover-sutemos006.jpg"
 release_date: 2004-09-10
 categories:
    - electronic music

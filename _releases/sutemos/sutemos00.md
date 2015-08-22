@@ -13,7 +13,7 @@ release_artist:
 release_id: sute00
 # release_url: ""
 release_url_archive_org: "https://archive.org/details/sute00"
-release_cover: ""
+release_cover: "cover-sutemos0.jpg"
 release_date: 
 categories:
    - electronic music
