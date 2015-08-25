@@ -1,9 +1,26 @@
-<metadata>
-  <title>stockfinster. - Dead Line (Sutemos025)</title>
-  <description>We noticed that we are getting slower with every release.
-This time it took a lot of effort both for us and the producer of this wonderful album to bring it to you.
-Every corner, every single dust, every bit of this musical piece has been polished and carefully selected.
-It took us almost two years to make it happen. During this time endless number of listens, comments on tracks, versions of playlists were done. We really hope you won't hear that in this album:)
+---
+layout: release
+#
+#   Netlabel of Release
+#
+netlabel_name: Sutemos
+netlabel_id: sutemos
+#
+#   Release Info
+#
+release_title: Dead Line
+release_artist: stockfinster
+release_id: sute025
+# release_url: ""
+release_url_archive_org: "https://archive.org/details/Stockfinster.-DeadLinesutemos025"
+release_cover: "cover-sutemos025.jpg"
+release_date: 2009-09-08
+categories:
+   - electronic music
+tags:
+   - idm
+---
+We noticed that we are getting slower with every release. This time it took a lot of effort both for us and the producer of this wonderful album to bring it to you. Every corner, every single dust, every bit of this musical piece has been polished and carefully selected. It took us almost two years to make it happen. During this time endless number of listens, comments on tracks, versions of playlists were done. We really hope you won't hear that in this album:)
 
 Let us bring you the thoughts of creator of this album - he will definately get you into the story of Dead Line better than we do.
 
@@ -22,9 +39,4 @@ All tracks are mastered by &lt;a href="http://www.kalmbach.se/%20target=_blank" 
 
 So here you have thirteen new tracks. They range from very old to brand new tracks, but I donÃt think it is obvious which ones are which. As I listen back to this collection of songs I feel happy. There are no stones left unturned. Everything is in its right place. I hope you will feel the same way."
 
-Enjoy.</description>
-  <subject>Sutemos; stockfinster</subject>
-  <creator/>
-  <identifier>Stockfinster.-DeadLinesutemos025</identifier>
-  <addeddate>2009-09-08 21:11:01</addeddate>
-</metadata>
+Enjoy.
