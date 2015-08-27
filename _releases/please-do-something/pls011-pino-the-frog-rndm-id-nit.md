@@ -1,6 +1,24 @@
-<metadata>
-  <identifier>pls011</identifier>
-  <description>&lt;b&gt;The sound that outran obsolescence.&lt;/b&gt;
+---
+layout: release
+#
+#   Netlabel of Release
+#
+netlabel_name: Please Do Something
+netlabel_id: pls
+#
+#   Release Info
+#
+release_title: rndm.i(d)nit
+release_artist: Pino The Frog
+release_id: pls011
+release_url: "https://archive.org/details/pls011"
+release_cover: "cover-pls011.jpg"
+release_date: 2004-01-04
+categories:
+   - electronic music
+tags:
+---
+&lt;b&gt;The sound that outran obsolescence.&lt;/b&gt;
 
 Patrick Valiquet, a pianist and sound designer who recently relocated his distinct Montreal sound to Vancouver, sent us these pieces of short-style abstract music -- a roughly fifteen minute exploration in, around, and through a two-second Thelonious Monk sample - all propelled carefully by orchestrated misfirings, coincidences, and a velocity that escapes the pull of metronomic undertow.
 
@@ -8,8 +26,4 @@ Included here are six pieces in a beautiful modern interpretation of Monk's dece
 
 And certainly decades later we can hear Monk's important influence on timbre, tone, and rhythm in this great Pino The Frog release of pauses and unstable volume and the sounds in between.
 
-His previous release, Miniatures, can be heard at Nishi. </description>
-  <title>Pino The Frog - rndm.i(d)nit [pls011]</title>
-  <addeddate>2004-01-04 20:07:35</addeddate>
-  <numeric_id>1988</numeric_id>
-</metadata>
+His previous release, Miniatures, can be heard at Nishi.
