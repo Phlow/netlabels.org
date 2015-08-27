@@ -57,7 +57,7 @@ the sonicsquirrel.net platform was started in summer 2005 as a side-project of a
 
 <div class="row">
 <div class="medium-6 columns b30" markdown="1">
-<h2 class="b30">Englisch Resources</h2>
+<h2 id="english-resources" class="b30">Englisch Resources</h2>
 
 [![Phlow]({{ site.urlimg }}logo/logo-phlow.png)][8]
 
