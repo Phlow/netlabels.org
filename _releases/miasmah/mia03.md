@@ -10,9 +10,9 @@ netlabel_id: mia
 #
 release_title: 
 release_artist: 
-release_id: mia0
-release_url: "https://archive.org/details/mia0"
-release_cover: "cover-mia0.jpg"
+release_id: mia03
+release_url: "https://archive.org/details/mia03"
+release_cover: "cover-mia03.jpg"
 release_date: 
 categories:
    - electronic music
