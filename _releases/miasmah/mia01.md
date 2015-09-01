@@ -10,12 +10,12 @@ netlabel_id: mia
 #
 release_title: 
 release_artist: 
-release_id: mia03
-release_url: "https://archive.org/details/mia03"
-release_cover: "cover-mia03.jpg"
+release_id: mia01
+release_url: "https://archive.org/details/mia01"
+release_cover: "cover-mia01.jpg"
 release_date: 
 categories:
    - electronic music
 tags:
-   - ambient
+   - 
 ---
