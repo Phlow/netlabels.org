@@ -25,7 +25,7 @@ tags:
     - frank molder
     - mp3
 image:
-    title: cover-1bit20-frank-molder-firefox.jpg
+    title: cover-1bit020.jpg
 date: 2008-04-16
 language: de
 author: Moritz »mo.« Sauer
