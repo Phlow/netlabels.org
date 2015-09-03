@@ -11,6 +11,10 @@ tags:
     - techno
     - house
     - dubtechno
+highlights:
+    - eps02
+    - eps08
+    - eps18
 ---
 Epsilonlab is a Montreal-based audio-visual label dedicated to promotion of innovative electronic music and digital art. Releases include CDs, DVDs and a constantly-evolving repertoire of downloadable audio-visual files.
 

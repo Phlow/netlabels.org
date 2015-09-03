@@ -51,11 +51,25 @@ format: netlabel
 					<hr>
 					Releases in Catalogue: {% assign release_count = 0 %}{% for item in site.releases %}{% if item.netlabel_id == page.netlabel_id %}{% assign release_count = release_count | plus:1 %}{% endif %}{% endfor %}{{ release_count }}<br>
 					Netlabel-ID: {{ page.netlabel_id }}<br>
-					Category: {{ page.categories | join: ' – ' | upcase }}<br>
-					Music Style: {{ page.tags | join: ' – ' | upcase }}
+					Category: {{ page.categories | join: ' – ' | upcase }}<br>
+					Music Style: {{ page.tags | join: ' – ' | upcase }}
 					<hr>
 				</div>
 			</span>
+
+			{% unless page.highlights == NULL %}
+				<h2>Highlights</h2>
+
+				<ul class="small-block-grid-3">
+				{% for highlight in page.highlights %}
+					{% for release in site.releases %}
+						{% if release.release_id == highlight %}
+							<li><a href="{{ site.url }}{{ release.url }}"><img src="{% if release.release_cover contains 'http' %}{{ release.release_cover }}{% elsif release.release_cover %}{{ site.url }}/images/cover/{{ release.netlabel_id }}/{{ release.release_cover }}{% endif %}" alt="Cover of {{ release.release_title }}"></a></li>
+						{% endif %}
+					{% endfor %}
+				{% endfor %}
+				</ul>
+			{% endunless %}
 
 
 			<h2>Releases</h2>
@@ -64,7 +78,7 @@ format: netlabel
 				{% for release in site.releases %}
 					{% if release.netlabel_id == page.netlabel_id %}
 						{% unless release.published == false %}
-						<li><a href="{{ site.url }}{{ release.url }}"><span class="subheader">{{ release.release_id }}</span> {{ release.release_artist }} – »{{ release.release_title }}«</a></li>
+						<li><a href="{{ site.url }}{{ release.url }}"><span class="subheader">{{ release.release_id }}</span> {{ release.release_artist }} – »{{ release.release_title }}«</a></li>
 						{% endunless %}
 					{% endif %}
 				{% endfor %}

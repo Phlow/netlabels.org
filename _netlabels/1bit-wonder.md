@@ -12,6 +12,10 @@ tags:
     - chill out
     - downbeats
     - house
+highlights:
+    - 1bit002
+    - 1bit020
+    - 1bit026
 ---
 Yippee! One more netlabel. Just more music that has to be thrown away on the net for free as it is not good enough to come out on a "real label"? Totally wrong: We run 1bit wonder because we want to release music without any restraints. Music that we think deserves more than to circulate tape wise through the same car radios all the time. And nevertheless, we - probably like every other netlabel as well - will try to show that "free culture" does not mean "worthless" but instead can be a highly qualitative alternative to the deadlocked machinery of music industry. 
 

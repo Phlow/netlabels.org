@@ -21,6 +21,10 @@ gallery:
       caption: Homepage One Netlabel – another time
     - image_url: screenshot-one-netlabel-5.png
       caption: About Page of One Netlabel
+highlights:
+    - one012
+    - one015
+    - one028
 ---
 One is brought together through the time and work of:
 

@@ -12,6 +12,12 @@ header:
 image:
     homepage: blog/new-music-discoveries.jpg
 ---
+## Melodic Chill Out
+
+You mustn't rip [»Blond But Dark EP« by Supine]({{ site.url }}/release/miasmah/mia039-supine-blond-but-dark-ep/) appart... It works in one wonderful flow. Perfect dreamy and melodic music to drift away.
+
+
+
 
 ## Smooth, Calm and Deep Minimal Techno
 
