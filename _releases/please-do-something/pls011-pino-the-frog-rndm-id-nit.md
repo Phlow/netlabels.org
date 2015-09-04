@@ -11,7 +11,7 @@ netlabel_id: pls
 release_title: rndm.i(d)nit
 release_artist: Pino The Frog
 release_id: pls011
-release_url: "https://archive.org/details/pls011"
+release_url_archive_org: "https://archive.org/details/pls011"
 release_cover: "cover-pls011.jpg"
 release_date: 2004-01-04
 categories:

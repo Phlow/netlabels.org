@@ -9,6 +9,10 @@ categories:
 tags:
     - ambient
     - experimental music
+highlights:
+    - apl038
+    - apl036
+    - apl039
 ---
 Autoplate was founded in Spring 2002, and released a number of EPs that represent the wide categories and influences electronic music has spread into. Autoplate was the [Thinner][1] sublabel for experimental electronic music. It was born in summer 2001 and put to rest in 2008.
 

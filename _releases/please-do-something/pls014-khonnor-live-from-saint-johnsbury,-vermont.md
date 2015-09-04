@@ -11,7 +11,7 @@ netlabel_id: pls
 release_title: "Live from Saint Johnsbury, Vermont"
 release_artist: Khonnor
 release_id: pls014
-release_url: "https://archive.org/details/pls014"
+release_url_archive_org: "https://archive.org/details/pls014"
 release_cover: "cover-pls014.jpg"
 release_date: 2004-01-09
 categories:

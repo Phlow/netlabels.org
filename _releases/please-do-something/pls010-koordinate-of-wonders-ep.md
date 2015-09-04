@@ -11,7 +11,7 @@ netlabel_id: pls
 release_title: EP
 release_artist: Koordinate of Wonders
 release_id: pls010
-release_url: "https://archive.org/details/pls010"
+release_url_archive_org: "https://archive.org/details/pls010"
 release_cover: "cover-pls010.jpg"
 release_date: 2004-01-04
 categories:

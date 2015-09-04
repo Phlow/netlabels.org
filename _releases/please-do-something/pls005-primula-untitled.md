@@ -11,7 +11,7 @@ netlabel_id: pls
 release_title: Untitled
 release_artist: Primula
 release_id: pls005
-release_url: "https://archive.org/details/pls005"
+release_url_archive_org: "https://archive.org/details/pls005"
 release_cover: "cover-pls005.jpg"
 release_date: 2004-01-04
 categories:

@@ -11,7 +11,7 @@ netlabel_id: pls
 release_title: 19
 release_artist: Symphonic Stereo
 release_id: pls006
-release_url: "https://archive.org/details/pls006"
+release_url_archive_org: "https://archive.org/details/pls006"
 release_cover: "cover-pls006.jpg"
 release_date: 2004-01-04
 categories:

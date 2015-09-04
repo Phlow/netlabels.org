@@ -12,5 +12,9 @@ tags:
     - ambient
     - chill out
     - idm
+highlights:
+    - sute007
+    - sute014
+    - sute026
 ---
 Sutemos is a Lithuanian-based netlabel specialising in mellow, melodic and minimal styles of electronic music.

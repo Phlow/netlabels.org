@@ -10,7 +10,7 @@ netlabel_id: jtr
 #
 release_title: The Stars My Destination
 release_artist: Jahtari Riddim Force
-release_id: jtrnet01
+release_id: jtrnet02
 release_url: "http://www.jahtari.org/music/JTR%20NET02.htm"
 release_url_archive_org: "https://archive.org/details/JTRNET02"
 release_cover: "cover-jtrnet02.jpg"

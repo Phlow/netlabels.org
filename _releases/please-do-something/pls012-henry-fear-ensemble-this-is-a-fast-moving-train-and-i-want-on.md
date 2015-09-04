@@ -11,7 +11,7 @@ netlabel_id: pls
 release_title: This is a fast moving train and I want on
 release_artist: Henry Fear Ensemble
 release_id: pls012
-release_url: "https://archive.org/details/pls012"
+release_url_archive_org: "https://archive.org/details/pls012"
 release_cover: "cover-pls012.jpg"
 release_date: 2004-01-04
 categories:

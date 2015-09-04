@@ -11,7 +11,7 @@ netlabel_id: pls
 release_title: Katthimmel EP
 release_artist: "Lukas Nystrand &amp; Karl Johansson"
 release_id: pls015
-release_url: "https://archive.org/details/pls015"
+release_url_archive_org: "https://archive.org/details/pls015"
 release_cover: "cover-pls015.jpg"
 release_date: 2004-01-19
 categories:

@@ -8,11 +8,12 @@ netlabel_id: stadt
 #
 #   Release Info
 #
-release_title: Wookiee Woods 
+release_title: Wookiee Woods
 release_artist: Frank Biedermann
 release_id: stadt004
 release_url: "http://www.stadtgruenlabel.net/?http://www.stadtgruenlabel.net/index.php?locator=releases&id=8"
-release_cover: "https://ia800301.us.archive.org/11/items/stadt004/stadt004_large.jpg"
+release_url_archive_org: "https://archive.org/details/stadt004"
+release_cover: "cover-stadt004.jpg"
 release_date: 2004-08-22
 categories:
    - electronic music

@@ -11,7 +11,7 @@ netlabel_id: pls
 release_title: Chronology Brought
 release_artist: Pocka
 release_id: pls009
-release_url: "https://archive.org/details/pls009"
+release_url_archive_org: "https://archive.org/details/pls009"
 release_cover: "cover-pls009.jpg"
 release_date: 2004-01-04
 categories:

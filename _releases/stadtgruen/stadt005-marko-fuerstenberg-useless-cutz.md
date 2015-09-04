@@ -12,7 +12,8 @@ release_title: Useless Cutz
 release_artist: Marko Fuerstenberg
 release_id: stadt005
 release_url: "http://www.stadtgruenlabel.net/index.php?locator=releases&id=10"
-release_cover: "http://www.stadtgruenlabel.net/images/photos/content/rc_stadt005.jpg"
+release_url_archive_org: "https://archive.org/details/stadt005"
+release_cover: "cover-stadt005.jpg"
 release_date: 2004-10-13
 categories:
    - electronic music

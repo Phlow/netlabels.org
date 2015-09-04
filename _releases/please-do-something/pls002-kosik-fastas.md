@@ -11,7 +11,7 @@ netlabel_id: pls
 release_title: Fastas
 release_artist: KOSIK
 release_id: pls002
-release_url: "https://archive.org/details/pls002"
+release_url_archive_org: "https://archive.org/details/pls002"
 release_cover: "cover-pls002.jpg"
 release_date: 2004-04-01
 categories:

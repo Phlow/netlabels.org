@@ -11,7 +11,7 @@ netlabel_id: pls
 release_title: Razmer Nosa
 release_artist: Gultskra Artikler
 release_id: pls004
-release_url: "https://archive.org/details/pls004"
+release_url_archive_org: "https://archive.org/details/pls004"
 release_cover: "cover-pls004.jpg"
 release_date: 2004-04-01
 categories:

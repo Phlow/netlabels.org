@@ -11,6 +11,10 @@ tags:
     - reggae
     - dub
     - chipmusic
+highlights:
+    - jtrnet01
+    - jtrnet06
+    - jtrnet08
 ---
 In case you haven't heard of us so far (which is more than likely at the 
 moment) just some words of explanation about JAHTARI.

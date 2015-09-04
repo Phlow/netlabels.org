@@ -11,7 +11,7 @@ netlabel_id: pls
 release_title: I never want to return
 release_artist: Colophon
 release_id: pls007
-release_url: "https://archive.org/details/pls007"
+release_url_archive_org: "https://archive.org/details/pls007"
 release_cover: "cover-pls007.jpg"
 release_date: 2004-01-04
 categories:
