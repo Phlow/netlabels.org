@@ -10,6 +10,10 @@ categories:
 tags:
     - ambient
     - experimental music
+highlights:
+    - ser013
+    - ser010
+    - ser016
 ---
 Based in Wales, Serein is a record label founded in October of 2005 as a venture to promote artists and their work online. The label's output was originally made available to download for free, but in the interest of continued growth, a decision was made in early 2009 to explore some carefully considered commercial avenues.
 

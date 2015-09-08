@@ -10,5 +10,9 @@ tags:
     - ambient
     - electronica
     - indie
+highlights:
+    - pls001
+    - pls002
+    - pls003
 ---
 Please Do Something is a net.label offering »Music For A Colourful Life«, and including indie, electronic, and melodic tracks in equal amounts for free MP3 download. Put simply, we're an all-genre netlabel interested in helping you get through life with good music.

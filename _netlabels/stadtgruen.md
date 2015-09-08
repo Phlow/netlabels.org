@@ -15,7 +15,6 @@ tags:
 highlights:
     - stadt004
     - gruen002
-    - stadt005
     - gruen026
 ---
 The german word Stadtgruen describes the urban parks and gardens where the modern spirit can ground itself and harmonize with its roots.
