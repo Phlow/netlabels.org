@@ -10,6 +10,10 @@ categories:
 tags:
     - downbeat
     - chillout
+highlights:
+    - aqv001
+    - aqv007
+    - aqv012
 ---
 The Aquavelvas is a non-profit netlabel formed in 2004 by Karsten Lange Fischer (Felix) and Thomas Alexander Vaags (Roleks). We offer electronic music in free mp3 format.
 
