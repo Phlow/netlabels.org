@@ -1,9 +1,15 @@
 ---
 layout: release
+#
+#   Netlabel of Release
+#
 netlabel_name: Thinner
 netlabel_id: thn
-release_artist: Digitalverein
+#
+#   Release Info
+#
 release_title: Internal Course
+release_artist: Digitalverein
 release_id: thn033
 release_url_archive_org: "https://archive.org/details/thn033"
 release_url_scene_org: "https://files.scene.org/browse/music/groups/thinner/zip/"

@@ -1,9 +1,15 @@
 ---
 layout: release
+#
+#   Netlabel of Release
+#
 netlabel_name: Thinner
 netlabel_id: thn
-release_artist: Rktic
+#
+#   Release Info
+#
 release_title: Northern Lights
+release_artist: Rktic
 release_id: thn005
 release_url_archive_org: "https://archive.org/details/thn005"
 release_url_scene_org: "https://files.scene.org/browse/music/groups/thinner/zip/"

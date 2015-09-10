@@ -1,7 +1,13 @@
 ---
 layout: release
+#
+#   Netlabel of Release
+#
 netlabel_name: Thinner
 netlabel_id: thn
+#
+#   Release Info
+#
 release_artist: Chronolux
 release_title: The Manila Context EP 
 release_id: thn041

@@ -1,7 +1,13 @@
 ---
 layout: release
+#
+#   Netlabel of Release
+#
 netlabel_name: Thinner
 netlabel_id: thn
+#
+#   Release Info
+#
 release_artist: Paul Keeley
 release_title: Sussex Blue EP
 release_id: thn048

@@ -1,7 +1,13 @@
 ---
 layout: release
+#
+#   Netlabel of Release
+#
 netlabel_name: Thinner
 netlabel_id: thn
+#
+#   Release Info
+#
 release_artist: Kraftfuttermischwerk
 release_title: Blüte seines Lebens
 release_id: thn097

@@ -1,7 +1,13 @@
 ---
 layout: release
+#
+#   Netlabel of Release
+#
 netlabel_name: Thinner
 netlabel_id: thn
+#
+#   Release Info
+#
 release_artist: Marko Fürstenberg
 release_title: Gesamtlaufzeit LP
 release_id: thn047

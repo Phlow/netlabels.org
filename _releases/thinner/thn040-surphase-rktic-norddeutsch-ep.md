@@ -1,9 +1,15 @@
 ---
 layout: release
+#
+#   Netlabel of Release
+#
 netlabel_name: Thinner
 netlabel_id: thn
-release_artist: Surphase & Rktic
+#
+#   Release Info
+#
 release_title: Norddeutsch EP
+release_artist: Surphase & Rktic
 release_id: thn040
 release_url_archive_org: "https://archive.org/details/thn040"
 release_url_scene_org: "https://files.scene.org/browse/music/groups/thinner/zip/"
