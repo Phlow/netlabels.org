@@ -14,6 +14,7 @@ tags:
 highlights:
     - thn047
     - thn048
+    - thn040
     - thn058
 ---
 Thinner is a netlabel founded by Thomas Jaldemark and it was mainly operated by Sebastian Redenz and Ole Schulte as leading parts of an international team until 2009. Thinner has a history that reaches until 1998. Based in Frankfurt, Germany, Thinner was one of the most consistent and successful netlabels.
