@@ -8,8 +8,8 @@ netlabel_id: thn
 #
 #   Release Info
 #
-release_artist: Various Artists
 release_title: 100
+release_artist: Various Artists
 release_id: thn100
 release_url_scene_org: "https://files.scene.org/browse/music/groups/thinner/zip/"
 release_cover: cover-thn100-various-artists-100.jpg

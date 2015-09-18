@@ -8,10 +8,9 @@ netlabel_id: thn
 #
 #   Release Info
 #
-release_artist: Kraftfuttermischwerk
 release_title: Blüte seines Lebens
+release_artist: Kraftfuttermischwerk
 release_id: thn097
-release_url_archive_org: "https://archive.org/details/thn097"
 release_url_scene_org: "https://files.scene.org/browse/music/groups/thinner/zip/"
 release_cover: cover-thn097-das-kraftfuttermischwerk-bluete-seines-lebens.jpg
 release_date: 2007-08-28
