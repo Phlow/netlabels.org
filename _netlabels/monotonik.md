@@ -3,7 +3,6 @@ layout: netlabel
 netlabel_name: Monotonik
 netlabel_id: mtk
 netlabel_logo: "logo-monotonik.jpg"
-netlabel_url: "https://archive.org/details/monotonik"
 netlabel_archive_org: "https://archive.org/details/monotonik"
 categories:
     - electronic music
