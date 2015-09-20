@@ -11,6 +11,10 @@ tags:
     - idm
     - electronica
     - ambient
+highlights:
+    - mtk006
+    - mtk175
+    - mtk213
 ---
 Monotonik is an Internet-only music label that *exclusively* releases electronic music online in the mp3 format. 
 
