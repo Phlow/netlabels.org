@@ -17,7 +17,6 @@ release_date: 2009-08-09
 categories:
    - electronic music
 tags:
-   - ambient
    - electronica
 ---
 It's fitting that the final release on Monotonik, perhaps for ever, will be from someone new, because we've always tried to promote new and interesting artists. Mike Kidd brought the 'Impermanence EP' to us and we thought it right, and good, because it combines the melodies we crave with the deep happiness of a well-crafted tune.
