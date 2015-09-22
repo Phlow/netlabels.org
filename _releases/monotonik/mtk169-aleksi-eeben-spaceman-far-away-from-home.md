@@ -18,6 +18,10 @@ categories:
    - electronic music
 tags:
    - electronica
+   - idm
+   - breakbeats
+   - downbeats
+   - drill'n'bass
 ---
 Seriously, what else is there to say about Finnish old-school Amiga demo scene legend Aleksi Eeben, aka Heatbeat? Way back in 1990 or so, when he was in his early teens, he produced some of the best music the Amiga has ever heard. As his talent grew throughout the '90s and into the new century, his jazz influences and unique retro electronic background (he also codes music composition software for the Commodore 64, Game Boy and even VIC-20) have produced an unbelievably unique style. 
 
