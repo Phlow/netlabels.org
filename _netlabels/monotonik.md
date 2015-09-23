@@ -14,15 +14,22 @@ highlights:
     - mtk001
     - mtk006
     - mtk005
+    - mtk015
     - mtk021
     - mtk022
+    - mtk023
     - mtk030
+    - mtk045
     - mtk059
+    - mtk066
+    - mtk076
+    - mtk092
     - mtk108
     - mtk140
     - mtk143
     - mtk169
     - mtk175
+    - mtk189
     - mtk213
 gallery:
     - image_url: screenshot-monotonik-netlabel-1.jpg
