@@ -13,7 +13,7 @@ release_artist: Malty Media
 release_id: mtk214
 release_url: "https://archive.org/details/mtk214"
 release_cover: "cover-mtk214.jpg"
-release_date: release_date: 2009-12-06 
+release_date: 2009-12-06
 categories:
    - electronic music
 tags:

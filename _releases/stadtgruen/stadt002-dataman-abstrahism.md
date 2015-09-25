@@ -14,7 +14,7 @@ release_id: stadt002
 release_url: "http://www.stadtgruenlabel.net/?http://www.stadtgruenlabel.net/index.php?locator=releases&id=4"
 release_url_archive_org: "https://archive.org/details/stadt002"
 release_cover: "cover-stadt002.jpg"
-release_date: 
+release_date: 2004-04-01
 categories:
    - electronic music
 tags:

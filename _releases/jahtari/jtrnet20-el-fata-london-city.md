@@ -8,8 +8,8 @@ netlabel_id: jtr
 #
 #   Release Info
 #
-release_title: Bring The Sensi / Dressla - Bomb Their Circles
-release_artist: Scotty
+release_title: London City
+release_artist: El Fata
 release_id: jtrnet20
 release_url: "http://www.jahtari.org/music/JTRNET20.htm"
 release_cover: "cover-jtrnet20.jpg"

@@ -13,7 +13,7 @@ release_artist: System-Pi
 release_id: stadt013
 release_url: "http://www.stadtgruenlabel.net/?http://www.stadtgruenlabel.net/index.php?locator=releases&id=28"
 release_cover: "cover-stadt013.jpg"
-release_date: 
+release_date: 2006-03-26
 categories:
    - electronic music
 tags:

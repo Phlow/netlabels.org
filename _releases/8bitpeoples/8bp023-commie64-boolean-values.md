@@ -14,7 +14,7 @@ release_id: 8bp023
 release_url: "http://www.8bitpeoples.com/products/520153-commie64-boolean-values"
 release_url_archive_org: "https://archive.org/details/8bp023"
 release_cover: "cover-8bp023.gif"
-release_date: 
+release_date: 2003-07-09
 categories:
    - electronic music
 tags:

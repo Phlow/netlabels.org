@@ -13,7 +13,7 @@ release_artist: Christian Dittmann
 release_id: thn092
 release_url_scene_org: "https://files.scene.org/browse/music/groups/thinner/zip/"
 release_cover: cover-thn092.jpg
-release_date: 
+release_date: 2007-02-25
 categories:
    - electronic music
 tags:
