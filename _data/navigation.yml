@@ -41,6 +41,10 @@
 #   url: "/contact/"
 #   side: right
 
+- title: "Search"
+  url: "/search/"
+  side: right
+
 - title: "Info"
   url: "/info/"
   side: right
