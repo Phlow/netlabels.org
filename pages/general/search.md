@@ -1,7 +1,8 @@
 ---
 layout: page
-show_meta: false
 title: "Search"
+header: no
+show_meta: false
 permalink: "/search/"
 ---
 
