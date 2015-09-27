@@ -14,6 +14,10 @@ tags:
     - ambient
     - experimental
     - electronica
+highlights:
+    - cam049
+    - cam100
+    - cam102
 ---
 {% include alert info='<a href="https://web.archive.org/web/20060430011346/http://camomille.genshimedia.com/aboutus.htm">Information taken from the Waybackmachine.</a>' %}
 
