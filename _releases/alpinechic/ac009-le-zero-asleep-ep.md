@@ -17,8 +17,7 @@ release_date: 2004-10-11
 categories:
    - electronic music
 tags:
-   - elektro
-   - punk
+   - elektropunk
 ---
 After 6 months from his first ep release, Le Zero delivers an other magnificent and eclectic mini album to AlpineChic. Asleep Ep is a very versatile sound experience that shows all the production qualities of the very talented songwriter Amin Khatir aka Le Zero.
 
