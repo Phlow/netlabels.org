@@ -8,6 +8,10 @@ categories:
     - electronic music
 tags:
     - ambient
+highlights:
+    - ansi002
+    - ansi004
+    - ansi012
 ---
 ## what is ansiform?
 
