@@ -14,6 +14,7 @@ tags:
     - minimal
 highlights:
     - frag002
+    - frag003
     - frag011
     - frag016
 ---
