@@ -3,7 +3,7 @@ layout: release
 #
 #   Netlabel of Release
 #
-netlabel_name: 
+netlabel_name: Fragment
 netlabel_id: frag
 #
 #   Release Info
