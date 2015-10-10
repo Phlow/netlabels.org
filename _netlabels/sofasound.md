@@ -10,11 +10,10 @@ categories:
 tags:
     - downbeat
     - chill out
+    - drum and bass
 highlights:
     - sof010
 ---
-{% include link-test %}
-{% include image-test %}
 
 ## German Description
 
