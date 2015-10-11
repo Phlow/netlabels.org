@@ -19,4 +19,4 @@ Autoplate was founded in Spring 2002, and released a number of EPs that represen
 
 See also <http://www.discogs.com/label/6108-Autoplate>
 
- [1]: {{ site.url }}/thinner/
+ [1]: {{ site.url }}/thinner/
