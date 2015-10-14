@@ -17,7 +17,8 @@ release_date: 2008-01-17
 categories:
    - electronic music
 tags:
-   - 
+   - dub techno
+   - techno
 ---
 alex_q, with his unconsumed dub and techno sounds, shows us that we all can recover something new in a world that we already know. his speech is clear but full of hidden hints. you can go deep if you let him take your mind. so come from berlin to hamburg or vise versa! take a seat on a park bench and tell a story! stay where you are! listen to the kukuo dub, wake up! don't hibernate!
 
