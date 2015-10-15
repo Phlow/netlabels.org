@@ -1,3 +1,10 @@
+{% if page.mediaplayer == true %}
+<script>
+$('audio,video').mediaelementplayer();
+</script>
+{% endif %}
+
+
 <script src="{{ site.url }}{{ site.baseurl }}/assets/js/javascript.min.js"></script>
 
 {% if page.header.image_fullwidth %}
@@ -15,10 +22,8 @@
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
   ga('create', '{{ site.google_analytics_tracking_id }}', 'auto');
   ga('set', 'anonymizeIp', true);
   ga('send', 'pageview');
-
 </script>
 {% endif %}
