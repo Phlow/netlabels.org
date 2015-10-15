@@ -11,6 +11,7 @@ header:
     caption_url: 
 image:
     homepage: blog/new-music-discoveries.jpg
+mediaplayer: true
 ---
 ## Melodic Chill Out
 
