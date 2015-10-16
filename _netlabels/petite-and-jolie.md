@@ -11,6 +11,8 @@ tags:
     - electronica
 highlights:
     - petite001
+    - petite005
+    - petite006
 ---
 Petite & Jolie is a new netlabel dedicated to cute and naive music no matter the genre till it's "pink", lovely and playful.
 
