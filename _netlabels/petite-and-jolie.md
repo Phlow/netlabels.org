@@ -13,6 +13,17 @@ highlights:
     - petite001
     - petite005
     - petite006
+gallery:
+    - image_url: screenshot-petite-and-jolie-netlabel-01.png
+      caption: "Last Design of Petite & Jolie Netlabel before shutting the doors"
+    - image_url: screenshot-petite-and-jolie-netlabel-02.png
+      caption: "About Page: First version of Petite & Jolie Netlabel"
+    - image_url: screenshot-petite-and-jolie-netlabel-03.png
+      caption: "Artists Page: First version of Petite & Jolie Netlabel"
+    - image_url: screenshot-petite-and-jolie-netlabel-04.png
+      caption: "Releases Page: First version of Petite & Jolie Netlabel"
+    - image_url: screenshot-petite-and-jolie-netlabel-05.png
+      caption: "Start of Petite & Jolie Netlabel"
 ---
 Petite & Jolie is a new netlabel dedicated to cute and naive music no matter the genre till it's "pink", lovely and playful.
 
@@ -25,3 +36,5 @@ It all started with the ideas of "cuteness" but with more releases and so, peopl
 
 Now that the internet changed and we had a good time releasing some of the music we wanted, we are now thinking about new ways of promoting this collective, of growing up, evolving.
 This is for sure a long way but we are more than ever motivated into bringing new experiences to our followers from around the world.
+
+{% include gallery %}
