@@ -19,8 +19,6 @@ categories:
 tags:
    - electronica
 ---
-{% include test %}
-
 After his previous bleepish releases on the wondrous 8BitPeoples, as well as remixes on real-life labels like Zod and Carpark, we're delighted to welcome Matt Kuebrich, aka Yuppster, onto Monotonik with the 7-track 'Ambition EP'.
 
 Things start with the eloquent 'Alaska', all plink and plonk and deft melodics, before 'Retry Me' radiates an almost mellow Aphex vibe, with shuffling drums and a keen sense of wonder. The rest of the EP is just as good, with some of the higlights being 'The Draft', which is practically jogging on the spot with irrepressible squoinks, and the humming 'Ends', which is practically glowing with contentment.
