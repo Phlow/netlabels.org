@@ -25,6 +25,7 @@ highlights:
     - mtk076
     - mtk092
     - mtk108
+    - mtk131
     - mtk140
     - mtk143
     - mtk169
