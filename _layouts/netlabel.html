@@ -23,7 +23,8 @@ format: netlabel
 				{% endif %}
 
 				<span itemprop="name">
-					<p class="subheadline">{{ page.categories | join: ' , ' }}</p>
+					<p class="subheadline">{% capture category %}{{ page.categories }}{% endcapture %}<a href="{{ site.url }}/{{ category | replace:' ','-' }}/">{{ page.categories }}</a> › {% for genre in page.tags %}<a href="{{ site.url }}/{{ genre | downcase | replace:' ','-' }}/">{{ genre }}</a>{% if forloop.last != true %}– {% endif %}{% endfor %}
+					</p>
 					<h1>{{ page.netlabel_name }}</h1>
 					{% if page.netlabel_logo %}<img class="t15 b15" src="{% if page.netlabel_logo contains 'http' %}{{ page.netlabel_logo }}{% elsif page.netlabel_logo %}{{ site.url }}/images/logo/{{ page.netlabel_logo }}{% endif %}" alt="{{ page.netlabel_name }} Logo">{% endif %}
 				</span>
