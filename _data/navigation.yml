@@ -35,13 +35,13 @@
 #   url: "/submit/"
 #   side: right
 
-# - title: "Search"
-#   url: "/search/"
-#   side: right
-
 # - title: "Contact"
 #   url: "/contact/"
 #   side: right
+
+- title: "Search"
+  url: "/search/"
+  side: right
 
 - title: "Info"
   url: "/info/"
