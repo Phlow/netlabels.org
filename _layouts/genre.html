@@ -1,0 +1,116 @@
+---
+layout: default
+format: genre
+---
+<div class="row t30">
+	<div class="medium-8 columns{% if page.sidebar == NULL %} medium-offset-2 end{% endif %}{% if page.sidebar == "left" %} medium-push-4{% endif %}">
+		<article itemscope itemtype="http://schema.org/Article">
+			<header>
+				{% if page.image.title %}
+				<figure>
+					<img src="{{ site.urlimg }}{{ page.image.title }}" width="970" alt="{{ page.title escape_once }}" itemprop="image">
+
+					{% if page.image.caption_url && page.image.caption %}
+					<figcaption class="text-right">
+						<a href="{{ page.image.caption_url }}">{{ page.image.caption }}</a>
+					</figcaption>
+					{% elsif page.image.caption %}
+					<figcaption class="text-right">
+						{{ page.image.caption }}
+					</figcaption>
+					{% endif %}
+				</figure>
+				{% endif %}
+
+				<span itemprop="name">
+					<p class="subheadline">
+						{% capture category %}{{ page.categories }}{% endcapture %}
+						<span class="subheader">{% unless category == page.genre %}<a href="{{ site.url }}/{{ category | replace:' ','-' }}/">{{ page.categories }}</a> ›{% endunless %} {{ page.subheadline }}</a>
+					</p>
+
+					<h1>{{ page.title }}</h1>
+				</span>
+			</header>
+
+			{% if page.teaser %}
+			<p class="teaser" itemprop="description">
+				{{ page.teaser }}
+			</p>
+			{% endif %}
+
+			<span itemprop="articleSection">
+
+				{% comment %}
+				#
+				# Wenn category auch gleich page.genre ist, liste die Subgenres auf
+				#
+				{% endcomment %}
+
+				{% if category == page.genre %}
+					<h2>Filter by Subgenre</h2>
+					<p class="font-size-h3">
+					    <a href="{{ site.url }}{{ site.baseurl }}/house/"><span class="subheader">House</span></a> – 
+					    <a href="{{ site.url }}{{ site.baseurl }}/techno/"><span class="subheader">Techno</span></a> – 
+					    <a href="{{ site.url }}{{ site.baseurl }}/minimal/"><span class="subheader">Minimal</span></a> – 
+					    <a href="{{ site.url }}{{ site.baseurl }}/dub-techno/"><span class="subheader">Dub Techno</span></a>
+					    <a href="{{ site.url }}{{ site.baseurl }}/electro/"><span class="subheader">Electro</span></a> – 
+					    <a href="{{ site.url }}{{ site.baseurl }}/chill-out/"><span class="subheader">Chill Out</span></a> – 
+					    <a href="{{ site.url }}{{ site.baseurl }}/idm/"><span class="subheader">IDM</span></a> – 
+					    <a href="{{ site.url }}{{ site.baseurl }}/ambient/"><span class="subheader">Ambient</span></a> – 
+					    <a href="{{ site.url }}{{ site.baseurl }}/downtempo/"><span class="subheader">Downtempo</span></a> – 
+					    <a href="{{ site.url }}{{ site.baseurl }}/electronica/"><span class="subheader">Electronica</span></a> – 
+					    <a href="{{ site.url }}{{ site.baseurl }}/drum-and-bass/"><span class="subheader">Drum and Bass</span></a> – 
+					    <a href="{{ site.url }}{{ site.baseurl }}/big-beat/"><span class="subheader">Big Beat</span></a> – 
+					    <a href="{{ site.url }}{{ site.baseurl }}/trip-hop/"><span class="subheader">Chiptune</span></a> – 
+					    <a href="{{ site.url }}{{ site.baseurl }}/breakbeat/"><span class="subheader">Breakbeat</span></a> – 
+					    <a href="{{ site.url }}{{ site.baseurl }}/experimental/"><span class="subheader">Experimental</span></a>
+					</p>
+
+					{{ content }}
+
+					<h2>Netlabels</h2>
+					<p>List of all Netlabels in {{ category }}.</p>
+					<ul class="side-nav">
+					  {% for item in site.netlabels %}
+					    {% if item.categories contains category %}
+					    <li><a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}"><span class="subheader">{{ item.netlabel_name | upcase }}</span></a></li>
+					    {% endif %}
+					  {% endfor %}
+					  <li>&nbsp;</li>
+					</ul>
+
+
+				{% elsif category != page.genre %}
+
+					{{ content }}
+
+					<h2>Netlabels</h2>
+
+					<ul class="side-nav">
+					  {% for item in site.netlabels %}
+					    {% if item.tags contains page.genre %}
+					    <li><a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}"><span class="subheader">{{ item.netlabel_name | upcase }}</span></a></li>
+					    {% endif %}
+					  {% endfor %}
+					  <li>&nbsp;</li>
+					</ul>
+
+				{% endif %}
+			</span>
+		</article>
+	</div><!-- /.medium-8.columns -->
+
+
+	{% if page.sidebar == "left" %}
+	<div class="medium-4 columns medium-pull-8">
+		{% include sidebar.html %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
+
+
+	{% if page.sidebar == "right" %}
+	<div class="medium-4 columns">
+		{% include sidebar.html %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
+</div><!-- /.row -->
