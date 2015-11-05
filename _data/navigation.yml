@@ -2,6 +2,8 @@
   url: /music/
   side: left
   dropdown:
+  - title: Music Filter
+    url: /electronic-music/
   - title: Netlabels
     url: /netlabels/
   - title: Releases
@@ -40,10 +42,6 @@
 # - title: "Contact"
 #   url: "/contact/"
 #   side: right
-
-- title: "Search"
-  url: "/search/"
-  side: right
 
 - title: "Info"
   url: "/info/"
