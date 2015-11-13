@@ -31,7 +31,7 @@ language: de
 <div class="row">
 <div class="large-7 columns" markdown="1">
 
-Tief in der Demoszene** **verwurzelt, gehört [Ronny
+Tief in der Demoszene verwurzelt, gehört [Ronny
 Pries](http://www.ronnypries.de) zu der ersten Riege begeisterter
 Künstler, die ihre Musik frei in der digitalen Welt vertrieben haben.
 Und weil Techno von Technologie herrührt, ist es nicht weiter
