@@ -7,7 +7,7 @@ freut man sich, wie aufregend der Betrieb eines Netlabels sein kann.
 Aufregend dann, wenn ein liebevoll betriebenes Netlabel digitalen
 Schachereien von Domaingrabbern zum Opfer fällt."
 categories:
-    - 
+    - interview
 tags:
     - netlabel
     - interview

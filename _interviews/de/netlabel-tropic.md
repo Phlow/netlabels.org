@@ -6,7 +6,7 @@ teaser: "Die Entdeckung von Netlabels wie Textone, Thinner oder Realaudio diente
 Daniel Tischer 2004 als Initialzündung für sein eigenes Netlabel namens
 Tropic."
 categories:
-    - 
+    - interview
 tags:
     - netlabel
     - interview

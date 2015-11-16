@@ -6,7 +6,7 @@ teaser: "Mit seinem Netlabel Musicartistry gehört Michael Renk zu den Pionieren
 der Netlabel-Szene in Deutschland. Gegründet im Jahre 2002 schreitet das
 Netlabel kontinuierlich seinem zehnjährigen Bestehen entgegen."
 categories:
-    - 
+    - interview
 tags:
     - netlabel
     - musicartistry

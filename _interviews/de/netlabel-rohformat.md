@@ -6,7 +6,7 @@ teaser: "Genießer der Netlabel- und Netaudio-Welt kennen Ronny Pries. Schließl
 ist der Musiker, DJ und Netlabel-Betreiber seit den Ursprüngen der
 Netlabel-»Szene« mit dabei."
 categories:
-    - 
+    - interview
 tags:
     - netlabel
     - interview
