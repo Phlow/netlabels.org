@@ -21,7 +21,7 @@ tags:
     - minimal techno
     - techno
 image:
-    title: interview/interview_tropic-netlabel-logo.jpg
+    title: interview/interview_auflegware_auflegware-header.jpg
 header: no
 language: de
 ---
@@ -111,15 +111,15 @@ bestehen.
 
 ### Harte Fakten
 
-Netlabel: [Tropic Netlabel](http://www.tropic-netlabel.de/)
-Gegründet: 2005
-Releases: 62
-Künstler: 48
-Musikformat: mp3
-Gründer: Daniel Tischer (D. Soul)
-Musikstyle:  Minimal Techno, DubTechno, House, Ambient, Electronica
-URL: [www.tropic-netlabel.de](http://www.tropic-netlabel.de)
-Stand: 18.08.2010
+- Netlabel: [Tropic Netlabel](http://www.tropic-netlabel.de/)
+- Gegründet: 2005
+- Releases: 62
+- Künstler: 48
+- Musikformat: mp3
+- Gründer: Daniel Tischer (D. Soul)
+- Musikstyle:  Minimal Techno, DubTechno, House, Ambient, Electronica
+- URL: [www.tropic-netlabel.de](http://www.tropic-netlabel.de)
+- Stand: 18.08.2010
 
 ### Musikempfehlung von Tropic
 
@@ -128,6 +128,8 @@ Stand: 18.08.2010
 Das Tropic Netlabel empfiehlt die folgenden Musikstücke und das Release
 50, eine Compilation mit den Tropic Allstars. Zum Download einfach auf
 das Cover klicken.
+
+#### MP3
 
 - [Lucid Picnic - "Panda Bear in the
 bamboo..."](http://media.b4.sonicsquirrel.net/TropicNetlabel/tro49/TRO49_Lucid%20Picnic_-_%20Panda_Bear_in_the_bamboo_garden.mp3)
