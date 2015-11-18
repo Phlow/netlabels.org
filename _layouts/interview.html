@@ -3,7 +3,7 @@ layout: default
 format: interview
 ---
 <div class="row t30">
-	<div class="medium-8 columns{% if page.sidebar == NULL %} medium-offset-2 end{% endif %}{% if page.sidebar == "left" %} medium-push-4{% endif %}">
+	<div class="small-12 columns">
 		<article itemscope itemtype="http://schema.org/Article">
 			<header>
 				{% if page.image.title %}
@@ -27,8 +27,12 @@ format: interview
 					<h1>{{ page.title }}</h1>
 				</span>
 			</header>
+	</div><!-- /.small-12.columns -->
+</div><!-- /.row -->
 
 
+<div class="row t30">
+	<div class="medium-12 columns">
 			{% if page.teaser %}
 			<p class="teaser" itemprop="description">
 				{{ page.teaser }}
@@ -49,19 +53,5 @@ format: interview
 
 			<a class="radius button" href="{{ site.url }}/interviews/">More Portraits and Interviews in our Archive ›</a>
 		</article>
-	</div><!-- /.medium-8.columns -->
-
-
-	{% if page.sidebar == "left" %}
-	<div class="medium-4 columns medium-pull-8">
-		{% include sidebar.html %}
-	</div><!-- /.medium-4.columns -->
-	{% endif %}
-
-
-	{% if page.sidebar == "right" %}
-	<div class="medium-4 columns">
-		{% include sidebar.html %}
-	</div><!-- /.medium-4.columns -->
-	{% endif %}
+	</div><!-- /.small-12.columns -->
 </div><!-- /.row -->

@@ -1,6 +1,6 @@
 ---
 layout: interview
-subheadline: Netlabel Interview
+subheadline: "Interview mit Netlabel aaahh records"
 title: "aaahh records: Ein Netlabel kommuniziert und musiziert mit seinen Fans"
 teaser: "<strong>Einblick in die erfolgreichen Machenschaften eines Netlabels</strong> &middot; aaahh records pflegt den Fan. Musik gibt es bei dem Vorzeige-Netlabel nicht nur auf die Ohren, sondern Musik verstehen die Label-Betreiber als sozialen Prozess. So darf sich der Hörer nicht nur frei an der Musik bedienen, sondern wird gleich eingeladen mitzumusizieren: per Remix. Und die digital Natives belohnen das nicht nur mit Downloads, sondern auch mit Aufmerksamkeit. Ob Twitter, Social Community oder im eigenen Headquarter. Bei aaahh records rappeln die Kartons!"
 categories:
@@ -20,6 +20,11 @@ date: 2009-02-16
 language: de
 permalink: /interview/netlabel-aaahh-records/
 ---
+<div class="row">
+<div class="large-7 columns" markdown="1">
+
+
+
 ![Christian Grasse]({{ site.urlimg }}interview/interview-aaahh-records-christian-grasse.jpg)
 {: .right }
 Christian Grasse absorbiert die Medien scheinbar mit jeder Pore. Der 27-jährige Student beschäftigt sich seit einigen Jahren mit dem Konzept der Creative Commons und im Besonderen mit freier Musik aus dem Internet. Neben dem fast schon obligatorischen Blog namens [Metawelle][11], präsentiert er gleich zwei Radiosendungen: [FreeQuency auf Byte.fm][2] und [Popmoderne Free Music Edition][12] im Campusradio Bielefeld.
@@ -38,7 +43,6 @@ Muss man »heutzutage« Musik verschenken, um neue Hörer zu finden oder ist das
 **Das Verschenken der Musik ist in erster Linie natürlich sehr hilfreich um Aufmerksamkeit zu generieren.** Gleichzeitig setzen viele Hörer leider das Verschenken mit einer geringen Wertschätzung gleich. Nach dem Motto: &#8220;Was umsonst ist kann nicht gut sein.&#8221; Dieses Image wollen wir aufbrechen. Wir versuchen die Musik so gut wie möglich zu präsentieren und bieten optional physische Tonträger an, die man kaufen kann. Darüber hinaus geht es uns und unseren Künstlern bei dem Punkt der &#8220;freien&#8221; Musik um mehr als den Gratis-Faktor. Unsere Musik kann verändert, erweitert, geremixt und verteilt werden. **Die Musik gibt dem Hörer die Möglichkeit mehr als nur ein Konsument zu sein.** Ein Remix und das öffentliche Kopieren der Musik erkennen wir als Wertschätzung an, die genauso wichtig ist wie der Verkauf eines Albums. Das ist, so glauben wir, vor allem für junge Künstler wichtig.
 
 ![aaahh-records Logo]({{ site.urlimg }}interview/interview-aaahh-records-logo.gif)
-{: .border-dotted.text-center }
 
 
 
@@ -66,7 +70,6 @@ Twitter und Gedöns sind ja unterhaltsame Services&#8230; Aber bringen diese Kan
 Innerhalb weniger Wochen folgen uns bei Twitter mittlerweile mehrere Hundert Menschen. Diese haben sich aktiv dazu entschieden uns zu &#8220;folgen&#8221;. Das bedeutet also, dass ein gewisses Interesse daran besteht zu wissen, was bei uns so passiert. Das allein zeigt schon, dass solche Kanäle etwas bringen können. Außerdem **helfen solche kleinen Kanäle wie Twitter dabei die vorher beschriebene Nähe aufzubauen, die in der anonymen Welt des Internets für ein Label und somit auch für unsere Künstler sehr sehr wichtig ist.** All das hilft dabei persönliche Beziehungen zu Hörern aufzubauen. Und letztendlich wirken sich all diese Dinge positiv auf unseren Traffic und die Downloadzahlen aus. Seit Mai 2008 messen wir auf aaahh-records.net etwa 90.000 Visits und wir haben weit über 30.000 Downloads unserer bisher veröffentlichten Alben generiert. Das ist für ein so junges Label wie das unsere schon sehr vorzeigbar.
 
 ![aaahh-records Logo]({{ site.urlimg }}interview/interview-aaahh-records-rockweb.jpg)
-{: .border-dotted.text-center }
 
 
 
@@ -111,7 +114,6 @@ Vielen lieben Dank für das tolle Interview!
 
 Label: [www.aaahh-records.net][13]
 
-
  [1]: http://phlow.net/magazin/netzkultur/musik-marketing-promotion/655-interview-netlabel-aaahh-records
  [2]: http://www.byte.fm/index.php?cont=sendungen_detail&sendung=130
  [3]: http://ponirepublic.blogspot.com/2008/04/bufi-homeless-hero-ep.html
@@ -122,10 +124,11 @@ Label: [www.aaahh-records.net][13]
  [11]: http://metawelle.net/
  [12]: http://radiohertz.de/beta-site/2007/06/28/popmoderne/
  [13]: http://www.aaahh-records.net
- [14]: #
- [15]: #
- [16]: #
- [17]: #
- [18]: #
- [19]: #
- [20]: #
+
+</div><!-- /.large-7 -->
+<div class="large-5 columns" markdown="1">
+
+
+
+</div><!-- /.large-5 -->
+</div><!-- /.row -->

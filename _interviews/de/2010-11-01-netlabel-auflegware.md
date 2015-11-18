@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: interview
 subheadline: "Interview mit Netlabel auflegware"
 title: "auflegware - Mission: Alternativer Musikvertrieb"
 teaser: "auflegware gehört zu den Netlabels, die nicht nur einfach frei Techno-

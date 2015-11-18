@@ -21,7 +21,11 @@ date: 2008-11-24
 permalink: /interview/simon-carless-archive-org-monotonik/
 author: Lars »Ghandy« Sobiraj
 language: de
+header: no
 ---
+<div class="row">
+<div class="large-7 columns" markdown="1">
+
 {% include alert info='Author: <a href="http://lars-sobiraj.de">Lars »Ghandy« Sobiraj</a>' %}
 
 Später setzte er sich als Gründer von »Legal Torrents« für die Verbreitung von freien Inhalten aller Art per Creative Commons-Lizenz via Peer-To-Peer-Protokoll ein. Wie aber wird man zum so genannten »Early Adopter«, also zu einer Person, die ihre Finger schon immer dann in einem Projekt drin hat, wenn alle anderen noch nichts von dessen Erfolg ahnen?
@@ -102,3 +106,11 @@ Simon, vielen Dank, dass Du dir die Zeit genommen hast, unsere Fragen zu beantwo
  [8]: #
  [9]: #
  [10]: #
+
+</div><!-- /.large-7 -->
+<div class="large-5 columns" markdown="1">
+
+
+
+</div><!-- /.large-5 -->
+</div><!-- /.row -->

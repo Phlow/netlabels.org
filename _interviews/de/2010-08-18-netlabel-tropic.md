@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: interview
 subheadline: "Interview mit Netlabel Tropic"
 title: "Tropic: Netlabel aus Leidenschaft"
 teaser: "Die Entdeckung von Netlabels wie Textone, Thinner oder Realaudio diente

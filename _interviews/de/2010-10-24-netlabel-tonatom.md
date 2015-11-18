@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: interview
 subheadline: "Interview mit Netlabel tonatom"
 title: "tonatom – Label mit Liebe für den totalen Idealismus"
 teaser: "tonAtom gehört zu den wirklich alten und ehrwürdigen Netlabels, das nie die eigene Mission aus den Augen verloren hat."

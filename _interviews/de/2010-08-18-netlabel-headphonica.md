@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: interview
 subheadline: "Interview mit Netlabel Headphonica"
 title: "Headphonica: Megakakophonie im Kreissaal der jungen Musik"
 teaser: "Hört man den Köpfen hinter dem Headphonica Netlabel zu, so wundert und

@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: interview
 subheadline: Interview mit Netlabel Musicartistry
 title: Musikvielfalt auf schwarzem Grund
 teaser: "Mit seinem Netlabel Musicartistry gehört Michael Renk zu den Pionieren
@@ -171,7 +171,7 @@ Version 4 von Music Artistry
 - Gründer: Michael Renk
 - Musikstyle: Eletronic (8-Bit, Ambient, Downbeat, Drum'n Bass, Dub, Electro, House, Minimal, Reggae, Techno und mehr)
 - URL: [www.musicartistry.de](http://www.musicartistry.de)
-- Stand: 16\. September 2010
+- Stand: 16. September 2010
 
 
 </div><!-- /.large-5 -->

@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: interview
 subheadline: "Interview mit Netlabel _rohformat"
 title: "_rohformat – Laut und Kraftvoll, Deep und Ehrlich."
 teaser: "Genießer der Netlabel- und Netaudio-Welt kennen Ronny Pries. Schließlich

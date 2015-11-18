@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: interview
 subheadline: "Interview mit Netlabel Spontanmusik"
 title: "spontanMusik – Mikrosound, Synkopen & 4-to-the-floor"
 teaser: "Die Netlabel-Köpfe hinter spontanMusik bezeichnen sich als
