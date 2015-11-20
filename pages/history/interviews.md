@@ -24,7 +24,7 @@ permalink: "/interviews/"
   {% for interview in site.interviews %}
     {% unless interview.published == false %}
         {% if interview.language == 'de' %}
-        {% if interview.subheadline contains 'Netlabel' %}
+        {% if interview.subheadline contains 'Interview mit Netlabel' %}
             <li><a href="{{ site.url }}{{ interview.url }}">{{ interview.title }}</a></li>
         {% endif %}
         {% endif %}
@@ -44,7 +44,7 @@ permalink: "/interviews/"
   {% for interview in site.interviews %}
     {% unless interview.published == false %}
         {% if interview.language == 'de' %}
-        {% unless interview.subheadline contains 'Netlabel' %}
+        {% unless interview.subheadline contains 'Interview mit Netlabel' %}
             <li><a href="{{ site.url }}{{ interview.url }}"><span class="subheader">{{ interview.subheadline }}</span> »{{ interview.title }}«</a></li>
         {% endunless %}
         {% endif %}

@@ -1,6 +1,6 @@
 ---
 layout: interview
-subheadline: Netlabel Interview
+subheadline: Interview mit Netlabel Monotonik
 title: "Simon Carless: Gründer eines der ersten Netlabel (Monotonik)"
 teaser: "Keine Ahnung wie er das macht, aber der vor Ideen sprühende Brite Simon Carless war eigentlich schon immer zur rechten Zeit am richtigen Ort. So oder so ähnlich lässt sich das Erfolgsgeheimnis des Wahl-Kaliforniers, Musikers, Spiele-Designers, Festivalorganisators und Journalisten am besten beschreiben. Als früherer Amiga-Musiker und Gründer von Mono (heute Monotonik), hat er vor 12 Jahren eines der ersten Netlabels überhaupt aus der Taufe gehoben."
 categories:
