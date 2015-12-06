@@ -1,7 +1,7 @@
 {% comment %}
-*   
+*
 *   This include counts the items in a collection
 *
 *   Example: {% include count-collection-items collection='netlabels' %}
-*   
-{% endcomment %}{% assign counter = 1 %}{% for item in site.[include.collection] %}{% unless item.published == false %}{% assign counter=counter | plus:1 %}{% endunless %}{% endfor %}{{ counter }}
+*
+{% endcomment %}{% assign counter = 1 %}{% for item in site.[include.collection] %}{% unless item.published == false %}{% assign counter=counter | plus:1 %}{% endunless %}{% endfor %}{{ counter }}
