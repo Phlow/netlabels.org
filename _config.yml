@@ -1,11 +1,11 @@
-# ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
+# ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
 #
-#      _____ _ __          _____      __  __  _                 
+#      _____ _ __          _____      __  __  _
 #     / ___/(_) /____     / ___/___  / /_/ /_(_)___  ____ ______
 #     \__ \/ / __/ _ \    \__ \/ _ \/ __/ __/ / __ \/ __ `/ ___/
-#    ___/ / / /_/  __/   ___/ /  __/ /_/ /_/ / / / / /_/ (__  ) 
-#   /____/_/\__/\___/   /____/\___/\__/\__/_/_/ /_/\__, /____/  
-#                                                 /____/        
+#    ___/ / / /_/  __/   ___/ /  __/ /_/ /_/ / / / / /_/ (__  )
+#   /____/_/\__/\___/   /____/\___/\__/\__/_/_/ /_/\__, /____/
+#                                                 /____/
 #
 # Title of your website
 title: "Netlabels.org"
@@ -31,8 +31,8 @@ baseurl: ""
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash.
 #
-# Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
-# Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
+# Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
+# Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
 urlimg: "http://netlabels.org/images/"
 
@@ -45,7 +45,7 @@ logo: "logo.png"
 paginate: 5
 
 
-# Pagination path › Important for blog page in /blog/ to work
+# Pagination path › Important for blog page in /blog/ to work
 paginate_path: "blog/page:num"
 
 
@@ -71,12 +71,12 @@ exclude:
 
 
 #
-#       ____       ____            ____ 
+#       ____       ____            ____
 #      / __ \___  / __/___ ___  __/ / /_
 #     / / / / _ \/ /_/ __ `/ / / / / __/
-#    / /_/ /  __/ __/ /_/ / /_/ / / /_  
-#   /_____/\___/_/  \__,_/\__,_/_/\__/  
-#                                       
+#    / /_/ /  __/ __/ /_/ / /_/ / / /_
+#   /_____/\___/_/  \__,_/\__,_/_/\__/
+#
 # Default Settings
 
 defaults:
@@ -86,33 +86,33 @@ defaults:
       type: "pages"
     values:
       show_meta: true 	# Show metadata beneath all pages
-      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
+      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
       author: "your_author_name"
   -
     scope:
-      path: ""        
+      path: ""
       type: "posts"
     values:
       show_meta: true   # Show metadata beneath all posts
-      # sidebar:        # Possible values › left, right › by default there will be no sidebar
+      # sidebar:# Possible values › left, right › by default there will be no sidebar
       comments: false
       author: "your_author_name"
   -
     scope:
-      path: ""        
+      path: ""
       type: "netlabels"
     values:
       header: false
   -
     scope:
-      path: ""        
+      path: ""
       type: "reviews"
     values:
       header: false
   -
     scope:
-      path: ""        
+      path: ""
       type: "releases"
     values:
       header: false
@@ -120,22 +120,22 @@ defaults:
 
 
 
-#       _   __            _             __  _           
-#      / | / /___ __   __(_)___ _____ _/ /_(_)___  ____ 
+#       _   __            _             __  _
+#      / | / /___ __   __(_)___ _____ _/ /_(_)___  ____
 #     /  |/ / __ `/ | / / / __ `/ __ `/ __/ / __ \/ __ \
 #    / /|  / /_/ /| |/ / / /_/ / /_/ / /_/ / /_/ / / / /
-#   /_/ |_/\__,_/ |___/_/\__, /\__,_/\__/_/\____/_/ /_/ 
-#                       /____/                          
+#   /_/ |_/\__,_/ |___/_/\__, /\__,_/\__/_/\____/_/ /_/
+#                       /____/
 #
 #  Open _data/navigation.yml to adjust the left and right topbar navigation
 #
 
 
 
-#     _____ __________ 
+#     _____ __________
 #    / ___// ____/ __ \
 #    \__ \/ __/ / / / /
-#   ___/ / /___/ /_/ / 
+#   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
 # google_author:             ""
@@ -145,10 +145,10 @@ google_site_verification:  "FX5UZHl9U71sxl4iBw9KkC1HL2XCT8mW28XEJ0zPFE0"
 
 
 
-#       ______            _                      
+#       ______            _
 #      / ____/___ __   __(_)________  ____  _____
 #     / /_  / __ `/ | / / / ___/ __ \/ __ \/ ___/
-#    / __/ / /_/ /| |/ / / /__/ /_/ / / / (__  ) 
+#    / __/ / /_/ /| |/ / / /__/ /_/ / / / (__  )
 #   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
@@ -166,61 +166,61 @@ msapplication_tileimage:                "msapplication_tileimage.png"           
 msapplication_tilecolor:                "#fabb00"
 
 
-#       ______                __                __  
+#       ______                __                __
 #      / ____/___ _________  / /_  ____  ____  / /__
 #     / /_  / __ `/ ___/ _ \/ __ \/ __ \/ __ \/ //_/
-#    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<   
-#   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
+#    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
+#   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
 og_image:                           ""
 og_locale:                          "en_EN"
 og_type:                            "website"
-og_title:                           "Netlabels.org – Netlabel & Netaudio Resource"
+og_title:                           "Netlabels.org – Netlabel & Netaudio Resource"
 og_description:                     "Netlabels.org is your resource for netlabel and netaudio culture. Find free music in our archive and find out more about netlabel history."
 # og_url:                           ""
 # og_site_name:                     ""
 
 
-#      _____            _       __   __  ___         ___      
+#      _____            _       __   __  ___         ___
 #     / ___/____  _____(_)___ _/ /  /  |/  /__  ____/ (_)___ _
 #     \__ \/ __ \/ ___/ / __ `/ /  / /|_/ / _ \/ __  / / __ `/
-#    ___/ / /_/ / /__/ / /_/ / /  / /  / /  __/ /_/ / / /_/ / 
-#   /____/\____/\___/_/\__,_/_/  /_/  /_/\___/\__,_/_/\__,_/  
+#    ___/ / /_/ / /__/ / /_/ / /  / /  / /  __/ /_/ / / /_/ /
+#   /____/\____/\___/_/\__,_/_/  /_/  /_/\___/\__,_/_/\__,_/
 #
 #  Open _data/socialmedia.yml to adjust the left and right topbar navigation
 #
 
 
-#        ____  _                      
+#        ____  _
 #       / __ \(_)________ ___  _______
 #      / / / / / ___/ __ `/ / / / ___/
-#     / /_/ / (__  ) /_/ / /_/ (__  ) 
-#    /_____/_/____/\__, /\__,_/____/  
-#                    /_/              
+#     / /_/ / (__  ) /_/ / /_/ (__  )
+#    /_____/_/____/\__, /\__,_/____/
+#                    /_/
 #
 # used in _includes/comments.html
 
-# disqus_shortname: 
+# disqus_shortname:
 
 
-#      _____                
+#      _____
 #     / ___/____ ___________
 #     \__ \/ __ `/ ___/ ___/
-#    ___/ / /_/ (__  |__  )     More › http://sass-lang.com/ 
-#   /____/\__,_/____/____/      More › http://jekyllrb.com/docs/assets/#sassscss
-#                           
+#    ___/ / /_/ (__  |__  )     More › http://sass-lang.com/
+#   /____/\__,_/____/____/      More › http://jekyllrb.com/docs/assets/#sassscss
+#
 
 sass:
     sass_dir: _sass
     style: :compressed
 
 
-#       ___                __      __  _          
+#       ___                __      __  _
 #      /   |  ____  ____ _/ /_  __/ /_(_)_________
 #     / /| | / __ \/ __ `/ / / / / __/ / ___/ ___/
-#    / ___ |/ / / / /_/ / / /_/ / /_/ / /__(__  ) 
+#    / ___ |/ / / / /_/ / / /_/ / /_/ / /__(__  )
 #   /_/  |_/_/ /_/\__,_/_/\__, /\__/_/\___/____/      https://www.google.com/analytics/
-#                        /____/                   
+#                        /____/
 #
 # used in _includes/footer_scripts.html
 
@@ -228,12 +228,12 @@ google_analytics_tracking_id: UA-904754-2
 
 
 
-#      ______      ____          __  _                 
+#      ______      ____          __  _
 #     / ____/___  / / /__  _____/ /_(_)___  ____  _____
 #    / /   / __ \/ / / _ \/ ___/ __/ / __ \/ __ \/ ___/
-#   / /___/ /_/ / / /  __/ /__/ /_/ / /_/ / / / (__  ) 
-#   \____/\____/_/_/\___/\___/\__/_/\____/_/ /_/____/  
-#                                                      
+#   / /___/ /_/ / / /  __/ /__/ /_/ / /_/ / / / (__  )
+#   \____/\____/_/_/\___/\___/\__/_/\____/_/ /_/____/
+#
 
 collections:
   netlabels:
@@ -251,12 +251,12 @@ collections:
 
 
 
-#      ______             
-#     / ____/__  ____ ___ 
+#      ______
+#     / ____/__  ____ ___
 #    / / __/ _ \/ __ `__ \
 #   / /_/ /  __/ / / / / /
-#   \____/\___/_/ /_/ /_/ 
-#                         
+#   \____/\___/_/ /_/ /_/
+#
 
 gems:
   - jekyll-sitemap
