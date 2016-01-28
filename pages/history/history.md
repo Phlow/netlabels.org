@@ -56,6 +56,10 @@ In our [Netlabel Screenshot Archive][2] you find early screenshots from old and 
 <div class="medium-6 columns" markdown="1">
 
 
+## Netlabel Music on YouTube
+
+Of course you can find lots of music on YouTube, too. Have a look at this [YouTube-Playlist][8].
+
 
 </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
@@ -76,6 +80,6 @@ In our [Netlabel Screenshot Archive][2] you find early screenshots from old and 
  [5]: {{ site.url }}/interviews/
  [6]: {{ site.url }}/reviews/
  [7]: {{ site.url }}/research/
- [8]: #
+ [8]: https://www.youtube.com/playlist?list=PLLe5RNUqyEWhZNYYJDq8T7UIjNmK63UFd
  [9]: #
  [10]: #
