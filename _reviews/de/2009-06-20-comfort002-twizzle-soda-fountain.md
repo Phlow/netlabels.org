@@ -24,7 +24,6 @@ tags:
     - pop
 image:
     title: cover-comfort002-twizzle-soda-fountain.jpg
-date: 
 language: de
 author: Moritz »mo.« Sauer
 ---
