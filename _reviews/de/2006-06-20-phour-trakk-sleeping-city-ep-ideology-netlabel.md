@@ -27,7 +27,6 @@ tags:
     - music
 image:
     title: cover-id035-phour-trakk-sleeping-city-ep.jpg
-date: 
 language: de
 author: Moritz »mo.« Sauer
 language: de

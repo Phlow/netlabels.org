@@ -22,7 +22,6 @@ image:
     title: cover-hc042-batfinks-the-one-towards.jpg
 language: de
 author: Moritz »mo.« Sauer
-date: 
 ---
 Oh, ich strahle glücklich mit Tränen in den Augen - ehrlich. Ein weiterer kleiner wunderbarer Schatz liegt nun auf der Festplatte und am liebsten würde ich gemeinsam mit den Produzenten um meinen Laptop in Ringelreihen hüpfen. Warum ich hier so vor Begeisterung sprühe? Einfach, weil die Batfinks mehreres gleichzeitig transportieren: Humor, Musik, Pop, Experimentelles. Dabei schwingt immer ein wenig Destruktives mit, bleibt die Musik roh und wirkt dadurch trotz aller Sequenzen live. Und ultra-lebendig, wie quietsch-bunter Schimmel in der feuchten Ecke, in der lange, lange nicht mehr gewischt wurde.
 
