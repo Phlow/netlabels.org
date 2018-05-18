@@ -26,7 +26,6 @@ tags:
     - experimental
 image:
     title: cover-ansi-various-artists-compilation.jpg
-date: 
 language: de
 author: Moritz »mo.« Sauer
 ---
