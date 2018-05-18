@@ -47,6 +47,6 @@
   url: "/info/"
   side: right
 
-- title: "Impressum"
-  url: "http://phlow.de/impressum/"
+- title: "Impressum+Datenschutz"
+  url: "https://phlow.de/impressum/"
   side: right
