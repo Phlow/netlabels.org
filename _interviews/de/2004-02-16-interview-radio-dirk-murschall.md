@@ -22,5 +22,5 @@ date: 2004-02-16
 language: de
 ---
 <audio controls>
-  <source src="{{ site.url }}/archive/interview/zuendfunk-04.02.16-Interview-[in]anace.mp3" type="audio/mpeg">
+  <source src="{{ site.url }}/archive/interview/zuendfunk-04.02.16-Interview-[in]anace.mp3" type="audio/mpeg">
 </audio>

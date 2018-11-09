@@ -30,7 +30,7 @@
 <ul class="side-nav">
   {% for item in sorted %}
     {% unless item.published == false %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}"><span class="subheader">{% if include.showdate == 'true' %}{{ item.release_date }} › {% endif %}{{ item.netlabel_name | upcase }}</span> › {{ item.release_artist }} – »{{ item.release_title }}«</a></li>
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}"><span class="subheader">{% if include.showdate == 'true' %}{{ item.release_date }} › {% endif %}{{ item.netlabel_name | upcase }}</span> › {{ item.release_artist }} – »{{ item.release_title }}«</a></li>
     {% endunless %}
   {% endfor %}
   <li>&nbsp;</li>

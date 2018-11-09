@@ -8,9 +8,9 @@ format: netlabel
 			<header>
 				{% if page.image.title %}
 				<figure>
-					<img src="{{ site.urlimg }}{{ page.image.title }}" width="970" alt="{{ page.title escape_once }}" itemprop="image">
+					<img src="{{ site.urlimg }}{{ page.image.title }}" width="970" alt="{{ page.title | escape_once }}" itemprop="image">
 
-					{% if page.image.caption_url && page.image.caption %}
+					{% if page.image.caption_url and page.image.caption %}
 					<figcaption class="text-right">
 						<a href="{{ page.image.caption_url }}">{{ page.image.caption }}</a>
 					</figcaption>
@@ -26,7 +26,7 @@ format: netlabel
 					<p class="subheadline">{% capture category %}{{ page.categories }}{% endcapture %}<a href="{{ site.url }}/{{ category | replace:' ','-' }}/">{{ page.categories }}</a> › {% for genre in page.tags %}<a href="{{ site.url }}/{{ genre | downcase | replace:' ','-' }}/">{{ genre }}</a>{% if forloop.last != true %}– {% endif %}{% endfor %}
 					</p>
 					<h1>{{ page.netlabel_name }}</h1>
-					{% if page.netlabel_logo %}<img class="t15 b15" src="{% if page.netlabel_logo contains 'http' %}{{ page.netlabel_logo }}{% elsif page.netlabel_logo %}{{ site.url }}/images/logo/{{ page.netlabel_logo }}{% endif %}" alt="{{ page.netlabel_name }} Logo">{% endif %}
+					{% if page.netlabel_logo %}<img class="t15 b15" src="{% if page.netlabel_logo contains 'http' %}{{ page.netlabel_logo }}{% elsif page.netlabel_logo %}{{ site.url }}/images/logo/{{ page.netlabel_logo }}{% endif %}" alt="{{ page.netlabel_name }} Logo">{% endif %}
 				</span>
 			</header>
 
@@ -67,7 +67,7 @@ format: netlabel
 				{% for highlight in page.highlights %}
 					{% for release in site.releases %}
 						{% if release.release_id == highlight %}
-							<li><a href="{{ site.url }}{{ release.url }}"><img src="{% if release.release_cover contains 'http' %}{{ release.release_cover }}{% elsif release.release_cover %}{{ site.url }}/images/cover/{{ release.netlabel_id }}/{{ release.release_cover }}{% endif %}" alt="Cover of {{ release.release_title }}" width="198" height="198"></a></li>
+							<li><a href="{{ site.url }}{{ release.url }}"><img src="{% if release.release_cover contains 'http' %}{{ release.release_cover }}{% elsif release.release_cover %}{{ site.url }}/images/cover/{{ release.netlabel_id }}/{{ release.release_cover }}{% endif %}" alt="Cover of {{ release.release_title }}" width="198" height="198"></a></li>
 						{% endif %}
 					{% endfor %}
 				{% endfor %}

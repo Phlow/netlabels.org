@@ -8,9 +8,9 @@ format: review
 			<header>
 				{% if page.image.title %}
 				<figure>
-					<img src="{{ site.urlimg }}cover/{{ page.netlabel_id }}/{{ page.image.title }}" width="970" alt="{{ page.title escape_once }}" itemprop="image">
+					<img src="{{ site.urlimg }}cover/{{ page.netlabel_id }}/{{ page.image.title }}" width="970" alt="{{ page.title | escape_once }}" itemprop="image">
 
-					{% if page.image.caption_url && page.image.caption %}
+					{% if page.image.caption_url and page.image.caption %}
 					<figcaption class="text-right">
 						<a href="{{ page.image.caption_url }}">{{ page.image.caption }}</a>
 					</figcaption>
@@ -23,7 +23,7 @@ format: review
 				{% endif %}
 
 				<span itemprop="name">
-					<p class="subheadline"><a href="{{ site.url }}/reviews/">Music Review</a> – {% if page.subheadline %}{{ page.subheadline }}{% endif %}</p>
+					<p class="subheadline"><a href="{{ site.url }}/reviews/">Music Review</a> – {% if page.subheadline %}{{ page.subheadline }}{% endif %}</p>
 					<h1>{{ page.title }}</h1>
 				</span>
 			</header>
@@ -41,7 +41,7 @@ format: review
 				<div id="page-meta" class="t30">
 					<hr>
 					{% if page.netlabel_name %}Netlabel: <a href="{{ page.netlabel_url }}" target="_blank">{{ page.netlabel_name }}</a><br>{% endif %}
-					{% if page.categories %}Music Category: {{ page.categories | join: ' – ' | upcase }}<br>{% endif %}
+					{% if page.categories %}Music Category: {{ page.categories | join: ' – ' | upcase }}<br>{% endif %}
 					Style: {% for tag in page.tags %}<span class="icon-price-tag pr10"> {{tag}}</span> {% endfor %}<br>
 					{% if page.date %}
 					<time class="icon-calendar pr20" datetime="{{ page.date | date: "%Y-%m-%d" }}" itemprop="datePublished"> Date: {{ page.date | date: "%Y-%m-%d" }}</time><br>

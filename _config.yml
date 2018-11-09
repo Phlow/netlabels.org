@@ -53,7 +53,6 @@ paginate_path: "blog/page:num"
 markdown: kramdown
 permalink: /:categories/:title/
 highlight: rouge
-gems: [jekyll-paginate]
 excerpt_separator: "\n\n"
 exclude: []
 include: ['.htaccess']
@@ -258,5 +257,6 @@ collections:
 #   \____/\___/_/ /_/ /_/
 #
 
-gems:
+plugins:
   - jekyll-sitemap
+  - jekyll-paginate

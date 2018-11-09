@@ -11,7 +11,7 @@ header:
 
 ## German Reviews
 
-These {% assign counter = 1 %}{% for item in site.reviews %}{% if item.language == 'de' %}{% assign counter=counter | plus:1 %}{% endif %}{% endfor %}{{ counter }} German netlabel music reviews were mostly written for the German Phlow Magazin Blog.
+These {% assign counter = 1 %}{% for item in site.reviews %}{% if item.language == 'de' %}{% assign counter=counter | plus:1 %}{% endif %}{% endfor %}{{ counter }} German netlabel music reviews were mostly written for the German Phlow Magazin Blog.
 
 {% include list-reviews language='de' prefix_text='<span class="subheader">Musikkritik </span>' %}
 

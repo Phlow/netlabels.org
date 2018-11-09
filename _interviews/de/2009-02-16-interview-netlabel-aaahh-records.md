@@ -25,7 +25,7 @@ permalink: /interview/netlabel-aaahh-records/
 
 
 
-![Christian Grasse]({{ site.urlimg }}interview/interview-aaahh-records-christian-grasse.jpg)
+![Christian Grasse]({{ site.urlimg }}interview/interview-aaahh-records-christian-grasse.jpg)
 {: .right }
 Christian Grasse absorbiert die Medien scheinbar mit jeder Pore. Der 27-jährige Student beschäftigt sich seit einigen Jahren mit dem Konzept der Creative Commons und im Besonderen mit freier Musik aus dem Internet. Neben dem fast schon obligatorischen Blog namens [Metawelle][11], präsentiert er gleich zwei Radiosendungen: [FreeQuency auf Byte.fm][2] und [Popmoderne Free Music Edition][12] im Campusradio Bielefeld.
 
@@ -42,7 +42,7 @@ Muss man »heutzutage« Musik verschenken, um neue Hörer zu finden oder ist das
 
 **Das Verschenken der Musik ist in erster Linie natürlich sehr hilfreich um Aufmerksamkeit zu generieren.** Gleichzeitig setzen viele Hörer leider das Verschenken mit einer geringen Wertschätzung gleich. Nach dem Motto: &#8220;Was umsonst ist kann nicht gut sein.&#8221; Dieses Image wollen wir aufbrechen. Wir versuchen die Musik so gut wie möglich zu präsentieren und bieten optional physische Tonträger an, die man kaufen kann. Darüber hinaus geht es uns und unseren Künstlern bei dem Punkt der &#8220;freien&#8221; Musik um mehr als den Gratis-Faktor. Unsere Musik kann verändert, erweitert, geremixt und verteilt werden. **Die Musik gibt dem Hörer die Möglichkeit mehr als nur ein Konsument zu sein.** Ein Remix und das öffentliche Kopieren der Musik erkennen wir als Wertschätzung an, die genauso wichtig ist wie der Verkauf eines Albums. Das ist, so glauben wir, vor allem für junge Künstler wichtig.
 
-![aaahh-records Logo]({{ site.urlimg }}interview/interview-aaahh-records-logo.gif)
+![aaahh-records Logo]({{ site.urlimg }}interview/interview-aaahh-records-logo.gif)
 
 
 
@@ -51,14 +51,14 @@ Was macht deiner Meinung nach ein modernes Musik Label aus? Und warum ist aaahh 
 
 Ich glaube dass es wichtig ist, die veränderten Rollen anzuerkennen. **Die Dreiteilung von Urheber, Verwerter und Rezipient ist im Internet hinfällig und das sollte man sich zu Nutzen machen.** Musik und Kunst generell ist nichts statisches. Sie verändert sich so, wie sich alles verändert. Warum also nicht jedem die Freiheit geben ein Originalmusikstück zu verändern? Das Original und der Urheber muss natürlich gewürdigt werden, z.B. im Sinne einer <a href="http://de.creativecommons.org/" target="_blank">CC-Lizenz</a>. Dadurch, dass man Hörer einlädt und am Verteilen und dem Prozess der Musik teilhaben lässt, ist es möglich eine Nähe herzustellen, die sich auch monetär auszahlen kann. **Je enger die Bindung zum Hörer/Fan/etc. ist, desto höher ist die Wahrscheinlichkeit, dass die Leute zu Konzerten kommen, freiwillig Geld spenden oder Merchandize kaufen.**
 
-Ich glaube das sind Dinge, die ein Netlabel und diesem Fall vielleicht aaahh-records besser kann als  &#8220;normale&#8221; Labels. Gleichzeitig sei hier jedoch darauf hingewiesen, dass wir kein Geld mit unserer Arbeit verdienen. Wir verstehen das als unser Hobby und haben einfach Spaß daran gute Musik zu verbreiten.
+Ich glaube das sind Dinge, die ein Netlabel und diesem Fall vielleicht aaahh-records besser kann als  &#8220;normale&#8221; Labels. Gleichzeitig sei hier jedoch darauf hingewiesen, dass wir kein Geld mit unserer Arbeit verdienen. Wir verstehen das als unser Hobby und haben einfach Spaß daran gute Musik zu verbreiten.
 
 Wenn man sich aaahh records genauer anschaut, entdeckt man, dass Ihr äußerst internet-affin seid und zahlreiche Kanäle wie Euer Weblog, Twitter, RSS, Soundcloud, Newsletter und ähnliches bedient. Welche Kanäle benutzt Ihr noch und gibt es einen Trick diese gezielt zu bedienen? Wie geht Ihr dabei vor?
 {: .font-size-h4 }
 
 Außerdem sind wir noch bei den typischen Verdächtigen, ohne die es nicht geht. Das wären Myspace, Youtube und Last.fm aber auch Archive.org, ccMixter, Jamendo und Bandcamp**.** Basis ist dabei unsere eigene Seite, sie ist quasi unser virtuelles Headquarter. Dort laufen alle Fäden zusammen. Wir benutzen WordPress als CMS (Content Management System). Dieses Open Source CMS bietet unzählige hilfreiche Addons, die es ermöglichen verschiedene externe Dienste zu &#8220;bemustern&#8221;, bzw. diese zu integrieren.
 
-![]({{ site.urlimg }}interview/interview-aaahh-records-cover3d.jpg)
+![]({{ site.urlimg }}interview/interview-aaahh-records-cover3d.jpg)
 
 Allerdings ist neben der schönen Technik und deren tollen Möglichkeiten immer noch das gute alte Klinkenputzen angesagt. Unsere Promomails, die wir zur digitalen Bemusterung verschicken, kommen allesamt aus handverlesenen Kontakten. Darunter sind internationale Blogs, Radio- und TV-Stationen, Magazine und sonstige mögliche Multiplikatoren und Opinionleader. Da wir zu siebt sind, ist jeder für einige Länder verantwortlich, die er/sie eigenständig bemustert und im Fall von Feedback Ansprechpartner ist.
 
@@ -69,7 +69,7 @@ Twitter und Gedöns sind ja unterhaltsame Services&#8230; Aber bringen diese Kan
 
 Innerhalb weniger Wochen folgen uns bei Twitter mittlerweile mehrere Hundert Menschen. Diese haben sich aktiv dazu entschieden uns zu &#8220;folgen&#8221;. Das bedeutet also, dass ein gewisses Interesse daran besteht zu wissen, was bei uns so passiert. Das allein zeigt schon, dass solche Kanäle etwas bringen können. Außerdem **helfen solche kleinen Kanäle wie Twitter dabei die vorher beschriebene Nähe aufzubauen, die in der anonymen Welt des Internets für ein Label und somit auch für unsere Künstler sehr sehr wichtig ist.** All das hilft dabei persönliche Beziehungen zu Hörern aufzubauen. Und letztendlich wirken sich all diese Dinge positiv auf unseren Traffic und die Downloadzahlen aus. Seit Mai 2008 messen wir auf aaahh-records.net etwa 90.000 Visits und wir haben weit über 30.000 Downloads unserer bisher veröffentlichten Alben generiert. Das ist für ein so junges Label wie das unsere schon sehr vorzeigbar.
 
-![aaahh-records Logo]({{ site.urlimg }}interview/interview-aaahh-records-rockweb.jpg)
+![aaahh-records Logo]({{ site.urlimg }}interview/interview-aaahh-records-rockweb.jpg)
 
 
 

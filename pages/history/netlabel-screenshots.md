@@ -11,7 +11,7 @@ show_meta: false
 
 <ul class="clearing-thumbs" data-clearing>
 {% for screenshot in site.data.netlabel_screenshots %}
-  <li><a href="{{ site.url }}/archive/screenshot/{{ screenshot.image }}"><img  data-caption="{{ screenshot.caption }}" class="th" src="{{ site.url }}/archive/screenshot/{{ screenshot.image | replace: '.jpg', '-thumb.jpg' }}"></a></li>
+  <li><a href="{{ site.url }}/archive/screenshot/{{ screenshot.image }}"><img  data-caption="{{ screenshot.caption }}" class="th" src="{{ site.url }}/archive/screenshot/{{ screenshot.image | replace: '.jpg', '-thumb.jpg' }}"></a></li>
 {% endfor %}
 </ul>
 

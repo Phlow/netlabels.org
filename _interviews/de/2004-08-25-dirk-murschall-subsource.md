@@ -14,7 +14,7 @@ date: 2004-08-25
 language: de
 ---
 <figure>
-<img src="{{ site.url }}/archive/article/dirkmurschall_im_stadtanzeiger_2.jpg" alt="Subsource">
+<img src="{{ site.url }}/archive/article/dirkmurschall_im_stadtanzeiger_2.jpg" alt="Subsource">
 <figcaption>A German interview with one of the first netlabel heroes: [in]anace and his netlabel <a href="http://subsource.de">Subsource</a></figcaption>
 </figure>
 

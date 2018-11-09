@@ -29,7 +29,7 @@ Wie dem auch sei: Seine eigene Musik als Musiker in ein Genre einzuordnen ist, g
 Die Instrumente und Kompositionen Deines [Albums »I had to let God be in Control of ALL Things«][3] stammen allesamt von Dir. Bist Du [Autist][4], der alles lieber selbst macht oder magst Du andere Menschen nicht? Warum hast Du alles selbst produziert?
 {: .font-size-h4 }
 
-<img src="{{ site.urlimg }}interview/interview-marco-trovatello-jag-bass-vi-c.jpg" class="right" alt="Instrumente">
+<img src="{{ site.urlimg }}interview/interview-marco-trovatello-jag-bass-vi-c.jpg" class="right" alt="Instrumente">
 
 Ich fürchte da habe ich nur die Standard-Antwort parat, die schon viele vor mir gebracht haben: Ich fand den Prozess des Musikmachens im Bandgefüge zum Schluss echt schwierig. Tatsächlich könnte meine Musik wohl von einer Band gut gespielt werden. Beim Track »Bracers of Chaos« hätte der Gitarrist dann allerdings das Problem, dass er über weite Strecken bloß zwei Akkorde spielen müsste - was würde das wohl für die Stimmung in der Band bzw. in Bezug auf seine (oder ihre) Lust auf das Spielen dieses bestimmten Songs bedeuten? Das muss zwar nicht so sein und es gibt auch viele Ausnahmen, z.B. Musiker wie [Steve Shelley][6] von Sonic Youth oder Bands wie [To Rococo Rot][7] etc. - aber dennoch: Für mich hat das nicht mehr so funktioniert.
 
@@ -40,7 +40,7 @@ Wie kann man sich den Entstehungsprozess Deiner Songs vorstellen? Wie hast Du di
 
 Nach heutigen Maßstäben eher konventionell: Ein E-Bassgitarre, eine Akustikgitarre, eine E-Gitarre, meine geliebte [Jaguar Bass VI Custom][8], ein paar [analoge Schätzchen][9] und ein Computer mit Logic bilden das Grundgerüst. Wie schon im Promo-Text ganz schön beschrieben: An manchen Sachen habe ich ziemlich lang rumgefrickelt, andere wiederum fast in einem Rutsch eingespielt.
 
-<img src="{{ site.urlimg }}interview/interview-marco-trovatello-ms10.jpg" alt="Instrumente">
+<img src="{{ site.urlimg }}interview/interview-marco-trovatello-ms10.jpg" alt="Instrumente">
 
 **Auf Deinem Panel [»Twittern aus dem All für die digitale Öffentlichkeitsarbeit«][11] auf der republica 2012 durfte man Astronauten, die twittern kennenlernen. Beeinflusst Deine Arbeit für das [Deutsche Zentrum für Luft- und Raumfahrt][12] Deine Musik? Hat das Album kosmische Strahlung abgekommen?**
 
@@ -58,7 +58,7 @@ Bernd Wilberg und ich haben bereits 2008 als [Schmitz & Niebuhr][18] ein Album u
 
 Aber zu Deiner Frage: *Warum Creative Commons?* Ganz einfach: Die Lizenzen sind transparent und auch für Laien verständlich – und wenn’s mal hapert wird nochmal [ausführlich nachgelegt][21]. Weiterhin ist die »Vision« von Creative Commons, egal ob für den Bildungs-, Kultur- oder Wissenssektor, mehr als unterstützenswert.
 
-Und auch wenn Leute der Meinung sind, die ganze Urheberrechtsdebatte stecke in einer Sackgasse, so finde ich in Bezug auf Musik beispielsweise das – ich nenne es jetzt einfach mal so – Zoe.Leela/Tim Renner-Modell (siehe hier oder [hier][22]) oder die [C3S-Initiative][23] sehr unterstützenswert. Zoe macht zwar ziemlich Front gegen die GEMA, aber offen gesagt finde ich es wirklich wichtig, dass gerade Non-Mainstream-Musiker sich mal klar äußern und hier und da auch mal zum Aufwachen Tritte in den Allerwertesten verteilen. Ich bin da ganz bei ihr, auch wenn wir mit dem kleinen  grünen Würfel und ich mit meiner Musik überhaupt nicht in dieser Liga spiele.
+Und auch wenn Leute der Meinung sind, die ganze Urheberrechtsdebatte stecke in einer Sackgasse, so finde ich in Bezug auf Musik beispielsweise das – ich nenne es jetzt einfach mal so – Zoe.Leela/Tim Renner-Modell (siehe hier oder [hier][22]) oder die [C3S-Initiative][23] sehr unterstützenswert. Zoe macht zwar ziemlich Front gegen die GEMA, aber offen gesagt finde ich es wirklich wichtig, dass gerade Non-Mainstream-Musiker sich mal klar äußern und hier und da auch mal zum Aufwachen Tritte in den Allerwertesten verteilen. Ich bin da ganz bei ihr, auch wenn wir mit dem kleinen  grünen Würfel und ich mit meiner Musik überhaupt nicht in dieser Liga spiele.
 
 Zu meinen Job: Das war einfach eine logische Konsequenz. Das DLR ist überwiegend und das deutsche Raumfahrtprogramm komplett über öffentliche Gelder finanziert. Da lag es auf der Hand, hier die CC-BY anzuwenden. Mehr dazu habe ich [hier][24] und [hier][25] gesagt.
 

@@ -18,7 +18,7 @@ language: de
 Stellt Euch und Euren Hintergrund doch kurz mal vor? Wer steckt hinter und im breiPott?
 {: .font-size-h4 }
 
-Also, zunächst mal stecke ich, Saskia Peruza, ich hinter dem breiPott.  Im Sommer 2006 fing ich an, ein Gastro-Konzept zu entwickeln, dass es so in Berlin noch nicht gibt. Selber in einer Gastrofamilie aufgewachsen, habe ich schon immer gerne die Nacht zum Tage gemacht, Parties organisiert und ausgiebig gefeiert. Dabei und während 12 Jahren WG-Leben habe ich viele Leute kennengelernt, aus den unterschiedlichsten Bereichen, Kreisen und Szenen. Was mir wirklich liegt, sind Organisation und Stricken &#8211; und zwar das Stricken von Netzwerken. Ich kann enorm viel bewegen. Das sagen zumindest alle, die mich kennen.
+Also, zunächst mal stecke ich, Saskia Peruza, ich hinter dem breiPott.  Im Sommer 2006 fing ich an, ein Gastro-Konzept zu entwickeln, dass es so in Berlin noch nicht gibt. Selber in einer Gastrofamilie aufgewachsen, habe ich schon immer gerne die Nacht zum Tage gemacht, Parties organisiert und ausgiebig gefeiert. Dabei und während 12 Jahren WG-Leben habe ich viele Leute kennengelernt, aus den unterschiedlichsten Bereichen, Kreisen und Szenen. Was mir wirklich liegt, sind Organisation und Stricken &#8211; und zwar das Stricken von Netzwerken. Ich kann enorm viel bewegen. Das sagen zumindest alle, die mich kennen.
 
 Ohne zahlreiche Helfer wäre allerdings so ein Ding wie der breipott niemals realisierbar gewesen. Insgesamt waren und sind bisher wohl an die 100 Menschen ins Projekt involviert. Dabei gibt es einen engeren Kreis von Leuten, die mit mir den breiPott stemmen.
 

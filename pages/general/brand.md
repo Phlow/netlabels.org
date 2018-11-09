@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "Brand"
-title: "Logo, Banner and more – Brand Assets from Netlabels.org"
+title: "Logo, Banner and more – Brand Assets from Netlabels.org"
 teaser: "You want to write about us? You want to link us? You need our logo? We got you covered with our brand assets"
 permalink: "/brand/"
 header: no

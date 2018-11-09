@@ -23,7 +23,7 @@ tags:
   - pheek
   - techno
 ---
-[<img class="left" title="archipel-netlabel" src="{{ site.url }}/images/archipel-netlabel-223x249.jpg" alt="" width="223" height="249" />][1]**Freakiger Minimal Mix** &middot; Der Kanadier Pheek gehört zu der Crème der Minimal-Produzent weltweit. Seine Sound-Ästhetik klingt unglaublich deep und komplex während die Grooves technoid und stoisch grooven. Irgendwie hört sich das meist an wie ein Roboter auf Reisen. Während der Reise fliegen wir auf Halbleiterbahnen durch die CPu während allerlei klickernde Sounds an uns vorbeifliegen. Mit seinem Mix &#8220;Assignment 3&#8243; eröffnet der Labelhead hinter dem Archipel Netlabel eine neue Mix-Serie. <!--more-->
+[<img class="left" title="archipel-netlabel" src="{{ site.url }}/images/archipel-netlabel-223x249.jpg" alt="" width="223" height="249" />][1]**Freakiger Minimal Mix** &middot; Der Kanadier Pheek gehört zu der Crème der Minimal-Produzent weltweit. Seine Sound-Ästhetik klingt unglaublich deep und komplex während die Grooves technoid und stoisch grooven. Irgendwie hört sich das meist an wie ein Roboter auf Reisen. Während der Reise fliegen wir auf Halbleiterbahnen durch die CPu während allerlei klickernde Sounds an uns vorbeifliegen. Mit seinem Mix &#8220;Assignment 3&#8243; eröffnet der Labelhead hinter dem Archipel Netlabel eine neue Mix-Serie. <!--more-->
 
 
 Mit &#8220;Assignment 3: The Sound of Archipel&#8221; veröffentlicht das kanadische Archipel-Netlabel 76 verschiedene Sound-Loops von verschiedenen Künstlern.
@@ -40,5 +40,5 @@ Projekt-Webseite: <a title="archipel netlabel" href="http://archipel.cc/releases
 MP3: [Assignment 3 Mix von Pheek (145 MB MP3)  
 ][2]Netlabel: <a title="netlabel" href="http://http//archipel.cc/" target="_blank">www.archipel.cc</a>
 
- [1]: {{ site.url }}/images/archipel-netlabel.jpg
+ [1]: {{ site.url }}/images/archipel-netlabel.jpg
  [2]: http://www.archive.org/download/archmix001/archmix01-assignment3bypheek.mp3 "Mp3 Download"
