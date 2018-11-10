@@ -21,20 +21,9 @@ description: "Netlabels.org is your resource for netlabel and netaudio culture. 
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "https://netlabels.org"
+url: "http://netlabels.org"
 baseurl: ""
-
-# This is for the editing function in _/includes/improve_content.html
-# Leave it empty if your site is not on GitHub/GitHub Pages
-# improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
-
-# This URL points directly to the images directory making
-# things easier to link to images in posts and templates. It needs a slash.
-#
-# Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
-# Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
-#
-urlimg: "https://netlabels.org/images/"
+urlimg: "http://netlabels.org/images/"
 
 
 # Logo size is 600x80 pixels
