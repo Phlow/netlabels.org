@@ -21,9 +21,9 @@ description: "Netlabels.org is your resource for netlabel and netaudio culture. 
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "http://netlabels.org"
+url: "https://netlabels.org"
 baseurl: ""
-urlimg: "http://netlabels.org/images/"
+urlimg: "https://netlabels.org/images/"
 
 
 # Logo size is 600x80 pixels
