@@ -16,6 +16,3 @@ sass:
   # debug_info: true
   # FUTURE https://github.com/jekyll/jekyll-sass-converter/issues/12
   sourcemap: true
-
-# Disable when not in production
-google_analytics_tracking_id:
