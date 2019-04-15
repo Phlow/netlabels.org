@@ -9,16 +9,12 @@ permalink: "/interviews/"
 ---
 {% include alert info='If you want to contribute to our archive, please <a href="http://netlabels.org/contact/">CONTACT US</a>. We are interested in scans, flyers, portraits. In every language.' %}
 
-
-
-## DEUTSCH: Interviews und Portraits
-
-
+<h2>DEUTSCH: Interviews und Portraits</h2>
 
 <div class="row">
 <div class="medium-6 columns" markdown="1">
 
-### Netlabel Interviews
+<h3>Netlabel Interviews</h3>
 
 <ul class="side-nav">
   {% for interview in site.interviews %}
@@ -33,10 +29,8 @@ permalink: "/interviews/"
   <li>&nbsp;</li>
 </ul>
 
-
 </div><!-- /.medium-6.columns -->
 <div class="medium-6 columns" markdown="1">
-
 
 ### Netaudio Interviews
 
@@ -52,7 +46,6 @@ permalink: "/interviews/"
   {% endfor %}
   <li>&nbsp;</li>
 </ul>
-
 
 </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
