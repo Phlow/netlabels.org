@@ -94,7 +94,7 @@
 	{% elsif page.image.title %}
 		<meta property="og:image" content="{{ site.urlimg }}{{ page.image.title }}" />
 	{% else %}
-		<meta property="og:image" content="{{ site.url }}/assets/img/netlabels_org-favicon-512x.png" />
+		<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/img/netlabels_org-favicon-512x.png" />
 	{% endif %}
 
 	{% if site.alexa_verify_id %}<meta name="alexaVerifyID" content="{{ site.alexa_verify_id }}" />{% endif %}
