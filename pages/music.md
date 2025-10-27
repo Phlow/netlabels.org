@@ -15,21 +15,21 @@ show_meta: false
 <div class="medium-3 columns">
     <h2 class="b15">Filter</h2>
     <p>What kind of music do you like? Easily filter netlabels by genre.</p>
-    <a class="button radius small" href="{{ site.url }}/electronic-music/">Genre Filter ›</a>
+    <a class="button radius small" href="{{ site.url }}{{ site.baseurl }}/electronic-music/">Genre Filter ›</a>
 </div><!-- /.medium-3.columns -->
 
 
 <div class="medium-3 columns">
     <h2 class="b15">{% include count-collection-items collection='netlabels' %} Netlabels</h2>
     <p>There are currently {% include count-collection-items collection='netlabels' %} netlabels in our database.</p>
-    <a class="button radius small" href="{{ site.url }}/netlabels/">Show netlabels ›</a>
+    <a class="button radius small" href="{{ site.url }}{{ site.baseurl }}/netlabels/">Show netlabels ›</a>
 </div><!-- /.medium-3.columns -->
 
 
 <div class="medium-3 columns">
     <h2 class="b15">{% include count-collection-items collection='releases' %} Releases</h2>
     <p>There are currently {% include count-collection-items collection='releases' %} releases in our database.</p>
-    <a class="button radius small" href="{{ site.url }}/releases/">Listen to releases ›</a>
+    <a class="button radius small" href="{{ site.url }}{{ site.baseurl }}/releases/">Listen to releases ›</a>
 </div><!-- /.medium-3.columns -->
 
 
@@ -37,7 +37,7 @@ show_meta: false
 <div class="medium-3 columns">
     <h2 class="b15">{% include count-collection-items collection='reviews' %} Reviews</h2>
     <p>What do the critics say? Read one of our {% include count-collection-items collection='reviews' %} reviews.</p>
-    <a class="button radius small" href="{{ site.url }}/reviews/">Read reviews ›</a>
+    <a class="button radius small" href="{{ site.url }}{{ site.baseurl }}/reviews/">Read reviews ›</a>
 </div><!-- /.medium-3.columns -->
 
 

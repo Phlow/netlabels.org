@@ -14,12 +14,12 @@ My desire to collect information about netlabels, to get an overview of the phen
 The next step was the so-called *The Netlabel Catalogue*. Its first iteration was a CMS where I collected the information and it still was too much to do, so I made the – then clever step – and moved over to a Wiki-CMS. Like the Wikipedia, netlabels and netaudio enthusiast had the possibility now to contribute their netlabels and releases to the Netlabel Catalogue.
 
 <figure>
-    <img src="{{ site.url }}/archive/screenshot/first_wiki_netlabel_catalogue_1.png" alt="">
+    <img src="{{ site.url }}{{ site.baseurl }}/archive/screenshot/first_wiki_netlabel_catalogue_1.png" alt="">
     <figcaption>I used an unknown Wiki-CMS before I moved over to the MediaWikia CMS developped for the Wikipedia</figcaption>
 </figure>
 
 <figure>
-    <img src="{{ site.url }}/archive/screenshot/first_wiki_netlabel_catalogue_2.png" alt="">
+    <img src="{{ site.url }}{{ site.baseurl }}/archive/screenshot/first_wiki_netlabel_catalogue_2.png" alt="">
     <figcaption>The first Wiki-CMS (ComaWiki) in Edit-Mode</figcaption>
 </figure>
 

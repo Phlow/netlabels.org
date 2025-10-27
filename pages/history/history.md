@@ -73,13 +73,13 @@ Of course you can find lots of music on YouTube, too. Have a look at this [YouTu
 
 
 
- [1]: {{ site.url }}/news/start/
- [2]: {{ site.url }}/history/netlabel-screenshots/
- [3]: {{ site.url }}/contact/
- [4]: {{ site.url }}/history/netaudio-flyer/
- [5]: {{ site.url }}/interviews/
- [6]: {{ site.url }}/reviews/
- [7]: {{ site.url }}/research/
+ [1]: {{ site.url }}{{ site.baseurl }}/news/start/
+ [2]: {{ site.url }}{{ site.baseurl }}/history/netlabel-screenshots/
+ [3]: {{ site.url }}{{ site.baseurl }}/contact/
+ [4]: {{ site.url }}{{ site.baseurl }}/history/netaudio-flyer/
+ [5]: {{ site.url }}{{ site.baseurl }}/interviews/
+ [6]: {{ site.url }}{{ site.baseurl }}/reviews/
+ [7]: {{ site.url }}{{ site.baseurl }}/research/
  [8]: https://www.youtube.com/playlist?list=PLLe5RNUqyEWhZNYYJDq8T7UIjNmK63UFd
  [9]: #
  [10]: #

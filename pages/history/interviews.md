@@ -21,7 +21,7 @@ permalink: "/interviews/"
     {% unless interview.published == false %}
         {% if interview.language == 'de' %}
         {% if interview.subheadline contains 'Interview mit Netlabel' %}
-            <li><a href="{{ site.url }}{{ interview.url }}">{{ interview.title }}</a></li>
+            <li><a href="{{ site.url }}{{ site.baseurl }}{{ interview.url }}">{{ interview.title }}</a></li>
         {% endif %}
         {% endif %}
     {% endunless %}
@@ -39,7 +39,7 @@ permalink: "/interviews/"
     {% unless interview.published == false %}
         {% if interview.language == 'de' %}
         {% unless interview.subheadline contains 'Interview mit Netlabel' %}
-            <li><a href="{{ site.url }}{{ interview.url }}"><span class="subheader">{{ interview.subheadline }}</span> »{{ interview.title }}«</a></li>
+            <li><a href="{{ site.url }}{{ site.baseurl }}{{ interview.url }}"><span class="subheader">{{ interview.subheadline }}</span> »{{ interview.title }}«</a></li>
         {% endunless %}
         {% endif %}
     {% endunless %}
