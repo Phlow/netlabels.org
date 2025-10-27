@@ -25,7 +25,7 @@ format: genre
 				<span itemprop="name">
 					<p class="subheadline">
 						{% capture category %}{{ page.categories }}{% endcapture %}
-						<span class="subheader">{% unless category == page.genre %}<a href="{{ site.url }}/{{ category | replace:' ','-' }}/">{{ page.categories }}</a> ›{% endunless %} {{ page.subheadline }}</a>
+						<span class="subheader">{% unless category == page.genre %}<a href="{{ site.url }}{{ site.baseurl }}/{{ category | replace:' ','-' }}/">{{ page.categories }}</a> ›{% endunless %} {{ page.subheadline }}</a>
 					</p>
 
 					<h1>{{ page.title }}</h1>

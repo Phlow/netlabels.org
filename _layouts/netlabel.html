@@ -23,10 +23,10 @@ format: netlabel
 				{% endif %}
 
 				<span itemprop="name">
-					<p class="subheadline">{% capture category %}{{ page.categories }}{% endcapture %}<a href="{{ site.url }}/{{ category | replace:' ','-' }}/">{{ page.categories }}</a> › {% for genre in page.tags %}<a href="{{ site.url }}/{{ genre | downcase | replace:' ','-' }}/">{{ genre }}</a>{% if forloop.last != true %}– {% endif %}{% endfor %}
+					<p class="subheadline">{% capture category %}{{ page.categories }}{% endcapture %}<a href="{{ site.url }}{{ site.baseurl }}/{{ category | replace:' ','-' }}/">{{ page.categories }}</a> › {% for genre in page.tags %}<a href="{{ site.url }}{{ site.baseurl }}/{{ genre | downcase | replace:' ','-' }}/">{{ genre }}</a>{% if forloop.last != true %}– {% endif %}{% endfor %}
 					</p>
 					<h1>{{ page.netlabel_name }}</h1>
-					{% if page.netlabel_logo %}<img class="t15 b15" src="{% if page.netlabel_logo contains 'http' %}{{ page.netlabel_logo }}{% elsif page.netlabel_logo %}{{ site.url }}/images/logo/{{ page.netlabel_logo }}{% endif %}" alt="{{ page.netlabel_name }} Logo">{% endif %}
+					{% if page.netlabel_logo %}<img class="t15 b15" src="{% if page.netlabel_logo contains 'http' %}{{ page.netlabel_logo }}{% elsif page.netlabel_logo %}{{ site.url }}{{ site.baseurl }}/images/logo/{{ page.netlabel_logo }}{% endif %}" alt="{{ page.netlabel_name }} Logo">{% endif %}
 				</span>
 			</header>
 
@@ -67,7 +67,7 @@ format: netlabel
 				{% for highlight in page.highlights %}
 					{% for release in site.releases %}
 						{% if release.release_id == highlight %}
-							<li><a href="{{ site.url }}{{ release.url }}"><img src="{% if release.release_cover contains 'http' %}{{ release.release_cover }}{% elsif release.release_cover %}{{ site.url }}/images/cover/{{ release.netlabel_id }}/{{ release.release_cover }}{% endif %}" alt="Cover of {{ release.release_title }}" width="198" height="198"></a></li>
+							<li><a href="{{ site.url }}{{ site.baseurl }}{{ release.url }}"><img src="{% if release.release_cover contains 'http' %}{{ release.release_cover }}{% elsif release.release_cover %}{{ site.url }}{{ site.baseurl }}/images/cover/{{ release.netlabel_id }}/{{ release.release_cover }}{% endif %}" alt="Cover of {{ release.release_title }}" width="198" height="198"></a></li>
 						{% endif %}
 					{% endfor %}
 				{% endfor %}
@@ -81,7 +81,7 @@ format: netlabel
 				{% for release in site.releases %}
 					{% if release.netlabel_id == page.netlabel_id %}
 						{% unless release.published == false %}
-						<li><a href="{{ site.url }}{{ release.url }}"><span class="subheader">{{ release.release_id }}</span> {{ release.release_artist }} – »{{ release.release_title }}«</a></li>
+						<li><a href="{{ site.url }}{{ site.baseurl }}{{ release.url }}"><span class="subheader">{{ release.release_id }}</span> {{ release.release_artist }} – »{{ release.release_title }}«</a></li>
 						{% endunless %}
 					{% endif %}
 				{% endfor %}

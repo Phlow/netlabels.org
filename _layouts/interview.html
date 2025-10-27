@@ -23,7 +23,7 @@ format: interview
 				{% endif %}
 
 				<span itemprop="name">
-					<p class="subheadline"><a href="{{ site.url }}/interviews/">Interview</a> › {% if page.subheadline %}{{ page.subheadline }}{% endif %}</p>
+					<p class="subheadline"><a href="{{ site.url }}{{ site.baseurl }}/interviews/">Interview</a> › {% if page.subheadline %}{{ page.subheadline }}{% endif %}</p>
 					<h1>{{ page.title }}</h1>
 				</span>
 			</header>
@@ -51,7 +51,7 @@ format: interview
 			{% include comments.html %}
 			{% endif %}
 
-			<a class="radius button" href="{{ site.url }}/interviews/">More Portraits and Interviews in our Archive ›</a>
+			<a class="radius button" href="{{ site.url }}{{ site.baseurl }}/interviews/">More Portraits and Interviews in our Archive ›</a>
 		</article>
 	</div><!-- /.small-12.columns -->
 </div><!-- /.row -->
